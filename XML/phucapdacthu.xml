@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table" msprop:BaseTable.3="HUM_BOPHAN" msprop:BaseTable.4="HUM_HOPDONG" msprop:BaseTable.0="HUM_LLNV" msprop:BaseTable.5="HUM_THAYDOI_BLUONG" msprop:BaseTable.1="HUM_DMCD" msprop:BaseTable.2="HUM_DMCV">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="HO" msprop:OraDbType="119" msprop:BaseColumn="HO" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" msprop:OraDbType="119" msprop:BaseColumn="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMSINH" msprop:OraDbType="126" msprop:BaseColumn="NAMSINH" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN1" msprop:OraDbType="119" msprop:BaseColumn="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="DIENGIAI" msprop:OraDbType="119" msprop:BaseColumn="DIENGIAI" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBP" msprop:OraDbType="119" msprop:BaseColumn="TENBP" type="xs:string" minOccurs="0" />
+                <xs:element name="MANGACH" msprop:OraDbType="126" msprop:BaseColumn="MANGACH" type="xs:string" minOccurs="0" />
+                <xs:element name="LOAINGACH" msprop:OraDbType="126" msprop:BaseColumn="LOAINGACH" type="xs:string" minOccurs="0" />
+                <xs:element name="BAC" msprop:OraDbType="112" msprop:BaseColumn="BAC" type="xs:int" minOccurs="0" />
+                <xs:element name="HS_LC" msprop:OraDbType="107" msprop:BaseColumn="HS_LC" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HS_VK" msprop:OraDbType="107" msprop:BaseColumn="HS_VK" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYBNNGACH" msprop:OraDbType="106" msprop:BaseColumn="NGAYBNNGACH" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="HS_CV" msprop:OraDbType="107" msprop:BaseColumn="HS_CV" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HS_VK1" msprop:OraDbType="107" msprop:BaseColumn="HS_VK" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HS_KV" msprop:OraDbType="107" msprop:BaseColumn="HS_KV" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HS_TN" msprop:OraDbType="107" msprop:BaseColumn="HS_TN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BACMOI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_LCMOI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYGIUBAC" msprop:OraDbType="106" msprop:BaseColumn="NGAYGIUBAC" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="TO_DATE_x0028_SYSDATE_x002C__x0027_DD_x002F_MM_x002F_YYYY_x0027__x0029_" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="HS_DT" msprop:OraDbType="107" msprop:BaseColumn="HS_DT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TONGLUONG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TIENPCDT" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TONGPC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CHENHLECHHS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CHENHLECHTIEN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LUONGHD" msprop:OraDbType="107" msprop:BaseColumn="LUONGHD" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BH" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="THUCLANH" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="THANGCL" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

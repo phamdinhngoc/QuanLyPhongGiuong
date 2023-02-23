@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="LOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="C01" type="xs:string" minOccurs="0" />
+                <xs:element name="C101" type="xs:string" minOccurs="0" />
+                <xs:element name="C02" type="xs:string" minOccurs="0" />
+                <xs:element name="C102" type="xs:string" minOccurs="0" />
+                <xs:element name="C03" type="xs:string" minOccurs="0" />
+                <xs:element name="C103" type="xs:string" minOccurs="0" />
+                <xs:element name="C04" type="xs:string" minOccurs="0" />
+                <xs:element name="C104" type="xs:string" minOccurs="0" />
+                <xs:element name="C05" type="xs:string" minOccurs="0" />
+                <xs:element name="C105" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <LOAI>1</LOAI>
+    <C01 />
+    <C101>Chủ tịch hội đồng</C101>
+    <C02 />
+    <C102>Thư ký</C102>
+    <C03 />
+    <C103>Trưởng khoa Dược</C103>
+    <C04 />
+    <C104>Trưởng phòng Tài chính - Kế toán</C104>
+    <C05 />
+    <C105>Thống kê dược</C105>
+  </Table>
+  <Table>
+    <LOAI>2</LOAI>
+    <C01 />
+    <C101>Chủ tịch hội đồng</C101>
+    <C02 />
+    <C102>Thư ký</C102>
+    <C03 />
+    <C103>Trưởng khoa Dược</C103>
+    <C04 />
+    <C104>Trưởng phòng Tài chính - Kế toán</C104>
+    <C05 />
+    <C105>Thống kê dược</C105>
+  </Table>
+</NewDataSet>

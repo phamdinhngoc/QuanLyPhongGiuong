@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<thoigian_ts>
+  <xs:schema id="thoigian_ts" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="thoigian_ts" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="LOAI" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <CODE>1</CODE>
+    <LOAI>THAI NHỎ</LOAI>
+  </Table1>
+  <Table1>
+    <CODE>2</CODE>
+    <LOAI>THAI PHÔI</LOAI>
+  </Table1>
+  <Table1>
+    <CODE>3</CODE>
+    <LOAI>THAI LỚN</LOAI>
+  </Table1>
+</thoigian_ts>

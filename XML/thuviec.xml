@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="HOVATEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUYENMON" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MANGACH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="BAC" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="HESOLUONG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHOAPHONG" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="THUVIEC" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="PHAI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MADV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MACTDT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENNGACH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGUOIKY" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="XETND" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MANHOMBC" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <HOVATEN>Nguyen Minh Lai</HOVATEN>
+    <TEN>Lai</TEN>
+    <CHUYENMON>Bác sĩ CKII</CHUYENMON>
+    <MANGACH>16138</MANGACH>
+    <BAC>1</BAC>
+    <HESOLUONG>1.25</HESOLUONG>
+    <KHOAPHONG>Khoa Chuẩn đoán hình ảnh</KHOAPHONG>
+    <THUVIEC>01/01/2016</THUVIEC>
+    <MANV>00891</MANV>
+    <PHAI>Nam</PHAI>
+    <MADV>001</MADV>
+    <MACTDT>003</MACTDT>
+    <TENNGACH>Kỹ thuật viên dược</TENNGACH>
+  </Table>
+</NewDataSet>

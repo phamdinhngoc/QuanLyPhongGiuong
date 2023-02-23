@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+								<xs:element name="dk" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ma>&gt;90</ma>
+		<ten>&gt;90</ten>
+		<dk>&gt;14</dk>
+	</Table>
+	<Table>
+		<ma>&gt;59</ma>
+		<ten>&gt;=60</ten>
+		<dk>&gt;14</dk>
+	</Table>
+	<Table>
+		<ma>&gt;14</ma>
+		<ten>&gt;=15</ten>
+		<dk>&gt;14</dk>
+	</Table>
+	<Table>
+		<ma>&lt;15</ma>
+		<ten>&lt;15</ten>
+		<dk>&lt;=14</dk>
+	</Table>
+	<Table>
+		<ma>&lt;6</ma>
+		<ten>&lt;6</ten>
+		<dk>&lt;6</dk>
+	</Table>
+	<Table>
+		<ma>&lt;5</ma>
+		<ten>&lt;5</ten>
+		<dk>&lt;5</dk>
+	</Table>
+	<Table>
+		<ma>14-18</ma>
+		<ten>14-18</ten>
+		<dk>between 14 and 18</dk>
+	</Table>
+	<Table>
+		<ma>&gt;60</ma>
+		<ten>&gt;60</ten>
+		<dk>&gt;60</dk>
+	</Table>
+</NewDataSet>

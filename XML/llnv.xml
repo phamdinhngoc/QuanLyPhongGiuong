@@ -1,0 +1,150 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TENGOIKHAC" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYSINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NOISINH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="QUEQUAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TRUQUAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="PHAI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DANTOC" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TONGIAO" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCDANH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYHD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBV" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCDANH1" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGACH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="HESO" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HESO1" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYHUONG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HSCV" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HOCVAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TENCTDT" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TDQLNN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGOAINGU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TINHOC" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DUBIDANG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CHINHTHUC" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="DOAN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NHAPNGU" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="XUATNGU" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="KTKL" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CMNDSO" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CMNDNGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="SOBHXH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENDT" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MANGACH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="LAN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TO_CHAR_x0028_HD.NGAYDENCT_x002C__x0027_DD_x002F_MM_x002F_YYYY_x0027__x0029_" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="BAC" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="table1" msprop:BaseTable.0="HUM_V_QTDAOTAO">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MANV" msprop:OraDbType="126" msprop:BaseColumn="MANV" type="xs:string" minOccurs="0" />
+                <xs:element name="GHICHU" msprop:OraDbType="119" msprop:BaseColumn="GHICHU" type="xs:string" minOccurs="0" />
+                <xs:element name="MAHV" msprop:OraDbType="126" msprop:BaseColumn="MAHV" type="xs:string" minOccurs="0" />
+                <xs:element name="TENCTDT" msprop:OraDbType="119" msprop:BaseColumn="TENCTDT" type="xs:string" minOccurs="0" />
+                <xs:element name="MABANGCAP" msprop:OraDbType="119" msprop:BaseColumn="MABANGCAP" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBANG" msprop:OraDbType="119" msprop:BaseColumn="TENBANG" type="xs:string" minOccurs="0" />
+                <xs:element name="HEHOCVAN" msprop:OraDbType="119" msprop:BaseColumn="HEHOCVAN" type="xs:string" minOccurs="0" />
+                <xs:element name="TENHE" msprop:OraDbType="119" msprop:BaseColumn="TENHE" type="xs:string" minOccurs="0" />
+                <xs:element name="THANG" msprop:OraDbType="119" msprop:BaseColumn="THANG" type="xs:string" minOccurs="0" />
+                <xs:element name="TO_CHAR_x0028_TUNGAY_x002C__x0027_DD_x002F_MM_x002F_YYYY_x0027__x0029_" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TO_CHAR_x0028_DENNGAY_x002C__x0027_DD_x002F_MM_x002F_YYYY_x0027__x0029_" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="table2">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TENDT" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MADT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HTENDTG" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="PHAI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMSINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="QUEQUAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="ID" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYUD" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="NGHENGHIEP" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="GHICHU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="table3" msprop:BaseTable.0="HUM_CONGVIEC">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MANV" msprop:OraDbType="126" msprop:BaseColumn="MANV" type="xs:string" minOccurs="0" />
+                <xs:element name="NDCV" msprop:OraDbType="119" msprop:BaseColumn="NDCV" type="xs:string" minOccurs="0" />
+                <xs:element name="MADVCT" msprop:OraDbType="126" msprop:BaseColumn="MADVCT" type="xs:string" minOccurs="0" />
+                <xs:element name="MUCLUONG" msprop:OraDbType="107" msprop:BaseColumn="MUCLUONG" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYHL" msprop:OraDbType="106" msprop:BaseColumn="NGAYHL" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="MACV" msprop:OraDbType="126" msprop:BaseColumn="MACV" type="xs:string" minOccurs="0" />
+                <xs:element name="DENNGAY" msprop:OraDbType="106" msprop:BaseColumn="DENNGAY" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="NGHENGHIEP" msprop:OraDbType="119" msprop:BaseColumn="NGHENGHIEP" type="xs:string" minOccurs="0" />
+                <xs:element name="DONVI" msprop:OraDbType="119" msprop:BaseColumn="DONVI" type="xs:string" minOccurs="0" />
+                <xs:element name="GHICHU" msprop:OraDbType="119" msprop:BaseColumn="GHICHU" type="xs:string" minOccurs="0" />
+                <xs:element name="ID" msprop:OraDbType="107" msprop:BaseColumn="ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYUD" msprop:OraDbType="106" msprop:BaseColumn="NGAYUD" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="MACD" msprop:OraDbType="126" msprop:BaseColumn="MACD" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <table>
+    <MANV>00001</MANV>
+    <HOTEN>Lê Văn Hùng</HOTEN>
+    <NGAYSINH>01/11/1968</NGAYSINH>
+    <NOISINH>277 Lê Lợi - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <TRUQUAN>277 Lê Lợi - Phường Chánh Lộ - Thành phố Quảng Ngãi</TRUQUAN>
+    <PHAI>Nam</PHAI>
+    <DANTOC>*Kinh</DANTOC>
+    <TONGIAO>Không</TONGIAO>
+    <CHUCDANH>Bác Sĩ</CHUCDANH>
+    <NGAYHD>01/12/1991</NGAYHD>
+    <TENBV>Bệnh Viện Đa Khoa Tỉnh Bình Định</TENBV>
+    <CHUCDANH1>Trưởng Khoa</CHUCDANH1>
+    <NGACH>Bác sĩ chính</NGACH>
+    <HESO>4.40</HESO>
+    <HSCV>0.20</HSCV>
+    <TENCTDT>Tiến sĩ</TENCTDT>
+    <CMNDSO>211088316</CMNDSO>
+    <TENDT>*Kinh</TENDT>
+    <MANGACH>16117</MANGACH>
+    <LAN>1</LAN>
+    <TO_CHAR_x0028_HD.NGAYDENCT_x002C__x0027_DD_x002F_MM_x002F_YYYY_x0027__x0029_>01/12/1991</TO_CHAR_x0028_HD.NGAYDENCT_x002C__x0027_DD_x002F_MM_x002F_YYYY_x0027__x0029_>
+    <BAC>1</BAC>
+  </table>
+  <table1>
+    <MANV>00001</MANV>
+    <MAHV>003</MAHV>
+    <TENCTDT>Bác sĩ CKII</TENCTDT>
+    <MABANGCAP>07</MABANGCAP>
+    <TENBANG>CK II</TENBANG>
+    <HEHOCVAN>00</HEHOCVAN>
+    <TENHE>Chính qui</TENHE>
+    <THANG>Khá</THANG>
+  </table1>
+  <table1>
+    <MANV>00001</MANV>
+    <MAHV>076</MAHV>
+    <MABANGCAP>15</MABANGCAP>
+    <TENBANG>Cao Cấp Chính Trị</TENBANG>
+    <HEHOCVAN>02</HEHOCVAN>
+    <TENHE>Tại chức</TENHE>
+  </table1>
+</NewDataSet>

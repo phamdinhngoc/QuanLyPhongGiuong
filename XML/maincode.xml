@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <Con />
+    <Ip>10.0.2.11</Ip>
+    <Post>1521</Post>
+    <UserID>system</UserID>
+    <Password>his123456789</Password>
+    <User>histest</User>
+    <Database>his.pro</Database>
+    <Mabv></Mabv>
+    <Tenbv>Phòng Khám Đa Khoa Domedic</Tenbv>
+    <Syte>Sở Y Tế Tỉnh Bình Phước</Syte>
+    <Diachi />
+    <Dienthoai />
+    <Fox />
+    <xxxx />
+    <xxxxx />
+    <Madvqhns />
+  </Row>
+</Import>

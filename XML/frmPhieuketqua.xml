@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CHKDOCMAVACH_STT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKDOCMAVACH_MABN" type="xs:string" minOccurs="0" />
+                <xs:element name="MAMAY" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKAUTOTXT" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTTIMERTXT" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTTIMERLIS" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKPREVIEW" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKLUUIN" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTTHUMUCAUTOTEXT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKXUATLCD" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKXOAKTV" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKAUTODMSPRO" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTTHUMUCDMSPRO" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTTIMERDMSPRO" type="xs:string" minOccurs="0" />
+                <xs:element name="CBOMAYDMSPRO" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTDMSPRO_VTBATDAU" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKDMSPRO_TUDONGIN" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKINCHUKY" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTMABSKY" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKBIOLIS24I" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKA15" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKCA270" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTCA270" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKAUTO_LIS" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKCA180" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTCA180" type="xs:string" minOccurs="0" />
+                <xs:element name="CBOMAYXN" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKHIENKETQUADUONG" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKBS200" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTBS200" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONGMOI" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKFOCUSIN" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKSIZE_KETQUA" type="xs:string" minOccurs="0" />
+                <xs:element name="NUMWKETQUA" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKGOTAT" type="xs:string" minOccurs="0" />
+                <xs:element name="DGKETQUAPREVIEW" type="xs:string" minOccurs="0" />
+                <xs:element name="CBPRINT" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTDRAUTOTEST" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKDRAUTOTEST" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <CHKDOCMAVACH_STT>1</CHKDOCMAVACH_STT>
+    <CHKDOCMAVACH_MABN>0</CHKDOCMAVACH_MABN>
+    <CHKAUTOTXT>0</CHKAUTOTXT>
+    <TXTTIMERTXT>1000</TXTTIMERTXT>
+    <TXTTIMERLIS>1000</TXTTIMERLIS>
+    <CHKPREVIEW>1</CHKPREVIEW>
+    <CHKLUUIN>0</CHKLUUIN>
+    <TXTTHUMUCAUTOTEXT />
+    <CHKXUATLCD>0</CHKXUATLCD>
+    <CHKXOAKTV>0</CHKXOAKTV>
+    <CHKAUTODMSPRO>0</CHKAUTODMSPRO>
+    <TXTTHUMUCDMSPRO />
+    <TXTTIMERDMSPRO>1000</TXTTIMERDMSPRO>
+    <CBOMAYDMSPRO />
+    <TXTDMSPRO_VTBATDAU>9</TXTDMSPRO_VTBATDAU>
+    <CHKDMSPRO_TUDONGIN>0</CHKDMSPRO_TUDONGIN>
+    <CHKINCHUKY>1</CHKINCHUKY>
+    <TXTMABSKY>0001</TXTMABSKY>
+    <CHKBIOLIS24I>0</CHKBIOLIS24I>
+    <CHKA15>0</CHKA15>
+    <CHKCA270>0</CHKCA270>
+    <TXTCA270 />
+    <CHKAUTO_LIS>0</CHKAUTO_LIS>
+    <CHKCA180>0</CHKCA180>
+    <TXTCA180 />
+    <CBOMAYXN>0</CBOMAYXN>
+    <CHKHIENKETQUADUONG>0</CHKHIENKETQUADUONG>
+    <CHKBS200>0</CHKBS200>
+    <TXTBS200 />
+    <CHKTUDONGMOI>0</CHKTUDONGMOI>
+    <CHKFOCUSIN>1</CHKFOCUSIN>
+    <CHKSIZE_KETQUA>0</CHKSIZE_KETQUA>
+    <NUMWKETQUA>70</NUMWKETQUA>
+    <CHKGOTAT>1</CHKGOTAT>
+    <DGKETQUAPREVIEW>797</DGKETQUAPREVIEW>
+    <TXTDRAUTOTEST>D:\Source\Mysource_dangdung\mysource\Hospital.Information.System\Hospital Information System\drAutoTest.mdb</TXTDRAUTOTEST>
+    <CHKDRAUTOTEST>0</CHKDRAUTOTEST>
+  </Table>
+</NewDataSet>

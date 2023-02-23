@@ -1,0 +1,536 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<Table>
+		<ten_dt>Các cơ quan, đơn vị hành chính sự nghiệp, Đảng, Đoàn thể (A1,AL,AV,IA)</ten_dt>
+		<ma_dt>'A1','AL','AV','IA'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>1</loai_moi>
+		<tenloai_moi>NHÓM 1</tenloai_moi>
+		<ma_13>A1,AL,AV,IA</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Các doanh nghiệp (B1,B2,B3,BL,BV)</ten_dt>
+		<ma_dt>'B1','B2','B3','BL','BV'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>1</loai_moi>
+		<tenloai_moi>NHÓM 1</tenloai_moi>
+		<ma_13>B1,B2,B3,BL,BV</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Hợp tác xã, cơ sở bán công, dân lập, tư nhân, và tổ chức khác (C1,C2,C3,C4,CL,CV)</ten_dt>
+		<ma_dt>'C1','C2','C3','C4','CL','CV'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>1</loai_moi>
+		<tenloai_moi>NHÓM 1</tenloai_moi>
+		<ma_13>C1,C2,C3,C4,CL,CV</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>ĐB quốc hội, hội đồng nhân dân (D1,DV)</ten_dt>
+		<ma_dt>'D1','DV'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>1</loai_moi>
+		<tenloai_moi>NHÓM 1</tenloai_moi>
+		<ma_13>D1,DV</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Thân nhân sĩ quan (D2,D3)</ten_dt>
+		<ma_dt>'D2','D3'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>D2,D3</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Cựu chiến binh (D4)</ten_dt>
+		<ma_dt>'D4'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>D4</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Lưu học sinh (D5)</ten_dt>
+		<ma_dt>'D5'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>5</loai_moi>
+		<tenloai_moi>NHÓM 5</tenloai_moi>
+		<ma_13>D5</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người có công (EL,ES)</ten_dt>
+		<ma_dt>'EL','ES'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>EL,ES</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Chất độc hóa học (FL)</ten_dt>
+		<ma_dt>'FL'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>FL</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Bảo trợ xã hội (GL)</ten_dt>
+		<ma_dt>'GL'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>GL</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Đối tượng đang hưởng BHXH hàng tháng (HL)</ten_dt>
+		<ma_dt>'HL'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>HN,HL</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người cao tuổi (IS,IL)</ten_dt>
+		<ma_dt>'IS','IL'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Bắt buộc (A,B..F,I)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>IS,IL</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người nghèo (JL)</ten_dt>
+		<ma_dt>'JL'</ma_dt>
+		<loai>1</loai>
+		<tenth>BB</tenth>
+		<viettat>Người nghèo (JL)</viettat>
+		<sttien>0</sttien>
+		<stt_inth>2</stt_inth>
+		<stt_moi>2</stt_moi>
+		<loai_moi>3</loai_moi>
+		<tenloai_moi>NHÓM 3</tenloai_moi>
+		<ma_13>JL</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Thành viên trong hộ gia đình (TC,T1,T3,T4)</ten_dt>
+		<ma_dt>'TC','T1','T3','T4'</ma_dt>
+		<loai>2</loai>
+		<tenth>TN</tenth>
+		<viettat>Tự nguyện nhân dân (TC,UC,XC,YC,T1,T3,T4)</viettat>
+		<sttien>100000</sttien>
+		<stt_inth>4</stt_inth>
+		<stt_moi>4</stt_moi>
+		<loai_moi>6</loai_moi>
+		<tenloai_moi>NHÓM 6</tenloai_moi>
+		<ma_13>TC,T1,T3,T4</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Học sinh, sinh viên (UC,T2)</ten_dt>
+		<ma_dt>'UC','T2'</ma_dt>
+		<loai>2</loai>
+		<tenth>TN</tenth>
+		<viettat>Học sinh, sinh viên (UC,T2)</viettat>
+		<sttien>100000</sttien>
+		<stt_inth>3</stt_inth>
+		<stt_moi>3</stt_moi>
+		<loai_moi>5</loai_moi>
+		<tenloai_moi>NHÓM 5</tenloai_moi>
+		<ma_13>UC,T2</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Cán bộ dân số gia đình và trẻ em xã, phường thị trấn (VC,XC,YC)</ten_dt>
+		<ma_dt>'VC','XC','YC'</ma_dt>
+		<loai>2</loai>
+		<tenth>TN</tenth>
+		<viettat>Tự nguyện nhân dân (TC,UC,XC,YC)</viettat>
+		<sttien>100000</sttien>
+		<stt_inth>4</stt_inth>
+		<stt_moi>4</stt_moi>
+		<loai_moi>6</loai_moi>
+		<tenloai_moi>NHÓM 6</tenloai_moi>
+		<ma_13>VC,XC,YC</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Doanh nghiệp ... (DN,HX,CH,NN,TK,HC,XK)</ten_dt>
+		<ma_dt>'DN','HX','CH','NN','TK','HC','XK'</ma_dt>
+		<loai>1</loai>
+		<tenth>N1</tenth>
+		<viettat>NHÓM 1</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>1</stt_inth>
+		<stt_moi>1</stt_moi>
+		<loai_moi>1</loai_moi>
+		<tenloai_moi>NHÓM 1</tenloai_moi>
+		<ma_13>DN,HX,CH,NN,TK,HC,XK</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Công an (CA)</ten_dt>
+		<ma_dt>'CA'</ma_dt>
+		<loai>1</loai>
+		<tenth>N1</tenth>
+		<viettat>NHÓM 1</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>2</stt_inth>
+		<stt_moi>2</stt_moi>
+		<loai_moi>1</loai_moi>
+		<tenloai_moi>NHÓM 1</tenloai_moi>
+		<ma_13>CA</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Hưu trí mất sức (HT)</ten_dt>
+		<ma_dt>'HT'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 1</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>3</stt_inth>
+		<stt_moi>3</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>HT</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người hưởng trợ cấp tai nạn, bệnh NN (TB)</ten_dt>
+		<ma_dt>'TB'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>4</stt_inth>
+		<stt_moi>4</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>TB</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người hưởng trợ cấp từ NS, công nhân cao su nghỉ việc (MS)</ten_dt>
+		<ma_dt>'MS'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>5</stt_inth>
+		<stt_moi>5</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>MS</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Cán bộ XP hưởng trợ cấp từ BHXH (XB)</ten_dt>
+		<ma_dt>'XB'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>6</stt_inth>
+		<stt_moi>6</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>XB</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Cán bộ XP hưởng trợ cấp từ ngân sách (XN)</ten_dt>
+		<ma_dt>'XN'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>7</stt_inth>
+		<stt_moi>7</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>XN</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người hưởng trợ cấp thất nghiệp (TN)</ten_dt>
+		<ma_dt>'TN'</ma_dt>
+		<loai>1</loai>
+		<tenth>N1</tenth>
+		<viettat>NHÓM 1</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>8</stt_inth>
+		<stt_moi>8</stt_moi>
+		<loai_moi>1</loai_moi>
+		<tenloai_moi>NHÓM 1</tenloai_moi>
+		<ma_13>TN</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Bà mẹ VNAH, lão thành CM, thương bệnh binh 81% có công khác (CC,CK)</ten_dt>
+		<ma_dt>'CC','CK'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>9</stt_inth>
+		<stt_moi>9</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>CC,CK</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Cựu chiến binh, TNXP chống pháp (CB)</ten_dt>
+		<ma_dt>'CB'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>10</stt_inth>
+		<stt_moi>10</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>CB</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người tham gia kháng chiến chống Mỹ (KC)</ten_dt>
+		<ma_dt>'KC'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>11</stt_inth>
+		<stt_moi>11</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>KC</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Đại biểu QH, HĐND đương nhiệm (HD)</ten_dt>
+		<ma_dt>'HD'</ma_dt>
+		<loai>1</loai>
+		<tenth>N1</tenth>
+		<viettat>NHÓM 1</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>12</stt_inth>
+		<stt_moi>12</stt_moi>
+		<loai_moi>1</loai_moi>
+		<tenloai_moi>NHÓM 1</tenloai_moi>
+		<ma_13>HD</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người hưởng trợ cấp bảo trợ Xã hội (BT)</ten_dt>
+		<ma_dt>'BT'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>13</stt_inth>
+		<stt_moi>13</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>BT</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người thuộc hộ nghèo, dân tộc thiểu số (HN)</ten_dt>
+		<ma_dt>'HN'</ma_dt>
+		<loai>3</loai>
+		<tenth>N3</tenth>
+		<viettat>NHÓM 3</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>14</stt_inth>
+		<stt_moi>14</stt_moi>
+		<loai_moi>3</loai_moi>
+		<tenloai_moi>NHÓM 3</tenloai_moi>
+		<ma_13>HN</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Thân nhân người có công (TC)</ten_dt>
+		<ma_dt>'TC'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>15</stt_inth>
+		<stt_moi>15</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>TC</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Thân nhân SQ, hạ SQ... (TQ,TA,TY)</ten_dt>
+		<ma_dt>'TQ','TA','TY'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>16</stt_inth>
+		<stt_moi>16</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>TQ,TA,TY</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Trẻ em dưới 6T (TE)</ten_dt>
+		<ma_dt>'TE'</ma_dt>
+		<loai>4</loai>
+		<tenth>N4</tenth>
+		<viettat>NHÓM 4</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>17</stt_inth>
+		<stt_moi>17</stt_moi>
+		<loai_moi>4</loai_moi>
+		<tenloai_moi>NHÓM 4</tenloai_moi>
+		<ma_13>TE</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người hiến tạng (HG)</ten_dt>
+		<ma_dt>'HG'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>18</stt_inth>
+		<stt_moi>18</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>HG</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người nước ngoài đang học tại việt nam (LS)</ten_dt>
+		<ma_dt>'LS'</ma_dt>
+		<loai>5</loai>
+		<tenth>N5</tenth>
+		<viettat>NHÓM 5</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>19</stt_inth>
+		<stt_moi>19</stt_moi>
+		<loai_moi>5</loai_moi>
+		<tenloai_moi>NHÓM 5</tenloai_moi>
+		<ma_13>LS</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người thuộc hộ cận nghèo (CN)</ten_dt>
+		<ma_dt>'CN'</ma_dt>
+		<loai>3</loai>
+		<tenth>N3</tenth>
+		<viettat>NHÓM 3</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>20</stt_inth>
+		<stt_moi>20</stt_moi>
+		<loai_moi>3</loai_moi>
+		<tenloai_moi>NHÓM 3</tenloai_moi>
+		<ma_13>CN</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Học sinh sinh viên (HS)</ten_dt>
+		<ma_dt>'HS'</ma_dt>
+		<loai>5</loai>
+		<tenth>N5</tenth>
+		<viettat>NHÓM 5</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>21</stt_inth>
+		<stt_moi>21</stt_moi>
+		<loai_moi>5</loai_moi>
+		<tenloai_moi>NHÓM 5</tenloai_moi>
+		<ma_13>HS</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người thuộc hộ gia đình nông, lâm, ngư, diêm nghiệp (GD)</ten_dt>
+		<ma_dt>'GD'</ma_dt>
+		<loai>6</loai>
+		<tenth>N6</tenth>
+		<viettat>NHÓM 6</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>22</stt_inth>
+		<stt_moi>22</stt_moi>
+		<loai_moi>6</loai_moi>
+		<tenloai_moi>NHÓM 6</tenloai_moi>
+		<ma_13>GD</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Thân nhân người lao động (TL)</ten_dt>
+		<ma_dt>'TL'</ma_dt>
+		<loai>6</loai>
+		<tenth>N6</tenth>
+		<viettat>NHÓM 6</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>23</stt_inth>
+		<stt_moi>23</stt_moi>
+		<loai_moi>6</loai_moi>
+		<tenloai_moi>NHÓM 6</tenloai_moi>
+		<ma_13>TL</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Xã viên HTX, hộ kinh doanh cá thể (XV)</ten_dt>
+		<ma_dt>'XV'</ma_dt>
+		<loai>6</loai>
+		<tenth>N6</tenth>
+		<viettat>NHÓM 6</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>24</stt_inth>
+		<stt_moi>24</stt_moi>
+		<loai_moi>6</loai_moi>
+		<tenloai_moi>NHÓM 6</tenloai_moi>
+		<ma_13>XV</ma_13>
+	</Table>
+	<Table>
+		<ten_dt>Người bị bệnh dài ngày (NO)</ten_dt>
+		<ma_dt>'NO'</ma_dt>
+		<loai>2</loai>
+		<tenth>N2</tenth>
+		<viettat>NHÓM 2</viettat>
+		<sttien>97500</sttien>
+		<stt_inth>25</stt_inth>
+		<stt_moi>25</stt_moi>
+		<loai_moi>2</loai_moi>
+		<tenloai_moi>NHÓM 2</tenloai_moi>
+		<ma_13>NO</ma_13>
+	</Table>
+</NewDataSet>

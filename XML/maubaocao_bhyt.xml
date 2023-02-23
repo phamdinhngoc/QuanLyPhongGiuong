@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="BHXH">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="id" type="xs:int" minOccurs="0" />
+                <xs:element name="loai" type="xs:int" minOccurs="0" />
+                <xs:element name="ma" type="xs:string" minOccurs="0" />
+                <xs:element name="ten" type="xs:string" minOccurs="0" />
+                <xs:element name="readonly" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BHXH>
+    <id>3</id>
+    <loai>0</loai>
+    <ma>tenbv</ma>
+    <ten>Tổng hợp theo nhóm đơn vị báo cáo BHYT</ten>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>1</id>
+    <loai>0</loai>
+    <ma />
+    <ten>Chi tiết</ten>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>2</id>
+    <loai>0</loai>
+    <ma>th</ma>
+    <ten>Tổng hợp chung</ten>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>4</id>
+    <loai>0</loai>
+    <ma>noikcb</ma>
+    <ten>Tổng hợp theo nơi đăng kí KCB</ten>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>1</id>
+    <loai>1</loai>
+    <ma />
+    <ten>Chi tiết</ten>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>2</id>
+    <loai>1</loai>
+    <ma>th</ma>
+    <ten>Tổng hợp chung</ten>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>1</id>
+    <loai>2</loai>
+    <ma />
+    <ten>Chi tiết</ten>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>2</id>
+    <loai>2</loai>
+    <ma>th</ma>
+    <ten>Tổng hợp chung</ten>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>1</id>
+    <loai>3</loai>
+    <ma />
+    <ten>Chi tiết</ten>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>2</id>
+    <loai>3</loai>
+    <ma>th</ma>
+    <ten>Tổng hợp chung</ten>
+    <readonly>1</readonly>
+  </BHXH>
+</NewDataSet>

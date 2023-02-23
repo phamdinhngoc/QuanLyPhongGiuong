@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="stt" type="xs:string" minOccurs="0" />
+								<xs:element name="nhom" type="xs:string" minOccurs="0" />
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<stt>01</stt>
+		<nhom>01</nhom>
+		<ma>A00</ma>
+		<ten>Tả</ten>
+	</Table>
+	<Table>
+		<stt>02</stt>
+		<nhom>02</nhom>
+		<ma>A01</ma>
+		<ten>Thương hàn và phó thương hàn</ten>
+	</Table>
+	<Table>
+		<stt>03</stt>
+		<nhom>03</nhom>
+		<ma>A03</ma>
+		<ten>Lỵ trực trùng</ten>
+	</Table>
+	<Table>
+		<stt>04</stt>
+		<nhom>04</nhom>
+		<ma>A06</ma>
+		<ten>Lỵ amid</ten>
+	</Table>
+	<Table>
+		<stt>05</stt>
+		<nhom>05</nhom>
+		<ma></ma>
+		<ten>Hội chứng lỵ</ten>
+	</Table>
+	<Table>
+		<stt>06</stt>
+		<nhom>06</nhom>
+		<ma>A09</ma>
+		<ten>Tiêu chảy</ten>
+	</Table>
+	<Table>
+		<stt>07</stt>
+		<nhom>07</nhom>
+		<ma>A83-A89</ma>
+		<ten>Viêm não vi rút</ten>
+	</Table>
+	<Table>
+		<stt>08</stt>
+		<nhom>08</nhom>
+		<ma>A90,A91</ma>
+		<ten>Sốt Dengue/Sốt XH Dengue</ten>
+	</Table>
+	<Table>
+		<stt>09</stt>
+		<nhom>09</nhom>
+		<ma>B15-B19</ma>
+		<ten>Viêm gan vi rút A,B,C,D,E</ten>
+	</Table>
+	<Table>
+		<stt>10</stt>
+		<nhom>10</nhom>
+		<ma>B82</ma>
+		<ten>Bệnh dại</ten>
+	</Table>
+	<Table>
+		<stt>11</stt>
+		<nhom>11</nhom>
+		<ma>A39.0</ma>
+		<ten>Viêm màng não do não mô cầu</ten>
+	</Table>
+	<Table>
+		<stt>12</stt>
+		<nhom>12</nhom>
+		<ma>B01,B02</ma>
+		<ten>Thủy đậu - Zone</ten>
+	</Table>
+	<Table>
+		<stt>13</stt>
+		<nhom>13</nhom>
+		<ma>A36</ma>
+		<ten>Bạch cầu</ten>
+	</Table>
+	<Table>
+		<stt>14</stt>
+		<nhom>14</nhom>
+		<ma>A37</ma>
+		<ten>Ho gà</ten>
+	</Table>
+	<Table>
+		<stt>15</stt>
+		<nhom>15</nhom>
+		<ma>A33</ma>
+		<ten>Uốn ván sơ sinh</ten>
+	</Table>
+	<Table>
+		<stt>16</stt>
+		<nhom>16</nhom>
+		<ma>A35</ma>
+		<ten>Uốn ván khác</ten>
+	</Table>
+	<Table>
+		<stt>17</stt>
+		<nhom>17</nhom>
+		<ma>A80</ma>
+		<ten>Liệt mềm cấp nghi bại liệt</ten>
+	</Table>
+	<Table>
+		<stt>18</stt>
+		<nhom>18</nhom>
+		<ma>B05</ma>
+		<ten>Sởi</ten>
+	</Table>
+	<Table>
+		<stt>19</stt>
+		<nhom>19</nhom>
+		<ma>B26</ma>
+		<ten>Quai bị</ten>
+	</Table>
+	<Table>
+		<stt>20</stt>
+		<nhom>20</nhom>
+		<ma>J10,J11</ma>
+		<ten>Cúm</ten>
+	</Table>
+	<Table>
+		<stt>21</stt>
+		<nhom>21</nhom>
+		<ma>B30</ma>
+		<ten>APC-Adeno vi rút</ten>
+	</Table>
+	<Table>
+		<stt>22</stt>
+		<nhom>22</nhom>
+		<ma>B20</ma>
+		<ten>Dịch hạch</ten>
+	</Table>
+	<Table>
+		<stt>23</stt>
+		<nhom>23</nhom>
+		<ma>B22</ma>
+		<ten>Than</ten>
+	</Table>
+	<Table>
+		<stt>24</stt>
+		<nhom>24</nhom>
+		<ma>A27</ma>
+		<ten>Leptospira</ten>
+	</Table>
+	<Table>
+		<stt>25</stt>
+		<nhom>25</nhom>
+		<ma>B20-B24</ma>
+		<ten>HIV/AIDS</ten>
+	</Table>
+	<Table>
+		<stt>26</stt>
+		<nhom>26</nhom>
+		<ma>B50-B54</ma>
+		<ten>Sốt rét</ten>
+	</Table>
+	<Table>
+		<stt>27</stt>
+		<nhom>27</nhom>
+		<ma>?</ma>
+		<ten>Khác</ten>
+	</Table>
+</NewDataSet>

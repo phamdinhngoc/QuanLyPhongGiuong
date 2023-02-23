@@ -1,0 +1,173 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="COUNT_x0028_L.MANV_x0029_" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_GS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_PGS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_TS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_THACS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_CK2" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_CK1" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_BACSI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="YSDT" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_GS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_PGS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_TS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_THACS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_CK2" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_CK1" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_DAIHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_TRUNGHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_SOHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DD_THACS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DD_DAIHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DD_CAODANG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DD_TRUNGHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DD_SOHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHS_THACS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHS_DAIHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHS_CAODANG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHS_TRUNGHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHS_SOHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KY_THACS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KY_DAIHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KY_CAODANG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KY_TRUNGHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KY_SOHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HLYC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC_THACS" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC_DAIHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC_CAODANG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC_TRUNGHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC_SOHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_GS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_PGS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_TS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_THACS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_CK2_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_CK1_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Y_BACSI_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="YSDT_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_GS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_PGS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_TS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_THACS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_CK2_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_CK1_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_DAIHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_TRUNGHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="D_SOHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DD_THACS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DD_DAIHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DD_CAODANG_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DD_TRUNGHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DD_SOHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHS_THACS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHS_DAIHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHS_CAODANG_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHS_TRUNGHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NHS_SOHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KY_THACS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KY_DAIHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KY_CAODANG_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KY_TRUNGHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KY_SOHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HLYC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC_THACS_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC_DAIHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC_CAODANG_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC_TRUNGHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC_SOHOC_HD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <COUNT_x0028_L.MANV_x0029_>283</COUNT_x0028_L.MANV_x0029_>
+    <Y_GS>0</Y_GS>
+    <Y_PGS>0</Y_PGS>
+    <Y_TS>0</Y_TS>
+    <Y_THACS>0</Y_THACS>
+    <Y_CK2>0</Y_CK2>
+    <Y_CK1>0</Y_CK1>
+    <Y_BACSI>0</Y_BACSI>
+    <YSDT>0</YSDT>
+    <D_GS>0</D_GS>
+    <D_PGS>0</D_PGS>
+    <D_TS>0</D_TS>
+    <D_THACS>0</D_THACS>
+    <D_CK2>0</D_CK2>
+    <D_CK1>0</D_CK1>
+    <D_DAIHOC>0</D_DAIHOC>
+    <D_TRUNGHOC>0</D_TRUNGHOC>
+    <D_SOHOC>0</D_SOHOC>
+    <DD_THACS>0</DD_THACS>
+    <DD_DAIHOC>0</DD_DAIHOC>
+    <DD_CAODANG>0</DD_CAODANG>
+    <DD_TRUNGHOC>0</DD_TRUNGHOC>
+    <DD_SOHOC>0</DD_SOHOC>
+    <NHS_THACS>0</NHS_THACS>
+    <NHS_DAIHOC>0</NHS_DAIHOC>
+    <NHS_CAODANG>0</NHS_CAODANG>
+    <NHS_TRUNGHOC>0</NHS_TRUNGHOC>
+    <NHS_SOHOC>0</NHS_SOHOC>
+    <KY_THACS>0</KY_THACS>
+    <KY_DAIHOC>0</KY_DAIHOC>
+    <KY_CAODANG>0</KY_CAODANG>
+    <KY_TRUNGHOC>0</KY_TRUNGHOC>
+    <KY_SOHOC>0</KY_SOHOC>
+    <HLYC>0</HLYC>
+    <KHAC_THACS>0</KHAC_THACS>
+    <KHAC_DAIHOC>0</KHAC_DAIHOC>
+    <KHAC_CAODANG>0</KHAC_CAODANG>
+    <KHAC_TRUNGHOC>0</KHAC_TRUNGHOC>
+    <KHAC_SOHOC>0</KHAC_SOHOC>
+    <Y_GS_HD>0</Y_GS_HD>
+    <Y_PGS_HD>0</Y_PGS_HD>
+    <Y_TS_HD>0</Y_TS_HD>
+    <Y_THACS_HD>0</Y_THACS_HD>
+    <Y_CK2_HD>0</Y_CK2_HD>
+    <Y_CK1_HD>0</Y_CK1_HD>
+    <Y_BACSI_HD>0</Y_BACSI_HD>
+    <YSDT_HD>0</YSDT_HD>
+    <D_GS_HD>0</D_GS_HD>
+    <D_PGS_HD>0</D_PGS_HD>
+    <D_TS_HD>0</D_TS_HD>
+    <D_THACS_HD>0</D_THACS_HD>
+    <D_CK2_HD>0</D_CK2_HD>
+    <D_CK1_HD>0</D_CK1_HD>
+    <D_DAIHOC_HD>0</D_DAIHOC_HD>
+    <D_TRUNGHOC_HD>0</D_TRUNGHOC_HD>
+    <D_SOHOC_HD>0</D_SOHOC_HD>
+    <DD_THACS_HD>0</DD_THACS_HD>
+    <DD_DAIHOC_HD>0</DD_DAIHOC_HD>
+    <DD_CAODANG_HD>0</DD_CAODANG_HD>
+    <DD_TRUNGHOC_HD>0</DD_TRUNGHOC_HD>
+    <DD_SOHOC_HD>0</DD_SOHOC_HD>
+    <NHS_THACS_HD>0</NHS_THACS_HD>
+    <NHS_DAIHOC_HD>0</NHS_DAIHOC_HD>
+    <NHS_CAODANG_HD>0</NHS_CAODANG_HD>
+    <NHS_TRUNGHOC_HD>0</NHS_TRUNGHOC_HD>
+    <NHS_SOHOC_HD>0</NHS_SOHOC_HD>
+    <KY_THACS_HD>0</KY_THACS_HD>
+    <KY_DAIHOC_HD>0</KY_DAIHOC_HD>
+    <KY_CAODANG_HD>0</KY_CAODANG_HD>
+    <KY_TRUNGHOC_HD>0</KY_TRUNGHOC_HD>
+    <KY_SOHOC_HD>0</KY_SOHOC_HD>
+    <HLYC_HD>0</HLYC_HD>
+    <KHAC_THACS_HD>0</KHAC_THACS_HD>
+    <KHAC_DAIHOC_HD>0</KHAC_DAIHOC_HD>
+    <KHAC_CAODANG_HD>0</KHAC_CAODANG_HD>
+    <KHAC_TRUNGHOC_HD>0</KHAC_TRUNGHOC_HD>
+    <KHAC_SOHOC_HD>0</KHAC_SOHOC_HD>
+  </Table>
+</NewDataSet>

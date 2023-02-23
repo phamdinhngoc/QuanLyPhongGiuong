@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="loaipttt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="loai" type="xs:string" minOccurs="0" />
+                <xs:element name="tenloai" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <loaipttt>
+    <loai>db</loai>
+    <tenloai>Đặc biệt</tenloai>
+  </loaipttt>
+  <loaipttt>
+    <loai>l1</loai>
+    <tenloai>Loại 1</tenloai>
+  </loaipttt>
+  <loaipttt>
+    <loai>l2</loai>
+    <tenloai>Loại 2</tenloai>
+  </loaipttt>
+  <loaipttt>
+    <loai>l3</loai>
+    <tenloai>Loại 3</tenloai>
+  </loaipttt>
+</NewDataSet>

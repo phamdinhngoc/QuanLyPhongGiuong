@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="NGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYHEN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="GHICHU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="SONGAY" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="LOAI" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="LOAIHEN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENKP" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MABN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="PHAI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMSINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="DIACHI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NHA" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="COQUAN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="EMAIL" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DIDONG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBS" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <NGAY>25/07/2015 08:37</NGAY>
+    <NGAYHEN>26/07/2015</NGAYHEN>
+    <SONGAY>1</SONGAY>
+    <LOAI>1</LOAI>
+    <LOAIHEN>1 ngày</LOAIHEN>
+    <TENKP>Khám nội 1</TENKP>
+    <MABN>15016386</MABN>
+    <HOTEN>TEST HEN</HOTEN>
+    <PHAI>Nam</PHAI>
+    <NAMSINH>1970</NAMSINH>
+    <DIACHI>Không xác định Không xác định Quảng Nam</DIACHI>
+    <NHA>DTNHA</NHA>
+    <COQUAN>CO QUAN</COQUAN>
+    <EMAIL>EMAIL</EMAIL>
+    <DIDONG>DI DONG</DIDONG>
+    <TENBS>Huỳnh Thị Minh Nguyệt</TENBS>
+  </Table>
+</NewDataSet>

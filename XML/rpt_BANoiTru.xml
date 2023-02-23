@@ -1,0 +1,210 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="LyDoVaoVien" type="xs:string" minOccurs="0" />
+                <xs:element name="LyDoVaoVienvaoNgayThu" type="xs:string" minOccurs="0" />
+                <xs:element name="KhoiPhatDienBien" type="xs:string" minOccurs="0" />
+                <xs:element name="TrieuChungKemTheo" type="xs:string" minOccurs="0" />
+                <xs:element name="SoCuuXuTriTuyenTruoc" type="xs:string" minOccurs="0" />
+                <xs:element name="BenhSu" type="xs:string" minOccurs="0" />
+                <xs:element name="TheLucTuNhoDenNay" type="xs:string" minOccurs="0" />
+                <xs:element name="BenhMacVaPhuongPhapDieuTri" type="xs:string" minOccurs="0" />
+                <xs:element name="DiUng" type="xs:string" minOccurs="0" />
+                <xs:element name="YeuToKhoiPhat" type="xs:string" minOccurs="0" />
+                <xs:element name="MucDo" type="xs:string" minOccurs="0" />
+                <xs:element name="BenhDaMac" type="xs:string" minOccurs="0" />
+                <xs:element name="BenhLienQuanDiUng" type="xs:string" minOccurs="0" />
+                <xs:element name="ConThu1" type="xs:string" minOccurs="0" />
+                <xs:element name="ConThu2" type="xs:string" minOccurs="0" />
+                <xs:element name="TienThai1" type="xs:string" minOccurs="0" />
+                <xs:element name="TienThai2" type="xs:string" minOccurs="0" />
+                <xs:element name="TienThai3" type="xs:string" minOccurs="0" />
+                <xs:element name="TienThai4" type="xs:string" minOccurs="0" />
+                <xs:element name="TinhTrangKhiSinh" type="xs:string" minOccurs="0" />
+                <xs:element name="CanNangLucSinh" type="xs:string" minOccurs="0" />
+                <xs:element name="DiTatBamSinh" type="xs:string" minOccurs="0" />
+                <xs:element name="PhatTrienTinhThanVanDong" type="xs:string" minOccurs="0" />
+                <xs:element name="NuoiDuong" type="xs:string" minOccurs="0" />
+                <xs:element name="CaiSuaThangThu" type="xs:string" minOccurs="0" />
+                <xs:element name="ChamSoc" type="xs:string" minOccurs="0" />
+                <xs:element name="TiemChungTheoLich" type="xs:string" minOccurs="0" />
+                <xs:element name="Mach" type="xs:string" minOccurs="0" />
+                <xs:element name="NhietDo" type="xs:string" minOccurs="0" />
+                <xs:element name="HuyetAp" type="xs:string" minOccurs="0" />
+                <xs:element name="NhipTho" type="xs:string" minOccurs="0" />
+                <xs:element name="CanNang" type="xs:string" minOccurs="0" />
+                <xs:element name="ChieuCao" type="xs:string" minOccurs="0" />
+                <xs:element name="VongDau" type="xs:string" minOccurs="0" />
+                <xs:element name="VongNguc" type="xs:string" minOccurs="0" />
+                <xs:element name="BMI" type="xs:string" minOccurs="0" />
+                <xs:element name="TriGiac" type="xs:string" minOccurs="0" />
+                <xs:element name="Glasgow" type="xs:string" minOccurs="0" />
+                <xs:element name="Diem" type="xs:string" minOccurs="0" />
+                <xs:element name="NiemMac" type="xs:string" minOccurs="0" />
+                <xs:element name="Moi" type="xs:string" minOccurs="0" />
+                <xs:element name="MatNuoc" type="xs:string" minOccurs="0" />
+                <xs:element name="DinhDuong" type="xs:string" minOccurs="0" />
+                <xs:element name="HachTuyenGiap" type="xs:string" minOccurs="0" />
+                <xs:element name="Tim" type="xs:string" minOccurs="0" />
+                <xs:element name="MachMau" type="xs:string" minOccurs="0" />
+                <xs:element name="MachMau1" type="xs:string" minOccurs="0" />
+                <xs:element name="TuoiMau" type="xs:string" minOccurs="0" />
+                <xs:element name="TuanHoan" type="xs:string" minOccurs="0" />
+                <xs:element name="LongNguc" type="xs:string" minOccurs="0" />
+                <xs:element name="Phoi" type="xs:string" minOccurs="0" />
+                <xs:element name="HoHap" type="xs:string" minOccurs="0" />
+                <xs:element name="Bung" type="xs:string" minOccurs="0" />
+                <xs:element name="GanLach" type="xs:string" minOccurs="0" />
+                <xs:element name="TieuHoa" type="xs:string" minOccurs="0" />
+                <xs:element name="ThanTietLieuSinhDuc" type="xs:string" minOccurs="0" />
+                <xs:element name="ThanKinh" type="xs:string" minOccurs="0" />
+                <xs:element name="CoXuongKhop" type="xs:string" minOccurs="0" />
+                <xs:element name="TaiMuiHongRangHamMatMat" type="xs:string" minOccurs="0" />
+                <xs:element name="DinhDuongCacCoQuan" type="xs:string" minOccurs="0" />
+                <xs:element name="BenhLy" type="xs:string" minOccurs="0" />
+                <xs:element name="XetNghiem" type="xs:string" minOccurs="0" />
+                <xs:element name="XQuang" type="xs:string" minOccurs="0" />
+                <xs:element name="CTScanMRI" type="xs:string" minOccurs="0" />
+                <xs:element name="XetNghiemKhac" type="xs:string" minOccurs="0" />
+                <xs:element name="LyDoNhapVien" type="xs:string" minOccurs="0" />
+                <xs:element name="LamSangPhatHien" type="xs:string" minOccurs="0" />
+                <xs:element name="TomTatHoiChung" type="xs:string" minOccurs="0" />
+                <xs:element name="TomTatBenhAn" type="xs:string" minOccurs="0" />
+                <xs:element name="MaBenhChinh" type="xs:string" minOccurs="0" />
+                <xs:element name="TenBenhChinh" type="xs:string" minOccurs="0" />
+                <xs:element name="MaBenhKemTheo" type="xs:string" minOccurs="0" />
+                <xs:element name="TenBenhkemTheo" type="xs:string" minOccurs="0" />
+                <xs:element name="PhanBiet" type="xs:string" minOccurs="0" />
+                <xs:element name="TienLuong" type="xs:string" minOccurs="0" />
+                <xs:element name="HoiSucHoHap" type="xs:string" minOccurs="0" />
+                <xs:element name="ChongSocTruyenMau" type="xs:string" minOccurs="0" />
+                <xs:element name="KhangSinhGiamDau" type="xs:string" minOccurs="0" />
+                <xs:element name="PhauThuatThuThuat" type="xs:string" minOccurs="0" />
+                <xs:element name="HuongDieuTri" type="xs:string" minOccurs="0" />
+                <xs:element name="NgayLamBenhAn" type="xs:string" minOccurs="0" />
+                <xs:element name="BacSiLamBenhAn" type="xs:string" minOccurs="0" />
+                <xs:element name="BenhLyVaDienBienLamSang" type="xs:string" minOccurs="0" />
+                <xs:element name="KetQuaXetNghiemCanLamSang" type="xs:string" minOccurs="0" />
+                <xs:element name="PhuongPhapDieuTri" type="xs:string" minOccurs="0" />
+                <xs:element name="TinhTrangNguoiBenhRaVien" type="xs:string" minOccurs="0" />
+                <xs:element name="HuongDieuTriVaCheDoTiepTheo" type="xs:string" minOccurs="0" />
+                <xs:element name="SoToXQuang" type="xs:string" minOccurs="0" />
+                <xs:element name="SoToCTScanner" type="xs:string" minOccurs="0" />
+                <xs:element name="SoToSieuAm" type="xs:string" minOccurs="0" />
+                <xs:element name="SoToXetNghiem" type="xs:string" minOccurs="0" />
+                <xs:element name="SoToKhac" type="xs:string" minOccurs="0" />
+                <xs:element name="SoToToanBoHoSo" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNguoiGiaoHoSo" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNguoiNhanHoSo" type="xs:string" minOccurs="0" />
+                <xs:element name="TenBacSiDieuTri" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <LyDoVaoVien>Co giật, sốt, ho, khó thở, đau bụng, thay đổi tri giác, lý do vào viện khác.</LyDoVaoVien>
+    <LyDoVaoVienvaoNgayThu>2</LyDoVaoVienvaoNgayThu>
+    <KhoiPhatDienBien>Từ từ, quá trình bệnh lý khác.</KhoiPhatDienBien>
+    <TrieuChungKemTheo>Suy tim cấp, suy tim mãn, triệu chứng kèm theo khác.</TrieuChungKemTheo>
+    <SoCuuXuTriTuyenTruoc> sơ cứu xử trí khác.</SoCuuXuTriTuyenTruoc>
+    <BenhSu>Suy tim cấp, bệnh sử khác.</BenhSu>
+    <TheLucTuNhoDenNay>Bình thường, phát triển thể lực khác.</TheLucTuNhoDenNay>
+    <BenhMacVaPhuongPhapDieuTri>Bệnh đã mắc khác, bệnh đã mắc khác.</BenhMacVaPhuongPhapDieuTri>
+    <DiUng>Dị ứng khác, khác.</DiUng>
+    <YeuToKhoiPhat>Suy tim cấp, suy tim mãn, yếu tố khởi phát khác.</YeuToKhoiPhat>
+    <MucDo>Sốc, mề đay, mức độ khác.</MucDo>
+    <BenhDaMac>Bệnh đã mắc khác, khác.</BenhDaMac>
+    <BenhLienQuanDiUng>Chàm, viêm mũi dị ứng, bệnh liên quan dị ứng khác.</BenhLienQuanDiUng>
+    <ConThu1>1</ConThu1>
+    <ConThu2>2</ConThu2>
+    <TienThai1>1</TienThai1>
+    <TienThai2>0</TienThai2>
+    <TienThai3>1</TienThai3>
+    <TienThai4>1</TienThai4>
+    <TinhTrangKhiSinh>Giác hút, tình trạng khi sinh khác.</TinhTrangKhiSinh>
+    <CanNangLucSinh>5.</CanNangLucSinh>
+    <DiTatBamSinh>Suy tim cấp, suy tim mãn, yếu tố khởi phát khác.</DiTatBamSinh>
+    <PhatTrienTinhThanVanDong>Bình thường, phát triển tinh thần vận động khác.</PhatTrienTinhThanVanDong>
+    <NuoiDuong>Sữa mẹ, hỗn hợp, nuôi dưỡng khác.</NuoiDuong>
+    <CaiSuaThangThu>5.</CaiSuaThangThu>
+    <ChamSoc>Tại nhà, chăm sóc khác.</ChamSoc>
+    <TiemChungTheoLich>Đúng, tiêm chủng theo lịch khác.</TiemChungTheoLich>
+    <Mach>120</Mach>
+    <NhietDo>37</NhietDo>
+    <HuyetAp>100</HuyetAp>
+    <NhipTho>120</NhipTho>
+    <CanNang>90</CanNang>
+    <ChieuCao>90.00</ChieuCao>
+    <VongDau>20.00</VongDau>
+    <VongNguc>30.00</VongNguc>
+    <BMI>111</BMI>
+    <TriGiac>Tỉnh, bứt rứt, tri giác khác.</TriGiac>
+    <Glasgow>100</Glasgow>
+    <Diem>Khác, điểm khác.</Diem>
+    <NiemMac>Hồng, niêm mạc khác.</NiemMac>
+    <Moi>Hồng, môi khác.</Moi>
+    <MatNuoc>Có, mất nước khác.</MatNuoc>
+    <DinhDuong>Bình thường, dinh dưỡng khác.</DinhDuong>
+    <HachTuyenGiap>Bình thường, hạch , tuyến giáp khác.</HachTuyenGiap>
+    <Tim>Chưa phát hiện bất thường, tim khác.</Tim>
+    <MachMau>Chưa phát hiện bất thường, mạch máu khác.</MachMau>
+    <TuoiMau>Chưa phát hiện bất thường, a.</TuoiMau>
+    <TuanHoan>Tuần hoàn khác, a.</TuanHoan>
+    <LongNguc>Chưa phát hiện bất thường, a.</LongNguc>
+    <Phoi>Chưa phát hiện bất thường, a.</Phoi>
+    <HoHap>Hô hấp khác, a.</HoHap>
+    <Bung>Chưa phát hiện bất thường, b.</Bung>
+    <GanLach>Chưa phát hiện bất thường, b.</GanLach>
+    <TieuHoa>Tiêu hóa khác, b</TieuHoa>
+    <ThanTietLieuSinhDuc>Chưa phát hiện bất thường, b.</ThanTietLieuSinhDuc>
+    <ThanKinh>Chưa phát hiện bất thường, b.</ThanKinh>
+    <CoXuongKhop>Chưa phát hiện bất thường, b.</CoXuongKhop>
+    <TaiMuiHongRangHamMatMat>Chưa phát hiện bất thường, b.</TaiMuiHongRangHamMatMat>
+    <DinhDuongCacCoQuan>Chưa phát hiện bất thường, b.</DinhDuongCacCoQuan>
+    <BenhLy>Bệnh lý khác, b.</BenhLy>
+    <XetNghiem>Xét nghiệm khác, b.</XetNghiem>
+    <XQuang>Xquang khác, b.</XQuang>
+    <CTScanMRI>Ct scan mri khác, b.</CTScanMRI>
+    <XetNghiemKhac>Cận lâm sàng khác, b.</XetNghiemKhac>
+    <LyDoNhapVien>Lý do nhập viện khác, b.</LyDoNhapVien>
+    <LamSangPhatHien>Lâm sáng bất thường khác, b.</LamSangPhatHien>
+    <TomTatHoiChung>Sốc, b.</TomTatHoiChung>
+    <TomTatBenhAn> .</TomTatBenhAn>
+    <MaBenhChinh>H54.5</MaBenhChinh>
+    <TenBenhChinh>Giảm thị lực mức độ nặng, một mắt</TenBenhChinh>
+    <MaBenhKemTheo>C49.3</MaBenhKemTheo>
+    <TenBenhkemTheo>U ác của mô liên kết và mô mềm của lồng ngực</TenBenhkemTheo>
+    <PhanBiet>Chẩn đoán khác, b.</PhanBiet>
+    <TienLuong>Xấu, b.</TienLuong>
+    <HoiSucHoHap>Hồi sức tích cực, b.</HoiSucHoHap>
+    <ChongSocTruyenMau>Chống sốc, b.</ChongSocTruyenMau>
+    <KhangSinhGiamDau>Kháng sinh, b.</KhangSinhGiamDau>
+    <PhauThuatThuThuat>Phẫu thuật, thủ thuật, b.</PhauThuatThuThuat>
+    <HuongDieuTri>Khác, d.</HuongDieuTri>
+    <NgayLamBenhAn>20/07/2017 10:44:33 am.</NgayLamBenhAn>
+    <BacSiLamBenhAn>Trần thị phước thảo</BacSiLamBenhAn>
+    <BenhLyVaDienBienLamSang>Bệnh lý lâm sáng khác, c.</BenhLyVaDienBienLamSang>
+    <KetQuaXetNghiemCanLamSang>Kết quả xét nghiệm cận lâm sáng khác, c.</KetQuaXetNghiemCanLamSang>
+    <PhuongPhapDieuTri>Phương pháp điều trị khác, c.</PhuongPhapDieuTri>
+    <TinhTrangNguoiBenhRaVien>Tình trạng ra viện khác, c.</TinhTrangNguoiBenhRaVien>
+    <HuongDieuTriVaCheDoTiepTheo>Hướng điều trị khác, c.</HuongDieuTriVaCheDoTiepTheo>
+    <SoToXQuang>1</SoToXQuang>
+    <SoToCTScanner>1</SoToCTScanner>
+    <SoToSieuAm>1</SoToSieuAm>
+    <SoToXetNghiem>1</SoToXetNghiem>
+    <SoToKhac>1</SoToKhac>
+    <SoToToanBoHoSo>5</SoToToanBoHoSo>
+    <TenNguoiGiaoHoSo>Nguyễn thị sinh</TenNguoiGiaoHoSo>
+    <TenNguoiNhanHoSo>Lương thị diễm phúc</TenNguoiNhanHoSo>
+    <TenBacSiDieuTri>Cao chí trung</TenBacSiDieuTri>
+  </Table1>
+</NewDataSet>

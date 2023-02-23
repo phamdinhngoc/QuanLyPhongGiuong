@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+								<xs:element name="stt" type="xs:string" minOccurs="0" />
+								<xs:element name="sql" type="xs:string" minOccurs="0" />
+								<xs:element name="ord" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ma>Tỉnh/Thành phố</ma>
+		<ten>select a.maicd,b.matt ma,count(*) so </ten>
+		<stt>a.maicd,b.matt</stt>
+		<sql>select matt ma,tentt ten from his.btdtt</sql>
+		<ord>order by matt</ord>
+	</Table>
+	<Table>
+		<ma>Quận/huyện</ma>
+		<ten>select a.maicd,b.maqu ma,count(*) so </ten>
+		<stt>a.maicd,b.maqu</stt>
+		<sql>select maqu ma,tenquan ten from his.btdquan</sql>
+		<ord>order by maqu</ord>
+	</Table>
+	<Table>
+		<ma>Phường xã</ma>
+		<ten>select a.maicd,b.maphuongxa ma,count(*) so </ten>
+		<stt>a.maicd,b.maphuongxa</stt>
+		<sql>select maphuongxa ma,tenpxa ten from his.btdpxa</sql>
+		<ord>order by maphuongxa</ord>
+	</Table>
+</NewDataSet>

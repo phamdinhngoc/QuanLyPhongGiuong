@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <STT>2</STT>
+    <MA>ma</MA>
+    <TEN>Mã số</TEN>
+  </Table>
+  <Table>
+    <STT>0</STT>
+    <MA>ten</MA>
+    <TEN>Tên thuốc</TEN>
+  </Table>
+  <Table>
+    <STT>1</STT>
+    <MA>nhacc</MA>
+    <TEN>Nhà cung cấp</TEN>
+  </Table>
+  <Table>
+    <STT>0</STT>
+    <MA>dang</MA>
+    <TEN>Đơn vị tính</TEN>
+  </Table>
+  <Table>
+    <STT>1</STT>
+    <MA>sttnhom</MA>
+    <TEN>Nhóm/Phân loại</TEN>
+  </Table>
+</NewDataSet>

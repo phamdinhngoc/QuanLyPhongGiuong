@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="MABN" type="xs:string" minOccurs="0" />
+								<xs:element name="HOTEN" type="xs:string" minOccurs="0" />
+								<xs:element name="NAMSINH" type="xs:string" minOccurs="0" />
+								<xs:element name="DOITUONG" type="xs:string" minOccurs="0" />
+								<xs:element name="TENKP" type="xs:string" minOccurs="0" />
+								<xs:element name="TENBS" type="xs:string" minOccurs="0" />
+								<xs:element name="CHANDOAN" type="xs:string" minOccurs="0" />
+								<xs:element name="GHICHU" type="xs:string" minOccurs="0" />
+								<xs:element name="LAN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="SOTHE" type="xs:string" minOccurs="0" />
+								<xs:element name="NOIDKKCB" type="xs:string" minOccurs="0" />
+								<xs:element name="DIACHI" type="xs:string" minOccurs="0" />
+								<xs:element name="TUOI" type="xs:string" minOccurs="0" />
+								<xs:element name="SONGAY" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MAQL" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MAVAOVIEN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MABS" type="xs:string" minOccurs="0" />
+								<xs:element name="MADOITUONG" type="xs:decimal" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

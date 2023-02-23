@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="THANG" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="MACV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MADV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="BOPHAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYVAOLAM" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="PHEPNAM" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="PHEPTHEM" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T1" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T2" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T3" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T4" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T5" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T6" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T7" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T8" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T9" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T10" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T11" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="T12" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="TONGNGHI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

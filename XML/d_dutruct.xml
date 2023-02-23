@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="STT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="DOITUONG" type="xs:string" minOccurs="0" />
+								<xs:element name="MABD" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MA" type="xs:string" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="TENHC" type="xs:string" minOccurs="0" />
+								<xs:element name="DANG" type="xs:string" minOccurs="0" />
+								<xs:element name="TENKHO" type="xs:string" minOccurs="0" />
+								<xs:element name="SOLUONG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MADOITUONG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MAKHO" type="xs:decimal" minOccurs="0" />
+								<xs:element name="CACHDUNG" type="xs:string" minOccurs="0" />
+								<xs:element name="MAHC" type="xs:string" minOccurs="0" />
+								<xs:element name="MANGUON" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TUTRUC" type="xs:decimal" minOccurs="0" />
+								<xs:element name="IDVPKHOA" type="xs:decimal" minOccurs="0" />
+								<xs:element name="SOLAN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="LAN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GHICHU" type="xs:string" minOccurs="0" />
+								<xs:element name="SLYLENH" type="xs:decimal" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

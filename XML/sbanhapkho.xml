@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="makp" type="xs:string" minOccurs="0" />
+								<xs:element name="tenkp" type="xs:string" minOccurs="0" />
+								<xs:element name="so" type="xs:decimal" minOccurs="0" />
+								<xs:element name="bhyt" type="xs:decimal" minOccurs="0" />
+								<xs:element name="khac" type="xs:decimal" minOccurs="0" />
+								<xs:element name="nam" type="xs:decimal" minOccurs="0" />
+								<xs:element name="nu" type="xs:decimal" minOccurs="0" />
+								<xs:element name="t04" type="xs:decimal" minOccurs="0" />
+								<xs:element name="t06" type="xs:decimal" minOccurs="0" />
+								<xs:element name="t14" type="xs:decimal" minOccurs="0" />
+								<xs:element name="t1560" type="xs:decimal" minOccurs="0" />
+								<xs:element name="t90" type="xs:decimal" minOccurs="0" />
+								<xs:element name="tinh" type="xs:decimal" minOccurs="0" />
+								<xs:element name="tp" type="xs:decimal" minOccurs="0" />
+								<xs:element name="cv" type="xs:decimal" minOccurs="0" />
+								<xs:element name="tv" type="xs:decimal" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

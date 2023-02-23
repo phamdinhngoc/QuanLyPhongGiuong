@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="manv" type="xs:string" minOccurs="0" />
+                <xs:element name="hoten" type="xs:string" minOccurs="0" />
+                <xs:element name="thang" type="xs:string" minOccurs="0" />
+                <xs:element name="nam" type="xs:string" minOccurs="0" />
+                <xs:element name="makp" type="xs:string" minOccurs="0" />
+                <xs:element name="tenkp" type="xs:string" minOccurs="0" />
+                <xs:element name="hs_lc" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_tn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_tnien" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_vk" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_kn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_cv" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_dh" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_dt" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngaylv" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngaytt" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hsvk" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hsdt" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hsdh" type="xs:decimal" minOccurs="0" />
+                <xs:element name="tongheso" type="xs:decimal" minOccurs="0" />
+                <xs:element name="mltt" type="xs:decimal" minOccurs="0" />
+                <xs:element name="luongngay" type="xs:decimal" minOccurs="0" />
+                <xs:element name="luonggio" type="xs:decimal" minOccurs="0" />
+                <xs:element name="sogio" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngaythuong" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngaytbcn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngayle" type="xs:decimal" minOccurs="0" />
+                <xs:element name="demthuong" type="xs:decimal" minOccurs="0" />
+                <xs:element name="demtbcn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="demle" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_ngaythuong" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_demthuong" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_ngaytbcn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_demtbcn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_ngayle" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_demle" type="xs:decimal" minOccurs="0" />
+                <xs:element name="tongtien" type="xs:decimal" minOccurs="0" />
+                <xs:element name="tongtien_thue" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

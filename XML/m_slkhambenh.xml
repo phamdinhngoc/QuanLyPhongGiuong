@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="MAICD" type="xs:string" minOccurs="0" />
+								<xs:element name="CHANDOAN" type="xs:string" minOccurs="0" />
+								<xs:element name="C01" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C02" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C03" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C04" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C05" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C06" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C07" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C08" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C09" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C10" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C11" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C12" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C13" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C14" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C15" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C16" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C17" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C18" type="xs:decimal" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

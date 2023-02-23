@@ -1,0 +1,887 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table" msprop:BaseTable.3="HUM_MANGACH" msprop:BaseTable.4="HUM_LLNV" msprop:BaseTable.0="HUM_DMCV" msprop:BaseTable.5="HUM_CHAMCONG_0415" msprop:BaseTable.1="HUM_DMCD" msprop:BaseTable.2="HUM_BOPHAN">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="THANGCC" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMCC" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCVU_VT" msprop:OraDbType="119" msprop:BaseColumn="TENVT" type="xs:string" minOccurs="0" />
+                <xs:element name="TRINHDO_VT" msprop:OraDbType="119" msprop:BaseColumn="TENVT" type="xs:string" minOccurs="0" />
+                <xs:element name="MABSOFT" msprop:OraDbType="126" msprop:BaseColumn="MABSOFT" type="xs:string" minOccurs="0" />
+                <xs:element name="MABAOCAO" msprop:OraDbType="112" msprop:BaseColumn="MABAOCAO" type="xs:int" minOccurs="0" />
+                <xs:element name="DIENGIAI" msprop:OraDbType="119" msprop:BaseColumn="DIENGIAI" type="xs:string" minOccurs="0" />
+                <xs:element name="MANGACH" msprop:OraDbType="119" msprop:BaseColumn="DIENGIAI" type="xs:string" minOccurs="0" />
+                <xs:element name="MACV" msprop:OraDbType="126" msprop:BaseColumn="MACV" type="xs:string" minOccurs="0" />
+                <xs:element name="STT" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TENBP" msprop:OraDbType="119" msprop:BaseColumn="TENBP" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="PHAI" msprop:OraDbType="119" msprop:BaseColumn="PHAI" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCDANH" msprop:OraDbType="119" msprop:BaseColumn="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="STK" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" msprop:BaseColumn="MANV" type="xs:string" minOccurs="0" />
+                <xs:element name="MADV" msprop:OraDbType="126" msprop:BaseColumn="MADV" type="xs:string" minOccurs="0" />
+                <xs:element name="MMYY" msprop:OraDbType="126" msprop:BaseColumn="MMYY" type="xs:string" minOccurs="0" />
+                <xs:element name="N1" msprop:OraDbType="126" msprop:BaseColumn="N1" type="xs:string" minOccurs="0" />
+                <xs:element name="N2" msprop:OraDbType="126" msprop:BaseColumn="N2" type="xs:string" minOccurs="0" />
+                <xs:element name="N3" msprop:OraDbType="126" msprop:BaseColumn="N3" type="xs:string" minOccurs="0" />
+                <xs:element name="N4" msprop:OraDbType="126" msprop:BaseColumn="N4" type="xs:string" minOccurs="0" />
+                <xs:element name="N5" msprop:OraDbType="126" msprop:BaseColumn="N5" type="xs:string" minOccurs="0" />
+                <xs:element name="N6" msprop:OraDbType="126" msprop:BaseColumn="N6" type="xs:string" minOccurs="0" />
+                <xs:element name="N7" msprop:OraDbType="126" msprop:BaseColumn="N7" type="xs:string" minOccurs="0" />
+                <xs:element name="N8" msprop:OraDbType="126" msprop:BaseColumn="N8" type="xs:string" minOccurs="0" />
+                <xs:element name="N9" msprop:OraDbType="126" msprop:BaseColumn="N9" type="xs:string" minOccurs="0" />
+                <xs:element name="N10" msprop:OraDbType="126" msprop:BaseColumn="N10" type="xs:string" minOccurs="0" />
+                <xs:element name="N11" msprop:OraDbType="126" msprop:BaseColumn="N11" type="xs:string" minOccurs="0" />
+                <xs:element name="N12" msprop:OraDbType="126" msprop:BaseColumn="N12" type="xs:string" minOccurs="0" />
+                <xs:element name="N13" msprop:OraDbType="126" msprop:BaseColumn="N13" type="xs:string" minOccurs="0" />
+                <xs:element name="N14" msprop:OraDbType="126" msprop:BaseColumn="N14" type="xs:string" minOccurs="0" />
+                <xs:element name="N15" msprop:OraDbType="126" msprop:BaseColumn="N15" type="xs:string" minOccurs="0" />
+                <xs:element name="N16" msprop:OraDbType="126" msprop:BaseColumn="N16" type="xs:string" minOccurs="0" />
+                <xs:element name="N17" msprop:OraDbType="126" msprop:BaseColumn="N17" type="xs:string" minOccurs="0" />
+                <xs:element name="N18" msprop:OraDbType="126" msprop:BaseColumn="N18" type="xs:string" minOccurs="0" />
+                <xs:element name="N19" msprop:OraDbType="126" msprop:BaseColumn="N19" type="xs:string" minOccurs="0" />
+                <xs:element name="N20" msprop:OraDbType="126" msprop:BaseColumn="N20" type="xs:string" minOccurs="0" />
+                <xs:element name="N21" msprop:OraDbType="126" msprop:BaseColumn="N21" type="xs:string" minOccurs="0" />
+                <xs:element name="N22" msprop:OraDbType="126" msprop:BaseColumn="N22" type="xs:string" minOccurs="0" />
+                <xs:element name="N23" msprop:OraDbType="126" msprop:BaseColumn="N23" type="xs:string" minOccurs="0" />
+                <xs:element name="N24" msprop:OraDbType="126" msprop:BaseColumn="N24" type="xs:string" minOccurs="0" />
+                <xs:element name="N25" msprop:OraDbType="126" msprop:BaseColumn="N25" type="xs:string" minOccurs="0" />
+                <xs:element name="N26" msprop:OraDbType="126" msprop:BaseColumn="N26" type="xs:string" minOccurs="0" />
+                <xs:element name="N27" msprop:OraDbType="126" msprop:BaseColumn="N27" type="xs:string" minOccurs="0" />
+                <xs:element name="N28" msprop:OraDbType="126" msprop:BaseColumn="N28" type="xs:string" minOccurs="0" />
+                <xs:element name="N29" msprop:OraDbType="126" msprop:BaseColumn="N29" type="xs:string" minOccurs="0" />
+                <xs:element name="N30" msprop:OraDbType="126" msprop:BaseColumn="N30" type="xs:string" minOccurs="0" />
+                <xs:element name="N31" msprop:OraDbType="126" msprop:BaseColumn="N31" type="xs:string" minOccurs="0" />
+                <xs:element name="MACA" msprop:OraDbType="126" msprop:BaseColumn="MACA" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYUD" msprop:OraDbType="106" msprop:BaseColumn="NGAYUD" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CONGHUONGLUONG" msprop:OraDbType="108" msprop:BaseColumn="CONGHUONGLUONG" type="xs:double" minOccurs="0" />
+                <xs:element name="LUONGBHXH" msprop:OraDbType="108" msprop:BaseColumn="LUONGBHXH" type="xs:double" minOccurs="0" />
+                <xs:element name="KHONGLUONG" msprop:OraDbType="108" msprop:BaseColumn="KHONGLUONG" type="xs:double" minOccurs="0" />
+                <xs:element name="CONGHUONGPC" msprop:OraDbType="108" msprop:BaseColumn="CONGHUONGPC" type="xs:double" minOccurs="0" />
+                <xs:element name="KHOA" msprop:OraDbType="111" msprop:BaseColumn="KHOA" type="xs:short" minOccurs="0" />
+                <xs:element name="M_T_T" msprop:OraDbType="111" msprop:BaseColumn="M_T_T" type="xs:short" minOccurs="0" />
+                <xs:element name="H_T_T" msprop:OraDbType="111" msprop:BaseColumn="H_T_T" type="xs:short" minOccurs="0" />
+                <xs:element name="M_CC_T" msprop:OraDbType="111" msprop:BaseColumn="M_CC_T" type="xs:short" minOccurs="0" />
+                <xs:element name="H_CC_T" msprop:OraDbType="111" msprop:BaseColumn="H_CC_T" type="xs:short" minOccurs="0" />
+                <xs:element name="M_T_TB" msprop:OraDbType="111" msprop:BaseColumn="M_T_TB" type="xs:short" minOccurs="0" />
+                <xs:element name="H_T_TB" msprop:OraDbType="111" msprop:BaseColumn="H_T_TB" type="xs:short" minOccurs="0" />
+                <xs:element name="M_CC_TB" msprop:OraDbType="111" msprop:BaseColumn="M_CC_TB" type="xs:short" minOccurs="0" />
+                <xs:element name="H_CC_TB" msprop:OraDbType="111" msprop:BaseColumn="H_CC_TB" type="xs:short" minOccurs="0" />
+                <xs:element name="M_T_LE" msprop:OraDbType="111" msprop:BaseColumn="M_T_LE" type="xs:short" minOccurs="0" />
+                <xs:element name="H_T_LE" msprop:OraDbType="111" msprop:BaseColumn="H_T_LE" type="xs:short" minOccurs="0" />
+                <xs:element name="M_CC_LE" msprop:OraDbType="111" msprop:BaseColumn="M_CC_LE" type="xs:short" minOccurs="0" />
+                <xs:element name="H_CC_LE" msprop:OraDbType="111" msprop:BaseColumn="H_CC_LE" type="xs:short" minOccurs="0" />
+                <xs:element name="MACA1" msprop:OraDbType="126" msprop:BaseColumn="MACA" type="xs:string" minOccurs="0" />
+                <xs:element name="BUTHANGTRUOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BUTHANGSAU" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LUONGTHOIGIAN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGHIKHONGLUONG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BUNUANGAY" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BUCANGAY" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CHUABU" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BUTHANGTRUOC2" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BUTHANGSAU2" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LUONGTHOIGIAN2" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGHIKHONGLUONG2" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BUNUANGAY2" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BUCANGAY2" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CHUABU2" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HUONGBHXH" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HUONGPC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="PHEP" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>TK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Trưởng Khoa</DIENGIAI>
+    <MANGACH>Bác sĩ chính</MANGACH>
+    <MACV>001</MACV>
+    <STT>1</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Đoàn Văn Xiêm</HOTEN>
+    <PHAI>Nam</PHAI>
+    <STK>[ </STK>
+    <MANV>00305</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>Cô</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>0</CONGHUONGLUONG>
+    <LUONGBHXH>1</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>PTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Phó Trưởng Khoa</DIENGIAI>
+    <MANGACH>Bác sĩ</MANGACH>
+    <MACV>002</MACV>
+    <STT>2</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Trần Thanh Vũ</HOTEN>
+    <PHAI>Nam</PHAI>
+    <STK>[ </STK>
+    <MANV>00306</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Điều dưỡng trưởng khoa</DIENGIAI>
+    <MANGACH>Điều dưỡng trung cấp</MANGACH>
+    <MACV>012</MACV>
+    <STT>3</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Nguyễn Thị Thanh Kiều</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00310</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Bác sĩ</MANGACH>
+    <MACV>008</MACV>
+    <STT>4</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Huỳnh Thị Tâm</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00307</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Bác sĩ</MANGACH>
+    <MACV>008</MACV>
+    <STT>5</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Đinh Thị Kim Ánh</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00308</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Bác sĩ</MANGACH>
+    <MACV>008</MACV>
+    <STT>6</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Trần Đức Chánh</HOTEN>
+    <PHAI>Nam</PHAI>
+    <STK>[ </STK>
+    <MANV>00309</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Hộ lý</MANGACH>
+    <MACV>008</MACV>
+    <STT>7</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Lê Thị Phượng</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00318</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Điều dưỡng trung cấp</MANGACH>
+    <MACV>008</MACV>
+    <STT>8</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Lê Thị Kim Thỏa</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00312</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Điều dưỡng trung cấp</MANGACH>
+    <MACV>008</MACV>
+    <STT>9</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Hồ Thị Trợ</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00317</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Điều dưỡng trung cấp</MANGACH>
+    <MACV>008</MACV>
+    <STT>10</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Nguyễn Thị Nên</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00316</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Điều dưỡng trung cấp</MANGACH>
+    <MACV>008</MACV>
+    <STT>11</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Lê Thị Hồng</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00314</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Điều dưỡng trung cấp</MANGACH>
+    <MACV>008</MACV>
+    <STT>12</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Đặng Thị Yên</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00313</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+/B</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Điều dưỡng trung cấp</MANGACH>
+    <MACV>008</MACV>
+    <STT>13</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Phùng Thị Mỹ Khánh</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00311</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>T</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+  <Table>
+    <THANGCC>4</THANGCC>
+    <NAMCC>2015</NAMCC>
+    <CHUCVU_VT>QTK</CHUCVU_VT>
+    <MABSOFT>KTC</MABSOFT>
+    <MABAOCAO>0</MABAOCAO>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+    <MANGACH>Điều dưỡng trung cấp</MANGACH>
+    <MACV>008</MACV>
+    <STT>14</STT>
+    <TENBP>Mắt</TENBP>
+    <HOTEN>Phạm Thị Hồng Ngọc</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <STK>[ </STK>
+    <MANV>00315</MANV>
+    <MADV>015</MADV>
+    <MMYY>0415</MMYY>
+    <N7>+</N7>
+    <MACA>1</MACA>
+    <NGAYUD>2015-04-01T14:54:29+07:00</NGAYUD>
+    <CONGHUONGLUONG>1</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <KHONGLUONG>0</KHONGLUONG>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <KHOA>0</KHOA>
+    <M_T_T>0</M_T_T>
+    <H_T_T>0</H_T_T>
+    <M_CC_T>0</M_CC_T>
+    <H_CC_T>0</H_CC_T>
+    <M_T_TB>0</M_T_TB>
+    <H_T_TB>0</H_T_TB>
+    <M_CC_TB>0</M_CC_TB>
+    <H_CC_TB>0</H_CC_TB>
+    <M_T_LE>0</M_T_LE>
+    <H_T_LE>0</H_T_LE>
+    <M_CC_LE>0</M_CC_LE>
+    <H_CC_LE>0</H_CC_LE>
+    <MACA1>1</MACA1>
+    <BUTHANGTRUOC>0</BUTHANGTRUOC>
+    <BUTHANGSAU>0</BUTHANGSAU>
+    <LUONGTHOIGIAN>0</LUONGTHOIGIAN>
+    <NGHIKHONGLUONG>0</NGHIKHONGLUONG>
+    <BUNUANGAY>0</BUNUANGAY>
+    <BUCANGAY>0</BUCANGAY>
+    <CHUABU>0</CHUABU>
+    <BUTHANGTRUOC2>0</BUTHANGTRUOC2>
+    <BUTHANGSAU2>0</BUTHANGSAU2>
+    <LUONGTHOIGIAN2>0</LUONGTHOIGIAN2>
+    <NGHIKHONGLUONG2>0</NGHIKHONGLUONG2>
+    <BUNUANGAY2>0</BUNUANGAY2>
+    <BUCANGAY2>0</BUCANGAY2>
+    <CHUABU2>0</CHUABU2>
+    <HUONGBHXH>0</HUONGBHXH>
+    <HUONGPC>0</HUONGPC>
+    <PHEP>0</PHEP>
+  </Table>
+</NewDataSet>

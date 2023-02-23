@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+                <xs:element name="ngay" type="xs:string" minOccurs="0" />
+								<xs:element name="mabn" type="xs:string" minOccurs="0" />
+								<xs:element name="hoten" type="xs:string" minOccurs="0" />
+                <xs:element name="idcls" type="xs:string" minOccurs="0" />
+                <xs:element name="idvp" type="xs:string" minOccurs="0" />
+                <xs:element name="tenbs" type="xs:string" minOccurs="0" />
+                <xs:element name="may" type="xs:string" minOccurs="0" />
+                <xs:element name="vung" type="xs:string" minOccurs="0" />
+                <xs:element name="vp" type="xs:decimal" minOccurs="0" />
+								<xs:element name="cp" type="xs:decimal" minOccurs="0" />
+                <xs:element name="lt" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngayvp" type="xs:string" minOccurs="0" />
+                <xs:element name="nguoivp" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

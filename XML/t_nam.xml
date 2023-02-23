@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+								<xs:element name="stt" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ma>Phòng khám</ma>
+		<ten>select ac.maicd,to_char(ac.ngay,'yyyy') nam,sum(to_number(case when to_char(ac.ngay,'mm')='01' then 1 else 0 end)) c01, sum(to_number(case when to_char(ac.ngay,'mm')='02' then 1 else 0 end)) c02, sum(to_number(case when to_char(ac.ngay,'mm')='03' then 1 else 0 end)) c03, sum(to_number(case when to_char(ac.ngay,'mm')='04' then 1 else 0 end)) c04, sum(to_number(case when to_char(ac.ngay,'mm')='05' then 1 else 0 end)) c05, sum(to_number(case when to_char(ac.ngay,'mm')='06' then 1 else 0 end)) c06, sum(to_number(case when to_char(ac.ngay,'mm')='07' then 1 else 0 end)) c07, sum(to_number(case when to_char(ac.ngay,'mm')='08' then 1 else 0 end)) c08, sum(to_number(case when to_char(ac.ngay,'mm')='09' then 1 else 0 end)) c09, sum(to_number(case when to_char(ac.ngay,'mm')='10' then 1 else 0 end)) c10, sum(to_number(case when to_char(ac.ngay,'mm')='11' then 1 else 0 end)) c11, sum(to_number(case when to_char(ac.ngay,'mm')='12' then 1 else 0 end)) c12 from hismmyy.benhanpk ac inner join his.btdbn b on ac.mabn = b.mabn where  ac.maicd &lt;&gt; ''</ten>
+		<stt>ac.maicd,to_char(ac.ngay,'yyyy')</stt>
+	</Table>
+	<Table>
+		<ma>Phòng lưu</ma>
+		<ten>select ac.maicd,to_char(ac.ngay,'yyyy') nam,sum(to_number(case when to_char(ac.ngay,'mm')='01' then 1 else 0 end)) c01, sum(to_number(case when to_char(ac.ngay,'mm')='02' then 1 else 0 end)) c02, sum(to_number(case when to_char(ac.ngay,'mm')='03' then 1 else 0 end)) c03, sum(to_number(case when to_char(ac.ngay,'mm')='04' then 1 else 0 end)) c04, sum(to_number(case when to_char(ac.ngay,'mm')='05' then 1 else 0 end)) c05, sum(to_number(case when to_char(ac.ngay,'mm')='06' then 1 else 0 end)) c06, sum(to_number(case when to_char(ac.ngay,'mm')='07' then 1 else 0 end)) c07, sum(to_number(case when to_char(ac.ngay,'mm')='08' then 1 else 0 end)) c08, sum(to_number(case when to_char(ac.ngay,'mm')='09' then 1 else 0 end)) c09, sum(to_number(case when to_char(ac.ngay,'mm')='10' then 1 else 0 end)) c10, sum(to_number(case when to_char(ac.ngay,'mm')='11' then 1 else 0 end)) c11, sum(to_number(case when to_char(ac.ngay,'mm')='12' then 1 else 0 end)) c12 from hismmyy.benhancc ac inner join his.btdbn b on ac.mabn = b.mabn where  ac.ngayrv is not null</ten>
+		<stt>ac.maicd,to_char(ac.ngay,'yyyy')</stt>
+	</Table>
+	<Table>
+		<ma>Ngoại trú</ma>
+		<ten>select ac.maicd,to_char(ac.ngay,'yyyy') nam,sum(to_number(case when to_char(ac.ngay,'mm')='01' then 1 else 0 end)) c01, sum(to_number(case when to_char(ac.ngay,'mm')='02' then 1 else 0 end)) c02, sum(to_number(case when to_char(ac.ngay,'mm')='03' then 1 else 0 end)) c03, sum(to_number(case when to_char(ac.ngay,'mm')='04' then 1 else 0 end)) c04, sum(to_number(case when to_char(ac.ngay,'mm')='05' then 1 else 0 end)) c05, sum(to_number(case when to_char(ac.ngay,'mm')='06' then 1 else 0 end)) c06, sum(to_number(case when to_char(ac.ngay,'mm')='07' then 1 else 0 end)) c07, sum(to_number(case when to_char(ac.ngay,'mm')='08' then 1 else 0 end)) c08, sum(to_number(case when to_char(ac.ngay,'mm')='09' then 1 else 0 end)) c09, sum(to_number(case when to_char(ac.ngay,'mm')='10' then 1 else 0 end)) c10, sum(to_number(case when to_char(ac.ngay,'mm')='11' then 1 else 0 end)) c11, sum(to_number(case when to_char(ac.ngay,'mm')='12' then 1 else 0 end)) c12 from his.benhanngtr ac inner join his.btdbn b on ac.mabn = b.mabn where  ac.ngayrv is not null</ten>
+		<stt>ac.maicd,to_char(ac.ngay,'yyyy')</stt>
+	</Table>
+	<Table>
+		<ma>Nhập viện</ma>
+		<ten>select ac.maicd,to_char(ac.ngay,'yyyy') nam,sum(to_number(case when to_char(ac.ngay,'mm')='01' then 1 else 0 end)) c01,sum(to_number(case when to_char(ac.ngay,'mm')='02' then 1 else 0 end)) c02,sum(to_number(case when to_char(ac.ngay,'mm')='03' then 1 else 0 end)) c03,sum(to_number(case when to_char(ac.ngay,'mm')='04' then 1 else 0 end)) c04,sum(to_number(case when to_char(ac.ngay,'mm')='05' then 1 else 0 end)) c05,sum(to_number(case when to_char(ac.ngay,'mm')='06' then 1 else 0 end)) c06,sum(to_number(case when to_char(ac.ngay,'mm')='07' then 1 else 0 end)) c07,sum(to_number(case when to_char(ac.ngay,'mm')='08' then 1 else 0 end)) c08,sum(to_number(case when to_char(ac.ngay,'mm')='09' then 1 else 0 end)) c09,sum(to_number(case when to_char(ac.ngay,'mm')='10' then 1 else 0 end)) c10,sum(to_number(case when to_char(ac.ngay,'mm')='11' then 1 else 0 end)) c11,sum(to_number(case when to_char(ac.ngay,'mm')='12' then 1 else 0 end)) c12 from his.benhandt ac inner join his.btdbn b on ac.mabn = b.mabn where ac.loaiba = 1 </ten>
+		<stt>ac.maicd,to_char(ac.ngay,'yyyy')</stt>
+	</Table>
+	<Table>
+		<ma>Xuất viện</ma>
+		<ten>select a.maicd,to_char(a.ngay,'yyyy') nam,sum(to_number(case when to_char(a.ngay,'mm')='01' then 1 else 0 end)) c01,sum(to_number(case when to_char(a.ngay,'mm')='02' then 1 else 0 end)) c02,sum(to_number(case when to_char(a.ngay,'mm')='03' then 1 else 0 end)) c03,sum(to_number(case when to_char(a.ngay,'mm')='04' then 1 else 0 end)) c04,sum(to_number(case when to_char(a.ngay,'mm')='05' then 1 else 0 end)) c05,sum(to_number(case when to_char(a.ngay,'mm')='06' then 1 else 0 end)) c06,sum(to_number(case when to_char(a.ngay,'mm')='07' then 1 else 0 end)) c07,sum(to_number(case when to_char(a.ngay,'mm')='08' then 1 else 0 end)) c08,sum(to_number(case when to_char(a.ngay,'mm')='09' then 1 else 0 end)) c09,sum(to_number(case when to_char(a.ngay,'mm')='10' then 1 else 0 end)) c10,sum(to_number(case when to_char(a.ngay,'mm')='11' then 1 else 0 end)) c11,sum(to_number(case when to_char(a.ngay,'mm')='12' then 1 else 0 end)) c12 from his.xuatvien a inner join his.btdbn b on a.mabn = b.mabn left join his.benhandt c on a.maql = c.maql where c.loaiba =1  </ten>
+		<stt>a.maicd,to_char(a.ngay,'yyyy')</stt>
+	</Table>
+</NewDataSet>

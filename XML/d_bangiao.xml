@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="NGAY" type="xs:string" minOccurs="0" />
+                <xs:element name="BENA" type="xs:string" minOccurs="0" />
+                <xs:element name="CVA" type="xs:string" minOccurs="0" />
+                <xs:element name="NGUOIGIAO" type="xs:string" minOccurs="0" />
+                <xs:element name="BENB" type="xs:string" minOccurs="0" />
+                <xs:element name="CVB" type="xs:string" minOccurs="0" />
+                <xs:element name="NGUOINHAN" type="xs:string" minOccurs="0" />
+                <xs:element name="BANGIAO" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <NGAY>28/06/2015</NGAY>
+    <BENA />
+    <CVA>Cửa hàng trưởng</CVA>
+    <NGUOIGIAO>A. Hoàng</NGUOIGIAO>
+    <BENB>Bác sĩ : Trần Thị Phương Thu</BENB>
+    <CVB>Giám đốc</CVB>
+    <NGUOINHAN>A. Bình</NGUOINHAN>
+    <BANGIAO>Điện</BANGIAO>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,458 @@
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\DatabaseV2.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\E00_Base.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\E00_Common.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\E00_Control.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\E00_System.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\Oracle.DataAccess.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\TA_MessageBox.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.Shared.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\TAEditor.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\stdole.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\FlashControlV71.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\ShockwaveFlashObjects.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.Shared.xml
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.Form1.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frmProgress.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_ChuyenGiuong.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuong.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuongImport.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhong.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhongImport.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachBenhNhanChoXuatGiuong.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachChoDuyetTheoKhoaPhong.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachDen.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiGiuong.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhong.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhongImport.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_NhapThongTinDatGiuongBenhNhan.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuong.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.Properties.Resources.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.UscPhong.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.usc_DragControlEdit.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.Usc_GiuongEdit.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.usc_GiuongEdit2.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.usc_lableTong.resources
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.csproj.GenerateResource.Cache
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.pdb
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\E11_PhongGiuong.pdb
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\E00_Model.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\E00_ControlNew.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\DevComponents.Instrumentation.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\DevComponents.Instrumentation.xml
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.csprojResolveAssemblyReference.cache
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\unvell.ReoGrid.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\Newtonsoft.Json.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\unvell.ReoScript.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\Antlr3.Runtime.dll
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\E11_PhongGiuong.exe.config
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\bin\Debug\E11_PhongGiuong.exe
+D:\Code\Code Mới v2\Main4.0_1.0\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\obj\Debug\E11_PhongGiuong.exe
+\\192.168.1.88\shared HIS\0_MyPhamThe\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_PhongGiuong\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csprojAssemblyReference.cache
+\\192.168.1.88\shared HIS\0_MyPhamThe\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_PhongGiuong\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.exe.config
+\\192.168.1.88\shared HIS\0_MyPhamThe\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_PhongGiuong\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.exe
+\\192.168.1.88\shared HIS\0_MyPhamThe\E11_QuanLyPhongGiuong\E11_QuanLyPhongGiuong\E11_PhongGiuong\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.pdb
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.dll.config
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.pdb
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DatabaseV2.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_API.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_Base.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_Common.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_Control.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlNew.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_Model.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_System.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_Bus.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_SafeCacheDataService.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibDal.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibMedi.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_Helpers.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlAdv.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\unvell.ReoGrid.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\MaskedBox.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.HSSF.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibUtility.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\vnConvert.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\dichso.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Bytescout.BarCode.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibDuoc.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibVienphi.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibLicense.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\stdole.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\FlashControlV71.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\unvell.ReoScript.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.DDF.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.Util.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.POIFS.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.HPSF.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.Instrumentation.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\ShockwaveFlashObjects.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Antlr3.Runtime.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_API.pdb
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_Bus.pdb
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.Instrumentation.xml
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csprojAssemblyReference.cache
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Form1.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frmProgress.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_ChuyenGiuong.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuong.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuongImport.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhong.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhongImport.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachBenhNhanChoXuatGiuong.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachChoDuyetTheoKhoaPhong.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachDen.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DatGiuongNoiTru.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiGiuong.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhong.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhongImport.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_NhapThongTinDatGiuongBenhNhan.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuongNoiTru.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuong.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Properties.Resources.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.UscPhong.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_DragControlEdit.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Usc_GiuongEdit.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_GiuongEdit2.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_lableTong.resources
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.GenerateResource.cache
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.CoreCompileInputs.cache
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.CopyComplete
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.dll
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.pdb
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlNew.pdb
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlNew.dll.config
+D:\Project\Hisbv2018\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Newtonsoft.Json.xml
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.pdb
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar2.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Oracle.DataAccess.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\TA_MessageBox.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.Shared.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_SafeCacheDataService.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_Helpers.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibMedi.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\unvell.ReoGrid.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Newtonsoft.Json.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\stdole.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.HSSF.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibDuoc.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibVienphi.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\vnConvert.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibLicense.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\dichso.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\unvell.ReoScript.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.Instrumentation.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.DDF.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.Util.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.POIFS.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\NPOI.HPSF.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Antlr3.Runtime.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_API.pdb
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlNew.pdb
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlNew.dll.config
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.Instrumentation.xml
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csprojAssemblyReference.cache
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Form1.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frmProgress.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_ChuyenGiuong.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuong.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuongImport.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhong.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhongImport.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachBenhNhanChoXuatGiuong.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachChoDuyetTheoKhoaPhong.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachDen.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DatGiuongNoiTru.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiGiuong.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhong.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhongImport.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_NhapThongTinDatGiuongBenhNhan.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuongNoiTru.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuong.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Properties.Resources.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.UscPhong.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_DragControlEdit.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Usc_GiuongEdit.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_GiuongEdit2.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_lableTong.resources
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.GenerateResource.cache
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.CoreCompileInputs.cache
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.CopyComplete
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.pdb
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.dll.config
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.dll
+D:\NVLong\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.pdb
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_API.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlNew.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_Helpers.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_SafeCacheDataService.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibMedi.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\unvell.ReoGrid.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\stdole.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibDuoc.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibVienphi.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\vnConvert.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibLicense.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\dichso.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\unvell.ReoScript.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.Instrumentation.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Antlr3.Runtime.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.Instrumentation.xml
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Form1.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frmProgress.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_ChuyenGiuong.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuong.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuongImport.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhong.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhongImport.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachBenhNhanChoXuatGiuong.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachChoDuyetTheoKhoaPhong.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachDen.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DatGiuongNoiTru.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiGiuong.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhong.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhongImport.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_NhapThongTinDatGiuongBenhNhan.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuongNoiTru.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuong.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Properties.Resources.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.UscPhong.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_DragControlEdit.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Usc_GiuongEdit.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_GiuongEdit2.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_lableTong.resources
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.GenerateResource.Cache
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.pdb
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlAdv.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\FlashControlV71.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\ShockwaveFlashObjects.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csprojResolveAssemblyReference.cache
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E12_SuCo.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\MaskedBox.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_Bus.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibDal.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibUtility.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Bytescout.BarCode.dll
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E12_SuCo.pdb
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.exe.config
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.exe
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.E11_PhongGiuong.exe.config
+E:\Code\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.exe
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csprojAssemblyReference.cache
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.exe.config
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Form1.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frmProgress.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_ChuyenGiuong.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuong.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuongImport.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhong.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhongImport.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachBenhNhanChoXuatGiuong.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachChoDuyetTheoKhoaPhong.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachDen.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DatGiuongNoiTru.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiGiuong.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhong.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhongImport.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_NhapThongTinDatGiuongBenhNhan.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuongNoiTru.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuong.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Properties.Resources.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.UscPhong.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_DragControlEdit.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Usc_GiuongEdit.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_GiuongEdit2.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_lableTong.resources
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.GenerateResource.cache
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.CoreCompileInputs.cache
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.exe
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.pdb
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.exe.config
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.exe
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.pdb
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.Shared.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar2.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E12_SuCo.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\FlashControlV71.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibMedi.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\unvell.ReoGrid.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\stdole.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\ShockwaveFlashObjects.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibDuoc.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibVienphi.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\vnConvert.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibLicense.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\dichso.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\unvell.ReoScript.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.Instrumentation.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Antlr3.Runtime.dll
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar2.xml
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_API.pdb
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlNew.pdb
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlNew.dll.config
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.Instrumentation.xml
+D:\LuuHoaiNam\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.CopyComplete
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.exe.config
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.exe
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.pdb
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.exe
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E11_PhongGiuong.pdb
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibMedi.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\unvell.ReoGrid.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\stdole.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibDuoc.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibVienphi.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\vnConvert.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\LibLicense.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\dichso.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\unvell.ReoScript.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.Instrumentation.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\Antlr3.Runtime.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.DotNetBar2.xml
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_API.pdb
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlNew.pdb
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E12_SuCo.pdb
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\DevComponents.Instrumentation.xml
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Form1.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frmProgress.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_ChuyenGiuong.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuong.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucGiuongImport.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhong.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhMucPhongImport.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachBenhNhanChoXuatGiuong.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachChoDuyetTheoKhoaPhong.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DanhSachDen.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_DatGiuongNoiTru.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiGiuong.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhong.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_LoaiPhongImport.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_NhapThongTinDatGiuongBenhNhan.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuongNoiTru.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.frm_QuanLyGiuong.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Properties.Resources.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.UscPhong.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_DragControlEdit.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.Usc_GiuongEdit.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_GiuongEdit2.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.usc_lableTong.resources
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.GenerateResource.Cache
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\FlashControlV71.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\ShockwaveFlashObjects.dll
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\CrystalDecisions.Shared.xml
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\bin\Debug\E00_ControlNew.dll.config
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.AssemblyReference.cache
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.exe.config
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.CoreCompileInputs.cache
+D:\phamdinhngoc\E11_PhongGiuong_2.0\E11_PhongGiuong_2.0\E11_PhongGiuong\obj\Debug\E11_PhongGiuong.csproj.CopyComplete

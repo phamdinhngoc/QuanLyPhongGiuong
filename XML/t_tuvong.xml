@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+								<xs:element name="sql" type="xs:string" minOccurs="0" />
+                <xs:element name="sql1" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ma>xuatvien</ma>
+		<ten>Nội trú</ten>
+		<sql>SELECT a.MABN, a.HOTEN,substr(i.tuoivao,1,3)||decode(substr(i.tuoivao,4,1),0,'TU',decode(substr(i.tuoivao,4,1),1,'TH',decode(substr(i.tuoivao,4,1),2,'NG','GI'))) tuoi,      nvl(h.quanhe,' ') quanhe,nvl(h.hoten,' ')  hotenqh,nvl(a.SONHA,' ') sonha, nvl(a.THON,' ') thon,b.TENPXA, c.TENQUAN, d.TENTT,      to_char(f.ngay,'dd/mm/yyyy hh24:mi')  ngayvk,g.CHANDOAN, g.MAICD, e.TENKP, to_char(g.ngay,'dd/mm/yyyy hh24:mi')  ngayrk,g.SOLUUTRU,to_date(g.ngay,'dd/mm/yy hh24:mi')-to_date(f.ngay,'dd/mm/yy hh24:mi') as ngaygio,f.maql FROM his.btdbn a inner join his.benhandt f on a.mabn=f.mabn inner join his.btdpxa b on a.maphuongxa=b.maphuongxa inner join his.btdquan c on a.maqu=c.maqu inner join his.btdtt d on a.matt=d.matt left join his.xuatvien g on f.maql=g.maql inner join his.btdkp_bv e on f.makp=e.makp left join his.QUANHE  h on f.maql=h.maql inner join his.lienhe i on f.maql=i.maql      WHERE f.LOAIBA=1 and g.ttlucrv in (7,9,10,11)    </sql>
+    <sql1></sql1>
+	</Table>
+	<Table>
+		<ma>benhandt</ma>
+		<ten>Ngoại trú</ten>
+		<sql>SELECT a.MABN, a.HOTEN,substr(i.tuoivao,1,3)||decode(substr(i.tuoivao,4,1),0,'TU',decode(substr(i.tuoivao,4,1),1,'TH',decode(substr(i.tuoivao,4,1),2,'NG','GI'))) tuoi,nvl(h.quanhe,' ') quanhe,nvl(h.hoten,' ')  hotenqh,nvl(a.SONHA,' ') sonha, nvl(a.THON,' ') thon,b.TENPXA, c.TENQUAN, d.TENTT,to_char(g.ngay,'dd/mm/yyyy hh24:mi')  ngayvk,g.CHANDOANrv, g.MAICDrv, e.TENKP, to_char(g.ngayrv,'dd/mm/yyyy hh24:mi')  ngayrk,g.SOLUUTRU,to_date(g.ngayrv,'dd/mm/yy hh24:mi')-to_date(g.ngay,'dd/mm/yy hh24:mi') as ngaygio,g.maql FROM his.btdbn a inner join his.benhanngtr g on a.mabn=g.mabn inner join his.btdpxa b on a.maphuongxa=b.maphuongxa inner join his.btdquan c on a.maqu=c.maqu inner join his.btdtt d on a.matt=d.matt inner join his.btdkp_bv e on g.makp=e.makp left join his.QUANHE  h on g.maql=h.maql inner join his.lienhe i on g.maql=i.maql WHERE g.ttlucrv in (7,9,10,11)</sql>
+    <sql1></sql1>
+	</Table>
+  <Table>
+    <ma>benhancc</ma>
+    <ten>Cấp cứu tổng hợp</ten>
+    <sql></sql>
+    <sql1>SELECT a.MABN, a.HOTEN,substr(i.tuoivao,1,3)||decode(substr(i.tuoivao,4,1),0,'TU',decode(substr(i.tuoivao,4,1),1,'TH',decode(substr(i.tuoivao,4,1),2,'NG','GI'))) tuoi,nvl(h.quanhe,' ') quanhe,nvl(h.hoten,' ')  hotenqh,nvl(a.SONHA,' ') sonha, nvl(a.THON,' ') thon,b.TENPXA, c.TENQUAN, d.TENTT,to_char(g.ngay,'dd/mm/yyyy hh24:mi')  ngayvk,g.CHANDOANrv chandoan, g.MAICDrv maicd, e.TENKP, to_char(g.ngayrv,'dd/mm/yyyy hh24:mi')  ngayrk,g.SOLUUTRU,to_date(g.ngayrv,'dd/mm/yy hh24:mi')-to_date(g.ngay,'dd/mm/yy hh24:mi') as ngaygio,g.maql FROM his.btdbn a inner join hismmyy.benhancc g on a.mabn=g.mabn inner join his.btdpxa b on a.maphuongxa=b.maphuongxa  inner join his.btdquan c on a.maqu=c.maqu inner join his.btdtt d on a.matt=d.matt inner join his.btdkp_bv e on g.makp=e.makp   left join his.QUANHE  h on g.maql=h.maql      inner join hismmyy.lienhe i on g.maql=i.maql      WHERE g.ttlucrv=7</sql1>
+  </Table>
+  <Table>
+    <ma>benhanpk</ma>
+    <ten>Phòng khám</ten>
+    <sql></sql>
+    <sql1>SELECT a.MABN, a.HOTEN,substr(i.tuoivao,1,3)||decode(substr(i.tuoivao,4,1),0,'TU',decode(substr(i.tuoivao,4,1),1,'TH',decode(substr(i.tuoivao,4,1),2,'NG','GI'))) tuoi,      nvl(h.quanhe,' ') quanhe,nvl(h.hoten,' ')  hotenqh,nvl(a.SONHA,' ') sonha, nvl(a.THON,' ') thon,b.TENPXA, c.TENQUAN, d.TENTT,      to_char(g.ngay,'dd/mm/yyyy hh24:mi')  ngayvk,g.CHANDOAN, g.MAICD, e.TENKP, to_char(g.ngay,'dd/mm/yyyy hh24:mi')  ngayrk,g.sovaovien as SOLUUTRU,to_date(g.ngay,'dd/mm/yy hh24:mi')-to_date(g.ngay,'dd/mm/yy hh24:mi') as ngaygio,g.maql      FROM his.btdbn a inner join hismmyy.benhanpk g on a.mabn=g.mabn      inner join his.btdpxa b on a.maphuongxa=b.maphuongxa      inner join his.btdquan c on a.maqu=c.maqu      inner join his.btdtt d on a.matt=d.matt      inner join his.btdkp_bv e on g.makp=e.makp      left join his.QUANHE  h on g.maql=h.maql      inner join hismmyy.lienhe i on g.maql=i.maql      WHERE g.ttlucrv=7  </sql1>
+  </Table>
+</NewDataSet>

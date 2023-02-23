@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <Servicename>hisKhanh</Servicename>
+    <Userid>hisbvnhitp</Userid>
+    <Password>hisbvnhitp</Password>
+    <Mabv>701.4.16</Mabv>
+    <Fox />
+    <ConSql>      User ID=sa;Password=sa;Data Source=GS05;Persist Security Info=True;Initial Catalog=VIENPHI_LUAT;      </ConSql>
+  </Row>
+</Import>

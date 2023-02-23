@@ -1,0 +1,375 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="KHOAPHONG" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MADV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="STT" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TONGSO" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HIENCO" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CONGTAC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DIHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="PHEP" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="RATRUC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="OM" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="THAISAN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DANHDAU" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BACSI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DIEUDUONG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KTV" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHACBC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Bùi Thị Hoa(hh)</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Chế Thị Bê</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Huỳnh Thị Thuận</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Lê Thanh Hường</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Nguyễn Ngọc Tri</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Nguyễn Thanh Lời</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Nguyễn Thùy My</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Nguyễn Thị Của</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Nguyễn Thị Hưng</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Nguyễn Thị Nên</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Nguyễn Thị Hồng Lai</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Nguyễn Thị Lý Nhân</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Nguyễn Thị Mỹ Thoa</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Nguyễn Trần Ngọc Lệ</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Phạm Thị Ngọc Hiền</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Trần Thị Gái</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+  <Table>
+    <KHOAPHONG>Huyết Học</KHOAPHONG>
+    <HOTEN>Trần Thị Thu Trang</HOTEN>
+    <MADV>009</MADV>
+    <STT>9</STT>
+    <TONGSO>2</TONGSO>
+    <HIENCO>0</HIENCO>
+    <CONGTAC>0</CONGTAC>
+    <DIHOC>0</DIHOC>
+    <PHEP>0</PHEP>
+    <RATRUC>0</RATRUC>
+    <OM>0</OM>
+    <THAISAN>0</THAISAN>
+    <KHAC>0</KHAC>
+    <DANHDAU>0</DANHDAU>
+    <BACSI>0</BACSI>
+    <DIEUDUONG>0</DIEUDUONG>
+    <KTV>0</KTV>
+    <KHACBC>0</KHACBC>
+  </Table>
+</NewDataSet>

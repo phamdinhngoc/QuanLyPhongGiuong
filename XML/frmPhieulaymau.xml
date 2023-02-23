@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CHKDOCMAVACH" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKNAPLAIDANHSACH" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONGMOI" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKXUATLCD" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKMAKT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKPREVIEW" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUNGAYDENNGAY_SERVER" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKCHONDS" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONGINPHIEULAYMAU" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKINMAVACH" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKPREVIEWBARCODE" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONGINBARCODE" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKXUATBANGDIENTRIVIET" type="xs:string" minOccurs="0" />
+                <xs:element name="NUMSOBANGDIEN" type="xs:string" minOccurs="0" />
+                <xs:element name="NUMCOMPORT" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTCODEDUNG" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <CHKDOCMAVACH>1</CHKDOCMAVACH>
+    <CHKNAPLAIDANHSACH>0</CHKNAPLAIDANHSACH>
+    <CHKTUDONGMOI>1</CHKTUDONGMOI>
+    <CHKXUATLCD>0</CHKXUATLCD>
+    <CHKMAKT>0</CHKMAKT>
+    <CHKPREVIEW>0</CHKPREVIEW>
+    <CHKTUNGAYDENNGAY_SERVER>0</CHKTUNGAYDENNGAY_SERVER>
+    <CHKCHONDS>0</CHKCHONDS>
+    <CHKTUDONGINPHIEULAYMAU>0</CHKTUDONGINPHIEULAYMAU>
+    <CHKINMAVACH>0</CHKINMAVACH>
+    <CHKPREVIEWBARCODE>0</CHKPREVIEWBARCODE>
+    <CHKTUDONGINBARCODE>0</CHKTUDONGINBARCODE>
+    <CHKXUATBANGDIENTRIVIET>0</CHKXUATBANGDIENTRIVIET>
+    <NUMSOBANGDIEN>1</NUMSOBANGDIEN>
+    <NUMCOMPORT>1</NUMCOMPORT>
+    <TXTCODEDUNG />
+  </Table>
+</NewDataSet>

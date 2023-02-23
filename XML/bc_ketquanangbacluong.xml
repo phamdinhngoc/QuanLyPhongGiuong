@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="NV_CUOIKY" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NV_NBACLUONG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NV_NBACTRUOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TD_NNGHIEP" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NU" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBANG" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MANGACHCU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="BACLUONGCU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_LC_CU" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYGIUBAC" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="HS_BLUU" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MANGACHMOI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="BACLUONGMOI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_LC_MOI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYNANGBAC" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="HS_BLUU_MOI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="BACCUOI" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="LUONGHD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <table>
+    <NV_CUOIKY>876</NV_CUOIKY>
+  </table>
+</NewDataSet>

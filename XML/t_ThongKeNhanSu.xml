@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="LABEL" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="TONGNV" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NV_NU" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NV_NAM" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DANG_V" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DOAN_V" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CONGDOAN_V" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CAP1" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CAP2" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CAP3" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DAIHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TRENDH" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SC_CTRI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TC_CTRI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CN_CTRI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CC_CTRI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SH_CMON" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TH_CMON" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DH_CMON" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TDH_CMON" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CD_CMON" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="THANG" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <LABEL>CB - CNV BIÊN CHẾ</LABEL>
+    <TONGNV>647</TONGNV>
+    <NV_NU>458</NV_NU>
+    <NV_NAM>189</NV_NAM>
+    <DANG_V>0</DANG_V>
+    <DOAN_V>0</DOAN_V>
+    <CAP1>0</CAP1>
+    <CAP2>0</CAP2>
+    <CAP3>0</CAP3>
+    <DAIHOC>0</DAIHOC>
+    <TRENDH>0</TRENDH>
+    <SC_CTRI>0</SC_CTRI>
+    <TC_CTRI>0</TC_CTRI>
+    <CN_CTRI>0</CN_CTRI>
+    <CC_CTRI>0</CC_CTRI>
+    <SH_CMON>1</SH_CMON>
+    <TH_CMON>0</TH_CMON>
+    <DH_CMON>0</DH_CMON>
+    <TDH_CMON>0</TDH_CMON>
+    <CD_CMON>0</CD_CMON>
+    <NGAY>07</NGAY>
+    <THANG>04</THANG>
+    <NAM>2015</NAM>
+  </Table>
+  <Table>
+    <LABEL>TĂNG TRONG THÁNG TUYỂN DỤNG MỚI</LABEL>
+    <TONGNV>0</TONGNV>
+    <NGAY>07</NGAY>
+    <THANG>04</THANG>
+    <NAM>2015</NAM>
+  </Table>
+  <Table>
+    <LABEL>GIẢM TRONG THÁNG THÔI VIỆC</LABEL>
+    <TONGNV>0</TONGNV>
+    <NGAY>07</NGAY>
+    <THANG>04</THANG>
+    <NAM>2015</NAM>
+  </Table>
+  <Table>
+    <LABEL> HỢP ĐỒNG DƯỚI 6 THÁNG </LABEL>
+    <TONGNV>0</TONGNV>
+    <NGAY>07</NGAY>
+    <THANG>04</THANG>
+    <NAM>2015</NAM>
+  </Table>
+</NewDataSet>

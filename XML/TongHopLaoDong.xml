@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TONGSONV" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LOAIHD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="PHAI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DANGVIEN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DANTOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DH_TRENDH" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CAODANG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TRUNGHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SOCAP" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HD_KHAC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <TONGSONV>884</TONGSONV>
+    <LOAIHD>647</LOAIHD>
+    <PHAI>610</PHAI>
+    <DANGVIEN>0</DANGVIEN>
+    <DANTOC>0</DANTOC>
+    <DH_TRENDH>0</DH_TRENDH>
+    <CAODANG>0</CAODANG>
+    <TRUNGHOC>1</TRUNGHOC>
+    <SOCAP>0</SOCAP>
+    <HD_KHAC>237</HD_KHAC>
+  </Table>
+</NewDataSet>

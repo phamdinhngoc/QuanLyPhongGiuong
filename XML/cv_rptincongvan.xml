@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table" msprop:BaseTable.3="CV_DMKP" msprop:BaseTable.4="CV_DMNOIGOINHAN" msprop:BaseTable.0="CV_CONGVAN" msprop:BaseTable.5="CV_THEODOI" msprop:BaseTable.1="CV_GOICONGVAN" msprop:BaseTable.2="CV_DMNHANVIEN">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TACGIA" msprop:OraDbType="119" msprop:BaseColumn="TACGIA" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYQD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="SOBAN" msprop:OraDbType="112" msprop:BaseColumn="SOBAN" type="xs:int" minOccurs="0" />
+                <xs:element name="GHICHU" msprop:OraDbType="119" msprop:BaseColumn="GHICHU" type="xs:string" minOccurs="0" />
+                <xs:element name="IDCV" msprop:OraDbType="113" msprop:BaseColumn="ID" type="xs:long" minOccurs="0" />
+                <xs:element name="IDGOI" msprop:OraDbType="113" msprop:BaseColumn="ID" type="xs:long" minOccurs="0" />
+                <xs:element name="MACV" msprop:OraDbType="126" msprop:BaseColumn="MACV" type="xs:string" minOccurs="0" />
+                <xs:element name="SOCV" msprop:OraDbType="119" msprop:BaseColumn="SOCV" type="xs:string" minOccurs="0" />
+                <xs:element name="SOQD" msprop:OraDbType="119" msprop:BaseColumn="SOQD" type="xs:string" minOccurs="0" />
+                <xs:element name="TENCV" msprop:OraDbType="119" msprop:BaseColumn="TENCV" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="IDLOAI" msprop:OraDbType="112" msprop:BaseColumn="IDLOAI" type="xs:int" minOccurs="0" />
+                <xs:element name="LOAIDV" msprop:OraDbType="126" msprop:BaseColumn="LOAIDV" type="xs:string" minOccurs="0" />
+                <xs:element name="NOIDUNG" msprop:OraDbType="119" msprop:BaseColumn="NOIDUNG" type="xs:string" minOccurs="0" />
+                <xs:element name="TENFILE" msprop:OraDbType="119" msprop:BaseColumn="TENFILE" type="xs:string" minOccurs="0" />
+                <xs:element name="IDNGUOIGOI" msprop:OraDbType="126" msprop:BaseColumn="IDNGUOIGOI" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" msprop:BaseColumn="HOTEN" type="xs:string" minOccurs="0" />
+                <xs:element name="NGUOIGOI" msprop:OraDbType="119" msprop:BaseColumn="NGUOINHAN" type="xs:string" minOccurs="0" />
+                <xs:element name="BOPHANGOI" msprop:OraDbType="119" msprop:BaseColumn="BOPHANNHAN" type="xs:string" minOccurs="0" />
+                <xs:element name="MAKP" msprop:OraDbType="126" msprop:BaseColumn="MAKP" type="xs:string" minOccurs="0" />
+                <xs:element name="TENKP" msprop:OraDbType="119" msprop:BaseColumn="TENKP" type="xs:string" minOccurs="0" />
+                <xs:element name="MANOIGOI" msprop:OraDbType="126" msprop:BaseColumn="MANOIGOI" type="xs:string" minOccurs="0" />
+                <xs:element name="DONE" msprop:OraDbType="111" msprop:BaseColumn="DONE" type="xs:short" minOccurs="0" />
+                <xs:element name="NGAYHH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <NGAYQD>06/04/2015 16:03</NGAYQD>
+    <SOBAN>1</SOBAN>
+    <IDCV>150406160427215001</IDCV>
+    <IDGOI>150406160427681001</IDGOI>
+    <MACV>GUI001</MACV>
+    <SOCV>CVD01</SOCV>
+    <SOQD>QD01</SOQD>
+    <TENCV>gui huyen</TENCV>
+    <NGAY>06/04/2015 16:03</NGAY>
+    <IDLOAI>1</IDLOAI>
+    <LOAIDV>G</LOAIDV>
+    <IDNGUOIGOI>001</IDNGUOIGOI>
+    <HOTEN>Nguyễn Nam Sinh</HOTEN>
+    <NGUOIGOI>Nam Sinh</NGUOIGOI>
+    <MAKP>01</MAKP>
+    <TENKP>Phòng Tổ Chức</TENKP>
+    <MANOIGOI>1</MANOIGOI>
+    <DONE>0</DONE>
+    <NGAYHH>06/04/2015</NGAYHH>
+  </Table>
+</NewDataSet>

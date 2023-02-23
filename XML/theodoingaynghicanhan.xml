@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TENVT" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="SHCC" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="LOAIHD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="DIENGIAI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="THANG" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="STK" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CMNDSO" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYSINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCVU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUYENMON" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBP" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="SOBHXH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_LC" msprop:OraDbType="122" type="xs:float" minOccurs="0" />
+                <xs:element name="HS_CV" msprop:OraDbType="122" type="xs:float" minOccurs="0" />
+                <xs:element name="DIHOC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHONGLUONG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHONGPHEP" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="OM" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CONOM" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHAMTHAI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="THAISAN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <LOAIHD>BC</LOAIHD>
+    <DIENGIAI>Bác sĩ chính</DIENGIAI>
+    <THANG>04</THANG>
+    <NAM>2015</NAM>
+    <MANV>00305</MANV>
+    <HOTEN>Đoàn Văn  Xiêm</HOTEN>
+    <STK xml:space="preserve"> </STK>
+    <CMNDSO>211263902</CMNDSO>
+    <NGAYSINH>29/04/1966</NGAYSINH>
+    <CHUCVU>Trưởng Khoa</CHUCVU>
+    <CHUYENMON>Bác sĩ CKII</CHUYENMON>
+    <TENBP>Mắt</TENBP>
+    <HS_LC>1</HS_LC>
+    <DIHOC>0</DIHOC>
+    <KHONGLUONG>0</KHONGLUONG>
+    <KHONGPHEP>0</KHONGPHEP>
+    <OM>0</OM>
+    <CONOM>1</CONOM>
+    <KHAMTHAI>0</KHAMTHAI>
+    <THAISAN>0</THAISAN>
+  </Table>
+</NewDataSet>

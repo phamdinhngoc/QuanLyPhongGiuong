@@ -1,0 +1,575 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="STT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="REPORT" type="xs:string" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="NOIDUNG" type="xs:string" minOccurs="0" />
+								<xs:element name="KETQUA" type="xs:string" minOccurs="0" />
+								<xs:element name="THUCHIEN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TINHTRANG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="LANTHU" type="xs:decimal" minOccurs="0" />
+								<xs:element name="HEN" type="xs:string" minOccurs="0" />
+								<xs:element name="CANNANG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="CHIEUCAO" type="xs:decimal" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ID>12</ID>
+		<STT>1</STT>
+		<REPORT>r12bv.rpt</REPORT>
+		<TEN>Phiếu khám chuyên khoa</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>19</ID>
+		<STT>2</STT>
+		<REPORT>r19bv.rpt</REPORT>
+		<TEN>Phiếu chiếu/chụp X Quang</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>1</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>20</ID>
+		<STT>3</STT>
+		<REPORT>r20bv.rpt</REPORT>
+		<TEN>Phiếu chụp cắt lớp vi tính</TEN>
+		<NOIDUNG>Người bệnh có cơ địa dị ứng</NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>1</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>21</ID>
+		<STT>4</STT>
+		<REPORT>r21bv.rpt</REPORT>
+		<TEN>Phiếu chụp cộng hưởng từ</TEN>
+		<NOIDUNG>Người bệnh có dị ứng vật kim loại trong cơ thể</NOIDUNG>
+		<KETQUA>Các kết quả xét nghiệm, chẩn đoán hình ảnh đã có </KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>1</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>22</ID>
+		<STT>5</STT>
+		<REPORT>r22bv.rpt</REPORT>
+		<TEN>Phiếu siêu âm</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>1</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>23</ID>
+		<STT>6</STT>
+		<REPORT>r23bv.rpt</REPORT>
+		<TEN>Phiếu điện tim</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>1</LANTHU>
+		<HEN></HEN>
+		<CANNANG>1</CANNANG>
+		<CHIEUCAO>1</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>24</ID>
+		<STT>7</STT>
+		<REPORT>r24bv.rpt</REPORT>
+		<TEN>Phiếu điện não</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA>Tình trạng người bệnh lúc ghi điện não</KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>1</LANTHU>
+		<HEN>Hẹn ghi điện não</HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>25</ID>
+		<STT>8</STT>
+		<REPORT>r25bv.rpt</REPORT>
+		<TEN>Phiếu nội soi</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>1</LANTHU>
+		<HEN>Hẹn ghi nội soi</HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>26</ID>
+		<STT>9</STT>
+		<REPORT>r26bv.rpt</REPORT>
+		<TEN>Phiếu đo chức năng hô hấp</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>1</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>27</ID>
+		<STT>10</STT>
+		<REPORT>r27bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm</TEN>
+		<NOIDUNG>Bệnh phẩm</NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>1</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>28</ID>
+		<STT>11</STT>
+		<REPORT>r28bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm huyết học</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>1</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>29</ID>
+		<STT>12</STT>
+		<REPORT>r29bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm huyết - tủy đồ</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA>Tóm tắt quá trình bệnh lí,triệu chứng thực thể (gan,lách,hạch)</KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>1</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>30</ID>
+		<STT>13</STT>
+		<REPORT>r30bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm chẩn đoán rối loạn đông cầm máu</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA>Tóm tắt bệnh lý</KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>1</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>31</ID>
+		<STT>14</STT>
+		<REPORT>r31bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm sinh thiết tủy xương</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN>Sinh thiết</HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>32</ID>
+		<STT>15</STT>
+		<REPORT>r32bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm nước dịch</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>1</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>33</ID>
+		<STT>16</STT>
+		<REPORT>r33bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm hóa sinh máu</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>1</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>34</ID>
+		<STT>17</STT>
+		<REPORT>r34bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm hóa sinh nước tiểu,phân,dịch chọc dò</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>1</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>35</ID>
+		<STT>18</STT>
+		<REPORT>r35bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm vi sinh</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>1</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>36</ID>
+		<STT>19</STT>
+		<REPORT>r36bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm giải phẫu bệnh sinh thiết</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>1</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>37</ID>
+		<STT>20</STT>
+		<REPORT>r37bv.rpt</REPORT>
+		<TEN>Phiếu xét nghiệm giải phẫu bệnh - khám nghiệm tử thi</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>1</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>1</ID>
+		<STT>21</STT>
+		<REPORT></REPORT>
+		<TEN>Giấy ra viện</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>2</ID>
+		<STT>22</STT>
+		<REPORT></REPORT>
+		<TEN>Giấy chuyển viện</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>3</ID>
+		<STT>23</STT>
+		<REPORT></REPORT>
+		<TEN>Giấy cam đoan chấp nhận phẫu thuật, thủ thuật và gây mê hồi sức</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>4</ID>
+		<STT>24</STT>
+		<REPORT></REPORT>
+		<TEN>Giấy chứng nhận phẫu thuật</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>5</ID>
+		<STT>25</STT>
+		<REPORT></REPORT>
+		<TEN>Giấy khám/chữa bệnh theo yêu cầu</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>6</ID>
+		<STT>26</STT>
+		<REPORT></REPORT>
+		<TEN>Giấy thư phảhn ứng thuốc</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>7</ID>
+		<STT>27</STT>
+		<REPORT></REPORT>
+		<TEN>Phiếu theo dõi dị ứng thuốc</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>8</ID>
+		<STT>28</STT>
+		<REPORT></REPORT>
+		<TEN>Giấy chứng nhận thương tích</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>9</ID>
+		<STT>29</STT>
+		<REPORT></REPORT>
+		<TEN>Phiếu chăm sóc</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>10</ID>
+		<STT>30</STT>
+		<REPORT></REPORT>
+		<TEN>Phiếu theo dõi chức năng sống</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>11</ID>
+		<STT>31</STT>
+		<REPORT></REPORT>
+		<TEN>Phiếu theo dõi chuyển dạ để (biểu đồ chuyển dạ)</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>38</ID>
+		<STT>58</STT>
+		<REPORT></REPORT>
+		<TEN>Phiếu thanh toán ra viện</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>39</ID>
+		<STT>59</STT>
+		<REPORT></REPORT>
+		<TEN>Tờ điều trị</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>40</ID>
+		<STT>61</STT>
+		<REPORT></REPORT>
+		<TEN>Trích biên bản hội chẩn</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>41</ID>
+		<STT>61</STT>
+		<REPORT></REPORT>
+		<TEN>Trích biên bản kiểm điểm tử vong</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>42</ID>
+		<STT>62</STT>
+		<REPORT></REPORT>
+		<TEN>Phiếu khám bệnh vào viện (chung)</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>43</ID>
+		<STT>63</STT>
+		<REPORT></REPORT>
+		<TEN>Phiếu khám bệnh vào viện (chuyên khoa Mắt)</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>44</ID>
+		<STT>64</STT>
+		<REPORT></REPORT>
+		<TEN>Phiếu khám bệnh vào viện (chuyênn khoa Tai - Mũi - Họng)</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+	<Table>
+		<ID>45</ID>
+		<STT>65</STT>
+		<REPORT></REPORT>
+		<TEN>Phiếu khám bệnh vào viện (chuyên khoa Răng - Hàm - Mặt)</TEN>
+		<NOIDUNG></NOIDUNG>
+		<KETQUA></KETQUA>
+		<THUCHIEN>0</THUCHIEN>
+		<TINHTRANG>0</TINHTRANG>
+		<LANTHU>0</LANTHU>
+		<HEN></HEN>
+		<CANNANG>0</CANNANG>
+		<CHIEUCAO>0</CHIEUCAO>
+	</Table>
+</NewDataSet>

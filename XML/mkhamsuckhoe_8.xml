@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="text" type="xs:string" minOccurs="0" />
+                <xs:element name="tag" type="xs:string" minOccurs="0" />
+                <xs:element name="makp" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <text>Nội khoa</text>
+    <tag>p01</tag>
+    <makp>05</makp>
+  </Table>
+  <Table>
+    <text>Ngoại khoa</text>
+    <tag>p02</tag>
+    <makp>08</makp>
+  </Table>
+  <Table>
+    <text>Cơ xương khớp</text>
+    <tag>p08</tag>
+    <makp>19</makp>
+  </Table>
+  <Table>
+    <text>Da liễu</text>
+    <tag>p09</tag>
+    <makp>21</makp>
+  </Table>
+  <Table>
+    <text>Mắt</text>
+    <tag>p03</tag>
+    <makp>03</makp>
+  </Table>
+  <Table>
+    <text>Tai mũi họng</text>
+    <tag>p05</tag>
+    <makp>18</makp>
+  </Table>
+  <Table>
+    <text>Răng Hàm Mặt</text>
+    <tag>p04</tag>
+    <makp>16</makp>
+  </Table>
+  <Table>
+    <text>Sản phụ khoa</text>
+    <tag>p06</tag>
+    <makp>17</makp>
+  </Table>
+  <Table>
+    <text>Kết luận</text>
+    <tag>p07</tag>
+    <makp>43</makp>
+  </Table>
+</NewDataSet>

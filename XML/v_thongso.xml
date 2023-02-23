@@ -1,0 +1,152 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <loai>1</loai>
+    <sohieu>67</sohieu>
+    <c01>HDTD/11 - P19</c01>
+    <c02>1</c02>
+    <c03>0</c03>
+    <c04>0</c04>
+    <c05>0</c05>
+    <c06>0</c06>
+    <c07>Huỳnh Thị Nhĩ</c07>
+    <c08>Nguyễn Thị Hương</c08>
+    <c09>Huỳnh Thị Hoa</c09>
+    <c10>999</c10>
+    <c11>1</c11>
+    <c12>HCM 27/ĐT-VT.20VP</c12>
+    <c13>0302159861</c13>
+    <c14>0011000013193</c14>
+    <c15>338 Hai Bà Trưng - Quận 1</c15>
+    <c17>0</c17>
+    <c19>0</c19>
+    <c53>0</c53>
+    <c54>0</c54>
+    <c55>1</c55>
+    <c65>0</c65>
+    <c69>Vũ Thị Nhung</c69>
+    <c70>0</c70>
+    <c71>1</c71>
+    <c73>1</c73>
+    <c75>1</c75>
+    <c77>1</c77>
+    <c79>0</c79>
+    <c81>0</c81>
+    <c82>0</c82>
+    <c85>0</c85>
+    <c86>0</c86>
+    <hinh>C:\HSoft\hinh.nen.bd\VIENPHI.bd.jpg</hinh>
+    <thupk>1</thupk>
+    <thupl>1</thupl>
+    <thuntru>1</thuntru>
+    <thungtru>1</thungtru>
+    <thunhathuoc>0</thunhathuoc>
+    <qsthuong />
+    <qsdichvu>721</qsdichvu>
+    <diemthu>2</diemthu>
+    <tmn_Thuchidinh>1</tmn_Thuchidinh>
+    <tmn_Toathuoctutruc>0</tmn_Toathuoctutruc>
+    <tmn_Vienphikhoa>1</tmn_Vienphikhoa>
+    <tmn_DonthuocBHYT>1</tmn_DonthuocBHYT>
+    <vienphidot>0</vienphidot>
+    <vpgdduyet>1</vpgdduyet>
+    <vpinnhom>1</vpinnhom>
+    <tamunguser>1</tamunguser>
+    <tamungall>1</tamungall>
+    <quyensouser>0</quyensouser>
+    <chkthupktn>0</chkthupktn>
+    <thuchirvtuct>0</thuchirvtuct>
+    <thuchirvtu>1</thuchirvtu>
+    <thuchirvdtvao>1</thuchirvdtvao>
+    <giavpall>1</giavpall>
+    <giavpgc />
+    <vploai>1</vploai>
+    <tamungdt />
+    <chktumsgvietinbank />
+    <qsocoso />
+    <khoacoso />
+    <ttsorttheoma />
+    <thuttsttcls />
+    <chkvpttmsgvietinbank />
+    <tt_thutheoDT />
+    <tt_InHD_thuong>0</tt_InHD_thuong>
+    <tt_Intheoloai />
+    <tt_Intheonhom />
+    <tt_InchitietHD />
+    <tt_InHDdacthu>1</tt_InHDdacthu>
+    <rightcoso />
+    <ttrv_Doituongthu />
+    <vienphidathu />
+    <vienphihienlocdt />
+    <vpinloai />
+    <vptreo />
+    <vpmavaovien />
+    <vienphisttcls />
+    <chkinchiphibhyt />
+    <tmn_Thuocthuongquy>1</tmn_Thuocthuongquy>
+    <tmn_Donthuocduocphat />
+    <chkvpmsgvietinbank />
+    <qsthuong1>417</qsthuong1>
+    <qsdichvu1>337</qsdichvu1>
+    <diemthu1>2</diemthu1>
+    <vploai1>1</vploai1>
+    <qsthuong2>339</qsthuong2>
+    <qsdichvu2>282</qsdichvu2>
+    <diemthu2>4</diemthu2>
+    <vploai2>1</vploai2>
+    <thupk1 />
+    <thupl1 />
+    <thuntru1 />
+    <thungtru1 />
+    <thunhathuoc1 />
+    <ttrv_Doituongthu1 />
+    <vienphidathu1 />
+    <vpgdduyet1>1</vpgdduyet1>
+    <vienphihienlocdt1 />
+    <vpinnhom1 />
+    <vpinloai1 />
+    <chkthupktn1 />
+    <vptreo1 />
+    <vpmavaovien1 />
+    <vienphisttcls1 />
+    <chkinchiphibhyt1 />
+    <tmn_Thuchidinh1 />
+    <tmn_Toathuoctutruc1 />
+    <tmn_Vienphikhoa1 />
+    <tmn_DonthuocBHYT1 />
+    <tmn_Thuocthuongquy1 />
+    <tmn_Donthuocduocphat1 />
+    <chkvpmsgvietinbank1 />
+    <qsthuong3>205</qsthuong3>
+    <diemthu3>2</diemthu3>
+    <vploai3>1</vploai3>
+    <qsthuong0>7192</qsthuong0>
+    <diemthu0>2</diemthu0>
+    <vploai0>1</vploai0>
+    <qsdichvu0>439</qsdichvu0>
+    <thutructiepmabnluu />
+    <qsthuong4>4294</qsthuong4>
+    <qsdichvu4>339</qsdichvu4>
+    <diemthu4>4</diemthu4>
+    <vploai4>1</vploai4>
+    <tmn_thutructiep_inhdgtgt />
+    <tmn_thuvp_inhdgtgt />
+    <mn_Luuin_Hoadon_Icon_inhdgtgt />
+    <chkxem_inhdgtgt />
+    <ttrvtamungall>0</ttrvtamungall>
+    <thuchirvtt>1</thuchirvtt>
+    <thuchictvp />
+    <bkthuchirvsbl>0</bkthuchirvsbl>
+    <thuchirvhoantu />
+    <nhapthupl />
+    <loctheonguoinhap />
+    <solieucu />
+    <dieuchinhgia />
+    <vptamung />
+    <frmVienphi_TTRVvpgdduyet />
+    <frmVienphi_TTRVvpinnhom />
+    <frmVienphi_TTRVvpinloai />
+    <frmVienphi_TTRVchkthupktn />
+    <frmVienphi_TTRVvptreo />
+  </Row>
+</Import>

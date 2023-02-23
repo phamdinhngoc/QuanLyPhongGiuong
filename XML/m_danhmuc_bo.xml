@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+                <xs:element name="SQL" type="xs:string" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<SQL>select makp as ma,tenkp as ten from btdkp order by makp</SQL>
+		<MA>gia_th</MA>
+		<TEN>Khoa/phòng</TEN>
+	</Table>
+	<Table>
+		<SQL>select mann as ma,tennn as ten from btdnn order by mann</SQL>
+		<MA>gia_bh</MA>
+		<TEN>Nghề nghiệp</TEN>
+	</Table>
+	<Table>
+		<SQL>select madantoc as ma,dantoc as ten from btddt order by madantoc</SQL>
+		<MA>gia_dv</MA>
+		<TEN>Dân tộc</TEN>
+	</Table>
+	<Table>
+		<SQL>select * from dmquocgia order by ma</SQL>
+		<MA>gia_nn</MA>
+		<TEN>Quốc gia</TEN>
+	</Table>
+</NewDataSet>

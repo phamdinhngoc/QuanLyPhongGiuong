@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="STT" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCDANH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="BATDAU" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYBATDAU" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="KETTHUC" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYKETTHUC" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="SOGIO" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="BANNGAY" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="BANDEM" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="BANNGAY_TBCN" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="BANDEM_TBCN" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="BANNGAY_LETET" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="BANDEM_LETET" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="GHICHUCV" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <STT>0</STT>
+    <MANV>00307</MANV>
+    <HOTEN>Huỳnh Thị  Tâm</HOTEN>
+    <CHUCDANH>Mắt</CHUCDANH>
+    <BATDAU>07:30</BATDAU>
+    <NGAYBATDAU>07/04/2015</NGAYBATDAU>
+    <KETTHUC>12:30</KETTHUC>
+    <NGAYKETTHUC>07/04/2015</NGAYKETTHUC>
+    <NGAY>07/04/2015</NGAY>
+    <SOGIO>1</SOGIO>
+    <BANNGAY>1</BANNGAY>
+    <BANDEM>0</BANDEM>
+    <BANNGAY_TBCN>0</BANNGAY_TBCN>
+    <BANDEM_TBCN>0</BANDEM_TBCN>
+    <BANNGAY_LETET>0</BANNGAY_LETET>
+    <BANDEM_LETET>0</BANDEM_LETET>
+  </Table>
+</NewDataSet>

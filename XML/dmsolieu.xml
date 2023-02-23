@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<Table>
+		<STT>0</STT>
+		<LOAI>Khám bệnh</LOAI>
+		<SQL>SELECT to_number(to_char(now(),'yyyy'))-to_number(a.NAMSINH) as TUOI, a.PHAI, a.MANN, a.MADANTOC, a.MATT, a.MAQU, a.MAPHUONGXA, b.MADOITUONG,b.MAKP, b.DENTU, b.NHANTU, b.MAICD FROM medibv.BTDBN a,medibvmmyy.BENHANPK b WHERE a.MABN = b.MABN </SQL>
+	</Table>
+	<Table>
+		<STT>1</STT>
+		<LOAI>Điều trị ngoạI trú</LOAI>
+		<SQL>SELECT to_number(to_char(now(),'yyyy'))-to_number(a.NAMSINH) as TUOI, a.PHAI, a.MANN, a.MADANTOC, a.MATT, a.MAQU,a.MAPHUONGXA, b.MAKP, b.DENTU, b.NHANTU, b.MADOITUONG, b.MAICD, b.KETQUA, b.TTLUCRV FROM medibv.BTDBN a,medibv.BENHANNGTR b WHERE a.MABN = b.MABN </SQL>
+	</Table>
+	<Table>
+		<STT>2</STT>
+		<LOAI>Nhận bệnh</LOAI>
+		<SQL>SELECT to_number(to_char(now(),'yyyy'))-to_number(a.NAMSINH) as TUOI, a.PHAI, a.MANN, a.MADANTOC, a.MATT, a.MAQU, a.MAPHUONGXA, b.MADOITUONG,b.MAKP, b.DENTU, b.NHANTU, b.MAICD FROM medibv.BTDBN a,medibv.BENHANDT b WHERE a.MABN = b.MABN and b.LOAIBA=1</SQL>
+	</Table>
+	<Table>
+		<STT>3</STT>
+		<LOAI>Nhập khoa</LOAI>
+		<SQL>SELECT to_number(to_char(now(),'yyyy'))-to_number(a.NAMSINH) AS TUOI, a.PHAI, a.MANN, a.MADANTOC, a.MATT, a.MAQU, a.MAPHUONGXA, b.MAKP, b.MAICD, c.DENTU, c.NHANTU, c.MADOITUONG FROM medibv.BTDBN a,medibv.BENHANDT c,medibv.NHAPKHOA  b WHERE a.mabn=c.mabn and c.maql=b.maql and c.LOAIBA=1</SQL>
+	</Table>
+	<Table>
+		<STT>4</STT>
+		<LOAI>Xuất khoa</LOAI>
+		<SQL>SELECT to_number(to_char(now(),'yyyy'))-to_number(a.NAMSINH) AS TUOI, a.PHAI, a.MANN, a.MADANTOC, a.MATT, a.MAQU, a.MAPHUONGXA, b.DENTU, b.NHANTU,b.MADOITUONG, c.MAKP, d.KETQUA, d.TTLUCRK as TTLUCRV, d.MAICD FROM medibv.BTDBN a,medibv.BENHANDT b,medibv.NHAPKHOA c,medibv.XUATKHOA  d where a.mabn=b.mabn and b.maql=c.maql and c.id=d.id and b.loaiba=1</SQL>
+	</Table>
+	<Table>
+		<STT>5</STT>
+		<LOAI>Xuất viện</LOAI>
+		<SQL>SELECT to_number(to_char(now(),'yyyy'))-to_number(a.NAMSINH) as TUOI, a.PHAI, a.MANN, a.MADANTOC, a.MATT, a.MAQU, a.MAPHUONGXA, c.MAKP, b.DENTU, b.NHANTU, b.MADOITUONG, c.MAICD, c.KETQUA, c.TTLUCRV FROM medibv.BTDBN a,medibv.BENHANDT b,medibv.XUATVIEN c where a.mabn=b.mabn and b.maql=c.maql  and b.loaiba=1</SQL>
+	</Table>
+	<Table>
+		<STT>6</STT>
+		<LOAI>Phẫu thuật - thủ thuật</LOAI>
+		<SQL>SELECT to_number(to_char(now(),'yyyy'))-to_number(a.NAMSINH) AS TUOI, a.PHAI, a.MANN, a.MADANTOC, a.MATT, a.MAQU, a.MAPHUONGXA, c.DENTU, c.NHANTU, c.MADOITUONG, b.MAKP, b.MAICDT AS MAICD, b.MAPT, b.PHUONGPHAP, b.TINHHINH, b.TAIBIEN, b.TUVONG, d.LOAIPT FROM medibv.BTDBN a, medibv.BENHANDT c,medibvmmyy.PTTT b,medibv.DMPTTT d where a.MABN=c.MABN and c.MAQL=b.MAQL and  b.MAPT = d.MAPT</SQL>
+	</Table>
+	<Table>
+		<STT>7</STT>
+		<LOAI>Trẻ sơ sinh</LOAI>
+		<SQL>SELECT to_number(to_char(now(),'yyyy'))-to_number(a.NAMSINH) AS TUOI, a.MANN, a.MADANTOC, a.MATT, a.MAQU, a.MAPHUONGXA, b.MAKP, b.DENTU, b.NHANTU, b.MADOITUONG, b.MAICD, c.NGOITHAI, c.PHAI, c.TINHTRANG, c.DITAT, c.CANNANG FROM medibv.BTDBN a,medibv.BENHANDT b,medibv.TRESOSINH c WHERE a.MABN=b.MABN AND b.MAQL=c.MAQL</SQL>
+	</Table>
+	<Table>
+		<STT>8</STT>
+		<LOAI>Tai nạn, thương tích</LOAI>
+		<SQL>SELECT to_number(to_char(now(),'yyyy'))-to_number(a.NAMSINH) AS TUOI, a.MANN, a.MADANTOC, a.MATT, a.MAQU, a.MAPHUONGXA, b.MAKP, b.DENTU, b.NHANTU, b.MADOITUONG, b.MAICD, c.DIADIEM, c.BOPHAN, c.NGUYENNHAN, c.NGODOC, d.KETQUA, d.TTLUCRV FROM medibv.BTDBN a,medibv.BENHANDT b,medibv.TAINANTT c,medibv.XUATVIEN d WHERE a.MABN=b.MABN AND b.MAQL=c.MAQL and c.MAQL=d.MAQL</SQL>
+	</Table>
+</NewDataSet>

@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="HOVATEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUYENMON" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TENNGACH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MANGACH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="BAC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="HESOLUONG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="KHOAPHONG" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="PHAI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MADV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MACTDT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYBD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TUNGAYKL" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="DENNGAYKL" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TUNGAYHL" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="DENNGAYHL" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGUOIKY" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="XETND" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <HOVATEN>Nguyễn Văn Mạnh</HOVATEN>
+    <TEN> Mạnh</TEN>
+    <CHUYENMON>CĐĐD</CHUYENMON>
+    <MANGACH>13a.096</MANGACH>
+    <BAC>1</BAC>
+    <HESOLUONG>2.10</HESOLUONG>
+    <KHOAPHONG>Dinh Dưỡng</KHOAPHONG>
+    <MANV>01695</MANV>
+    <PHAI>Nam</PHAI>
+    <MADV>004</MADV>
+    <MACTDT>008</MACTDT>
+    <NGAYBD>01/01/2014</NGAYBD>
+    <TUNGAYKL>01/01/2014</TUNGAYKL>
+    <DENNGAYKL>01/02/2014</DENNGAYKL>
+    <TUNGAYHL>01/02/2014</TUNGAYHL>
+    <DENNGAYHL>01/04/2014</DENNGAYHL>
+    <NGUOIKY>NGUYỄN ĐỨC CÔNG</NGUOIKY>
+  </Table>
+</NewDataSet>

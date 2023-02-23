@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes" ?>
+<DieuTri>
+	<PhieuDieuTri>
+		<syt>Bộ Y Tế</syt>
+		<bv>Bệnh viện Hữu Nghị</bv>
+		<diachibv />
+		<ngayin>30/11/2004</ngayin>
+		<nguoiin>Administrator</nguoiin>
+		<ghichu></ghichu>
+		<lien></lien>
+		<mabn></mabn>
+		<hoten></hoten>
+		<namsinh></namsinh>
+		<tuoi></tuoi>
+		<gioitinh></gioitinh>
+		<diachi></diachi>
+		<ngaykham></ngaykham>
+		<lydokham></lydokham>
+		<nghenghiep></nghenghiep>
+		<doituong></doituong>
+		<dantoc></dantoc>
+		<sothe></sothe>
+		<tenbv></tenbv>
+		<tungay></tungay>
+		<denngay></denngay>
+		<noidkkcb></noidkkcb>
+		<chandoan></chandoan>
+    <dienthoai></dienthoai>
+    <bacsy></bacsy>
+    <benhvien></benhvien>
+    <kythuat></kythuat>
+	</PhieuDieuTri>
+</DieuTri>

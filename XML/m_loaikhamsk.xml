@@ -1,0 +1,163 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ID>900</ID>
+		<TEN>Tim mạch</TEN>
+	</Table>
+	<Table>
+		<ID>901</ID>
+		<TEN>Hô hấp</TEN>
+	</Table>
+	<Table>
+		<ID>902</ID>
+		<TEN>Tiêu hóa</TEN>
+	</Table>
+	<Table>
+		<ID>903</ID>
+		<TEN>Thận niệu</TEN>
+	</Table>
+	<Table>
+		<ID>904</ID>
+		<TEN>Thần kinh, cơ khớp / Nội tiết</TEN>
+	</Table>
+	<Table>
+		<ID>905</ID>
+		<TEN>Tổng quát</TEN>
+	</Table>
+	<Table>
+		<ID>906</ID>
+		<TEN>Chấn thương chỉnh hình</TEN>
+	</Table>
+	<Table>
+		<ID>907</ID>
+		<TEN>Da liễu</TEN>
+	</Table>
+	<Table>
+		<ID>908</ID>
+		<TEN>Thị lực - có kính MP </TEN>
+	</Table>
+	<Table>
+		<ID>909</ID>
+		<TEN>Thị lực - có kính MT </TEN>
+	</Table>
+	<Table>
+		<ID>910</ID>
+		<TEN>Thị lực - không kính MP </TEN>
+	</Table>
+	<Table>
+		<ID>911</ID>
+		<TEN>Thị lực - không kính MT </TEN>
+	</Table>
+	<Table>
+		<ID>912</ID>
+		<TEN>Bán phần trước</TEN>
+	</Table>
+	<Table>
+		<ID>913</ID>
+		<TEN>Bán phần sau</TEN>
+	</Table>
+	<Table>
+		<ID>914</ID>
+		<TEN>Nhãn áp MP</TEN>
+	</Table>
+	<Table>
+		<ID>915</ID>
+		<TEN>Nhãn áp MT</TEN>
+	</Table>
+	<Table>
+		<ID>916</ID>
+		<TEN>Răng</TEN>
+	</Table>
+	<Table>
+		<ID>917</ID>
+		<TEN>Tai</TEN>
+	</Table>
+	<Table>
+		<ID>918</ID>
+		<TEN>Mũi</TEN>
+	</Table>
+	<Table>
+		<ID>919</ID>
+		<TEN>Họng</TEN>
+	</Table>
+	<Table>
+		<ID>920</ID>
+		<TEN>Thanh quản</TEN>
+	</Table>
+	<Table>
+		<ID>921</ID>
+		<TEN>Đầu mặt cổ</TEN>
+	</Table>
+	<Table>
+		<ID>922</ID>
+		<TEN>Sản khoa</TEN>
+	</Table>
+	<Table>
+		<ID>923</ID>
+		<TEN>Phụ khoa</TEN>
+	</Table>
+	<Table>
+		<ID>924</ID>
+		<TEN>Thần kinh, tâm thần</TEN>
+	</Table>
+	<Table>
+		<ID>925</ID>
+		<TEN>Nội tiết</TEN>
+	</Table>
+		<Table>
+		<ID>934</ID>
+		<TEN>Chuyển hóa</TEN>
+	</Table>
+	<Table>
+		<ID>926</ID>
+		<TEN>Ngoại khoa</TEN>
+	</Table>
+		<Table>
+		<ID>935</ID>
+		<TEN>U Bướu</TEN>
+	</Table>
+	<Table>
+		<ID>927</ID>
+		<TEN>Cơ xương khớp</TEN>
+	</Table>
+	<Table>
+		<ID>928</ID>
+		<TEN>Mắt</TEN>
+	</Table>
+	<Table>
+		<ID>929</ID>
+		<TEN>Tai Mũi Họng</TEN>
+	</Table>
+	<Table>
+		<ID>930</ID>
+		<TEN>Sức nhai</TEN>
+	</Table>
+	<Table>
+		<ID>931</ID>
+		<TEN>Răng Hàm Mặt</TEN>
+	</Table>
+	<Table>
+		<ID>932</ID>
+		<TEN>páp s</TEN>
+	</Table>
+	<Table>
+		<ID>933</ID>
+		<TEN>Sản phụ khoa</TEN>
+	</Table>
+</NewDataSet>

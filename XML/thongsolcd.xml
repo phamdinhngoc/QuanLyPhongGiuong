@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ccc>ccc</ccc>
+    <lcdtiepdonh>130</lcdtiepdonh>
+    <lcdtiepdonw>630</lcdtiepdonw>
+    <lcdtiepdons>70</lcdtiepdons>
+    <lcdtiepdonshoten>12</lcdtiepdonshoten>
+    <lcdtiepdonstieude>50</lcdtiepdonstieude>
+    <lcdtiepdondelay>12</lcdtiepdondelay>
+    <lcdtiepdonx>5</lcdtiepdonx>
+    <lcdtiepdonxh>800</lcdtiepdonxh>
+    <lcdtiepdony>770</lcdtiepdony>
+    <lcdtiepdonsh>800</lcdtiepdonsh>
+    <lcdtiepdonsw>1920</lcdtiepdonsw>
+    <lcdtiepdonsochia>2</lcdtiepdonsochia>
+    <lcdtiepdonsoquay>6</lcdtiepdonsoquay>
+    <lcdtiepdonsott>1</lcdtiepdonsott>
+    <lcdtiepdonkhoangcach>10</lcdtiepdonkhoangcach>
+    <lcdtiepdontrang>1</lcdtiepdontrang>
+    <lcdtiepdonhoten />
+    <lcdtiepdonvitri />
+    <lcdtiepdonbold />
+    <r1>0</r1>
+    <g1>93</g1>
+    <b1>70</b1>
+    <r2>246</r2>
+    <g2>246</g2>
+    <b2>246</b2>
+    <docloatiepdond1>900</docloatiepdond1>
+    <docloatiepdond2>900</docloatiepdond2>
+    <docloatiepdond3>600</docloatiepdond3>
+    <docloatiepdond44>900</docloatiepdond44>
+    <docloatiepdond5>900</docloatiepdond5>
+    <lcdpkh>56</lcdpkh>
+    <lcdpkw>160</lcdpkw>
+    <lcdpks>12</lcdpks>
+    <lcdpkshoten>12</lcdpkshoten>
+    <lcdpkstieude>12</lcdpkstieude>
+    <lcdpkdelay>12</lcdpkdelay>
+    <lcdpkx>2</lcdpkx>
+    <lcdpkxh>10</lcdpkxh>
+    <lcdpky>770</lcdpky>
+    <lcdpksh>710</lcdpksh>
+    <lcdpksw>1276</lcdpksw>
+    <lcdpksochia>1</lcdpksochia>
+    <lcdpksoquay>5</lcdpksoquay>
+    <lcdpksott>1</lcdpksott>
+    <lcdpkkhoangcach>10</lcdpkkhoangcach>
+    <lcdpktrang />
+    <lcdpkhoten />
+    <lcdpkvitri />
+    <lcdpkbold />
+    <lcdmakph>56</lcdmakph>
+    <lcdmakpw>160</lcdmakpw>
+    <lcdmakps>12</lcdmakps>
+    <lcdmakpshoten>12</lcdmakpshoten>
+    <lcdmakpstieude>18</lcdmakpstieude>
+    <lcdmakpdelay>12</lcdmakpdelay>
+    <lcdmakpx>2</lcdmakpx>
+    <lcdmakkhoangcachngay>0</lcdmakkhoangcachngay>
+    <lcdmakpy>770</lcdmakpy>
+    <lcdmakpsh>710</lcdmakpsh>
+    <lcdmakpsw>1276</lcdmakpsw>
+    <lcdmakpsodong>10</lcdmakpsodong>
+    <lcdmakphtieude>60</lcdmakphtieude>
+    <txtdelaydoi>5</txtdelaydoi>
+    <lcdmakpkhoangcach>10</lcdmakpkhoangcach>
+    <lcdmakptrang />
+    <lcdmakphiendien />
+    <lcdmakpchuhoa />
+    <lcdmakpbold />
+    <lcdmakptieude>STT+HỌ TÊN+NĂM SINH+BÁC SỸ+TÊN BỆNH+GHI CHÚ</lcdmakptieude>
+    <lcdmakpdorong>70400+150+330+200+120</lcdmakpdorong>
+    <lcdmakpsize>20+20+20+20+20+20</lcdmakpsize>
+    <goixnclsgoilandau />
+    <goigoixnclssolangoi>1</goigoixnclssolangoi>
+    <goixnclslcd>0</goixnclslcd>
+    <goigoixnclschktim8kytu />
+    <goixnclsall />
+    <goigoixnclshienkythuat3 />
+    <goigoixnclshuydanhsach3 />
+    <goigoixnclslcd3 />
+    <lcdxnclsh>56</lcdxnclsh>
+    <lcdxnclsw>160</lcdxnclsw>
+    <lcdxnclss>12</lcdxnclss>
+    <lcdxnclsshoten>12</lcdxnclsshoten>
+    <lcdxnclsstieude>12</lcdxnclsstieude>
+    <lcdxnclsdelay>12</lcdxnclsdelay>
+    <lcdxnclsx>0</lcdxnclsx>
+    <lcdxnclsxh>10</lcdxnclsxh>
+    <lcdxnclsy>0</lcdxnclsy>
+    <lcdxnclssh>600</lcdxnclssh>
+    <lcdxnclssw>800</lcdxnclssw>
+    <lcdxnclssochia>2</lcdxnclssochia>
+    <lcdxnclssoquay>5</lcdxnclssoquay>
+    <lcdxnclssott>5</lcdxnclssott>
+    <lcdxnclskhoangcach>10</lcdxnclskhoangcach>
+    <lcdxnclstrang />
+    <lcdxnclshoten />
+    <lcdxnclsvitri />
+    <lcdxnclsbold />
+    <goigoixnclshienkythuat2 />
+    <goigoixnclshuydanhsach2 />
+    <goigoixnclslcd2 />
+    <docloapkd1>800</docloapkd1>
+    <docloapkd2>700</docloapkd2>
+    <docloapkd3>1100</docloapkd3>
+    <docloapkd44>1100</docloapkd44>
+    <docloapkd5>950</docloapkd5>
+    <docloapkd4>024</docloapkd4>
+    <docloaduocd1>800</docloaduocd1>
+    <docloaduocd2>700</docloaduocd2>
+    <docloaduocd3>1100</docloaduocd3>
+    <docloaduocd4>1100</docloaduocd4>
+  </Table>
+</NewDataSet>

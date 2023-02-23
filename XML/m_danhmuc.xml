@@ -1,0 +1,235 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="SQL" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+  <Table>
+    <TEN>Danh mục phân loại sức khỏe</TEN>
+    <SQL>dmphanloaisk</SQL>
+  </Table>
+  <Table>
+    <TEN>Đề nghị tổng quát</TEN>
+    <SQL>dmdenghisk</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục tình trạng</TEN>
+    <SQL>dmtinhtrang</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục thực hiện</TEN>
+    <SQL>dmthuchien</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục nhóm nhân viên</TEN>
+    <SQL>nhomnhanvien</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục nhóm nhân viên pttt</TEN>
+    <SQL>pttt_loai</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục loại phẫu thủ thuật</TEN>
+    <SQL>loaipt</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục khu điều trị</TEN>
+    <SQL>dmkhudt</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục lý do từ chối</TEN>
+    <SQL>tuchoilydo</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục lý do xuất tạm</TEN>
+    <SQL>xuattamlydo</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục tự sát nghề nghiệp</TEN>
+    <SQL>tusatnghenghiep</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục tự sát nguyên nhân</TEN>
+    <SQL>tusatnguyennhan</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục tự sát hình thức</TEN>
+    <SQL>tusathinhthuc</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục tự sát tình trạng</TEN>
+    <SQL>tusattinhtrang</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục cơ quan chi trả</TEN>
+    <SQL>dmdvchitra</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục chuyên khoa</TEN>
+    <SQL>dmchuyenkhoa</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục ngôn ngữ</TEN>
+    <SQL>dmngonngu</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục lý do phòng lưu</TEN>
+    <SQL>btdtrai</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục máy lọc thận</TEN>
+    <SQL>dmmaylocthan</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh sách duyệt thuốc tạo hồng cầu + dịch truyền lĩnh hết theo đơn</TEN>
+    <SQL>dsduyetlocthan</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục điểm thu viện phí</TEN>
+    <SQL>dmdiemthu</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục lý do thu viện phí</TEN>
+    <SQL>v_lydothu</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục khu điều trị</TEN>
+    <SQL>dmkhudt</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục nơi làm việc</TEN>
+    <SQL>dmcholam</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục phân loại sức khỏe</TEN>
+    <SQL>ct_loai</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục phân loại bệnh</TEN>
+    <SQL>ct_loaibenh</SQL>
+  </Table>
+  <Table>
+    <TEN>Lý do chuyển viện</TEN>
+    <SQL>chuyenvienlydo</SQL>
+  </Table>
+  <Table>
+    <TEN>Phương tiện chuyển viện</TEN>
+    <SQL>chuyenvienpt</SQL>
+  </Table>
+  <Table>
+    <TEN>Tài xế chuyển viện</TEN>
+    <SQL>chuyenvientx</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục loại thầu</TEN>
+    <SQL>d_loaithau</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục loại điều trị phòng mạch</TEN>
+    <SQL>loaidtpm</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục nhóm life-gap</TEN>
+    <SQL>lifegapnhom</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục loại life-gap</TEN>
+    <SQL>lifegaploai</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục kho bệnh án lưu trữ</TEN>
+    <SQL>ba_kho</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục người làm báo cáo</TEN>
+    <SQL>dmailambc</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục GMP</TEN>
+    <SQL>d_dmgmp</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục loại miễn giảm</TEN>
+    <SQL>v_lydomiencp</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục mức độ</TEN>
+    <SQL>mucdodiung</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh sách duyệt khuyến mại</TEN>
+    <SQL>dsduyetkhuyenmai</SQL>
+  </Table>
+  <Table>
+    <TEN>Lý do đặt vòng</TEN>
+    <SQL>dmsodatvong</SQL>
+  </Table>
+  <Table>
+    <TEN>Loại DCTC đặt vòng</TEN>
+    <SQL>dmloaidctc</SQL>
+  </Table>
+  <Table>
+    <TEN>Sổ đẻ - tình trạng mẹ</TEN>
+    <SQL>sodetinhtrang</SQL>
+  </Table>
+  <Table>
+    <TEN>Sổ đẻ - tai biến sản khoa</TEN>
+    <SQL>sodetaibien</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục khu cấp số thứ tự đăng ký khám bệnh</TEN>
+    <SQL>sttngaykhu</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục phẫu thủ thuật nhận từ</TEN>
+    <SQL>dmptttnhantu</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục loại thu tạm ứng</TEN>
+    <SQL>dmloaitu</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục nhiễm khuẩn</TEN>
+    <SQL>dmnhiemkhuan</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục bệnh phẩm</TEN>
+    <SQL>dmbenhpham</SQL>
+  </Table>
+  <Table>
+    <TEN>Danh mục lý do chuyển viện</TEN>
+    <SQL>dmlydochuyentuyen</SQL>
+  </Table>
+  <Table>
+    <TEN>Lý do chuyển tuyến</TEN>
+    <SQL>chuyenvientuyen</SQL>
+  </Table>
+  <Table>
+    <TEN>Chuyển giao kỹ thuật: Trình độ</TEN>
+    <SQL>chuyengiaokythuattrinhdo</SQL>
+  </Table>
+  <Table>
+    <TEN>Chuyển giao kỹ thuật: Kỹ thuật</TEN>
+    <SQL>chuyengiaokythuat</SQL>
+  </Table>
+  <Table>
+    <TEN>Luân chuyển cán bộ theo</TEN>
+    <SQL>luanphiencanboloai</SQL>
+  </Table>
+  <Table>
+    <TEN>Nghiên cứu khoa học cấp</TEN>
+    <SQL>nckhoahoccap</SQL>
+  </Table>
+</NewDataSet>

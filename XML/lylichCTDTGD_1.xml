@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="GIOITINH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="SOSOBHXH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="SOLAODONG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYSINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NOISINH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGUYENQUAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TINHTRANGGIADINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="DANTOC" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="QUOCTICH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TONGIAO" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCVU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DIACHITHUONGTRU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DIEN_THOAI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TDHOCVAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TRINHDOCM" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TRINHDONGOAINGU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MUCLUONGHIENTAI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SOCON" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SO_CMND" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NOI_CAP" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY_CAP" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="THANG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NOIOHIENNAY" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TDCHINHTRI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="VITINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="SOBHXH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYDUBI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYCTHUC" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYCDOAN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="QLNN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <MANV>00887</MANV>
+    <HOTEN>Test Thứ Hai</HOTEN>
+    <GIOITINH>Nam</GIOITINH>
+    <NGAYSINH>1991</NGAYSINH>
+    <NOISINH>abc</NOISINH>
+    <NGUYENQUAN>Acb</NGUYENQUAN>
+    <TINHTRANGGIADINH>Chưa có gia đình</TINHTRANGGIADINH>
+    <DANTOC>*Kinh</DANTOC>
+    <QUOCTICH>Viet Nam</QUOCTICH>
+    <TONGIAO>Phật giáo</TONGIAO>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <DIACHITHUONGTRU>, , </DIACHITHUONGTRU>
+    <MUCLUONGHIENTAI>2139000</MUCLUONGHIENTAI>
+    <SOCON>0</SOCON>
+    <NGAY>05</NGAY>
+    <THANG>04</THANG>
+    <NAM>2015</NAM>
+    <NOIOHIENNAY>, , </NOIOHIENNAY>
+  </Table>
+</NewDataSet>

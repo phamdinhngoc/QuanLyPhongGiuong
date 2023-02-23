@@ -1,0 +1,2126 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="LAN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TUDEN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="THANG" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCDANH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="KHOAPHONG" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="SOTIEN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYSINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MNVMAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MADV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="STT" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="HO" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="BIDANH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYSINH1" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="PHAI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NOISINH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="SOLD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYSOLD" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="TINHSLD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HUYENSLD" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DKLDSO" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYDKLD" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="NGAYCAP" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="MATINHBHXH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="QUEQUAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DIACHI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="T_DIACHI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="H_DIACHI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NOIO" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="T_NOIO" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="H_NOIO" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DIENTHOAI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CMNDSO" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CMNDNGAY" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="NOICAPCMND" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MADT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MATGIAO" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANN1" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANN2" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANN3" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MAHV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NNGHIEP" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TD_NNGHIEP" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HE_DT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TG_DT" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="FLAG" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="CHINHTRI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGUONGOC" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY_T_GIA" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="NGAY_T_LY" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="NGAY_DOAN" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="DUBI_DANG" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CTHUC_DANG" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="TP_X_THAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TP_B_THAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TD_CMON" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY_TN" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="LIETSI" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="HOAN_CANH" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="MAQG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="SOTHICH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="KYNANG" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TDNN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TDNN1" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TDNN2" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TDNN3" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TDTH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MAHOCHAM" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="N_NHAPNGU" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="N_XUATNGU" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="DTDD" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MACD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TDQLNN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMSINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANGANH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TNXP" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="BDXN" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="THUONGBINH" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="TTHN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MAVT" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="SOTK" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMTN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGANHANG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYUD" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="IP" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="MSTHUE" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMTN_CM" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="NGHIHUU" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MABS" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NSINH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="LAN1" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYCK" msprop:OraDbType="106" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="IDQD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MABN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="BARCODE" msprop:OraDbType="102" type="xs:base64Binary" minOccurs="0" />
+                <xs:element name="HINHANH" msprop:OraDbType="102" type="xs:base64Binary" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <LAN>30</LAN>
+    <TUDEN>01/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ</CHUCDANH>
+    <KHOAPHONG>Khoa Sinh Hóa</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>01/04/1985</NGAYSINH>
+    <MNVMAY>00095</MNVMAY>
+    <MANV>00095</MANV>
+    <MADV>007</MADV>
+    <HO>Hoàng Thị Quỳnh</HO>
+    <TEN> Trang</TEN>
+    <NGAYSINH1>1985-04-01T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>16A Lê Văn Sỹ - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>16A Lê Văn Sỹ - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>16A Lê Văn Sỹ - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>16A Lê Văn Sỹ - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211032880</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>046</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1985</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000095</MABN>
+  </Table>
+  <Table>
+    <LAN>25</LAN>
+    <TUDEN>02/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên</CHUCDANH>
+    <KHOAPHONG>Ngoại Tổng Hợp-Tiêu Hóa</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>02/04/1990</NGAYSINH>
+    <MNVMAY>00401</MNVMAY>
+    <MANV>00401</MANV>
+    <MADV>019</MADV>
+    <HO>Nguyễn Văn</HO>
+    <TEN> Thành</TEN>
+    <NGAYSINH1>1990-04-02T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>TT Thanh Chương -- Thanh Hóa -  - </NOISINH>
+    <DIACHI>TT Thanh Chương -- Thanh Hóa -  - </DIACHI>
+    <NOIO>TT Thanh Chương -- Thanh Hóa -  - </NOIO>
+    <H_NOIO>TT Thanh Chương -- Thanh Hóa -  - </H_NOIO>
+    <CMNDSO>186720211</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>001</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1990</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000401</MABN>
+  </Table>
+  <Table>
+    <LAN>26</LAN>
+    <TUDEN>02/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Kỹ thuật viên</CHUCDANH>
+    <KHOAPHONG>test</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>02/04/1989</NGAYSINH>
+    <MNVMAY>00889</MNVMAY>
+    <MANV>00889</MANV>
+    <MADV>036</MADV>
+    <STT>00889</STT>
+    <HO>Test Thứ</HO>
+    <TEN>Tư</TEN>
+    <NGAYSINH1>1989-04-02T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>abc</NOISINH>
+    <QUEQUAN>Abc</QUEQUAN>
+    <MADT>25</MADT>
+    <MATGIAO>01</MATGIAO>
+    <MAQG>VN</MAQG>
+    <MACD>46</MACD>
+    <NAMSINH>1989</NAMSINH>
+    <NGANHANG>1</NGANHANG>
+    <NGHIHUU>2044</NGHIHUU>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+  </Table>
+  <Table>
+    <LAN>36</LAN>
+    <TUDEN>02/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Ngoại CTCH-B</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>02/04/1979</NGAYSINH>
+    <MNVMAY>00335</MNVMAY>
+    <MANV>00335</MANV>
+    <MADV>016</MADV>
+    <HO>Nguyễn Thị Ánh</HO>
+    <TEN> Ngân</TEN>
+    <NGAYSINH1>1979-04-02T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Thôn 6 - Xã Nghĩa Lâm - Huyện Tư Nghĩa</NOISINH>
+    <DIACHI>Thôn 6 - Xã Nghĩa Lâm - Huyện Tư Nghĩa</DIACHI>
+    <NOIO>Thôn 6 - Xã Nghĩa Lâm - Huyện Tư Nghĩa</NOIO>
+    <H_NOIO>Thôn 6 - Xã Nghĩa Lâm - Huyện Tư Nghĩa</H_NOIO>
+    <CMNDSO>212029007</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1979</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000335</MABN>
+  </Table>
+  <Table>
+    <LAN>39</LAN>
+    <TUDEN>02/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ</CHUCDANH>
+    <KHOAPHONG>Ngoại CTCH-B</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>02/04/1976</NGAYSINH>
+    <MNVMAY>00324</MNVMAY>
+    <MANV>00324</MANV>
+    <MADV>016</MADV>
+    <HO>Ngô Đình</HO>
+    <TEN> Giảng</TEN>
+    <NGAYSINH1>1976-04-02T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Tổ 2 - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 2 - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 2 - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 2 - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212044538</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>001</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1976</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000324</MABN>
+  </Table>
+  <Table>
+    <LAN>47</LAN>
+    <TUDEN>02/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>PTGM-HS</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>02/04/1968</NGAYSINH>
+    <MNVMAY>00631</MNVMAY>
+    <MANV>00631</MANV>
+    <MADV>025</MADV>
+    <HO>Phạm Thị Thanh</HO>
+    <TEN> Trang</TEN>
+    <NGAYSINH1>1968-04-02T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 14 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 14 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 14 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 14 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212119963</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1968</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000631</MABN>
+  </Table>
+  <Table>
+    <LAN>29</LAN>
+    <TUDEN>04/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Khám Bệnh</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>04/04/1986</NGAYSINH>
+    <MNVMAY>00194</MNVMAY>
+    <MANV>00194</MANV>
+    <MADV>010</MADV>
+    <HO>Võ Thị</HO>
+    <TEN> Thảo</TEN>
+    <NGAYSINH1>1986-04-04T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Đội 5 - Thôn Phú Mỹ - Xã Nghĩa Mỹ - Huyện Tư Nghĩa</NOISINH>
+    <DIACHI>Đội 5 - Thôn Phú Mỹ - Xã Nghĩa Mỹ - Huyện Tư Nghĩa</DIACHI>
+    <NOIO>Đội 5 - Thôn Phú Mỹ - Xã Nghĩa Mỹ - Huyện Tư Nghĩa</NOIO>
+    <H_NOIO>Đội 5 - Thôn Phú Mỹ - Xã Nghĩa Mỹ - Huyện Tư Nghĩa</H_NOIO>
+    <CMNDSO>212637495</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1986</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000194</MABN>
+  </Table>
+  <Table>
+    <LAN>41</LAN>
+    <TUDEN>04/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>PTGM-HS</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>04/04/1974</NGAYSINH>
+    <MNVMAY>00632</MNVMAY>
+    <MANV>00632</MANV>
+    <MADV>025</MADV>
+    <HO>Trần Thị Thúy</HO>
+    <TEN> Phượng</TEN>
+    <NGAYSINH1>1974-04-04T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>30/1 Phạm Văn Đồng - Phường Nguyễn Nghiêm - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>30/1 Phạm Văn Đồng - Phường Nguyễn Nghiêm - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>30/1 Phạm Văn Đồng - Phường Nguyễn Nghiêm - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>30/1 Phạm Văn Đồng - Phường Nguyễn Nghiêm - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211964174</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1974</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000632</MABN>
+  </Table>
+  <Table>
+    <LAN>41</LAN>
+    <TUDEN>04/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên</CHUCDANH>
+    <KHOAPHONG>Vật Tư Kỹ Thụât</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>04/04/1974</NGAYSINH>
+    <MNVMAY>00837</MNVMAY>
+    <MANV>00837</MANV>
+    <MADV>033</MADV>
+    <HO>Đinh Văn</HO>
+    <TEN> Tín</TEN>
+    <NGAYSINH1>1974-04-04T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Thôn Phước Sơn - Xã Đức Hiệp - Huyện Mộ Đức</NOISINH>
+    <DIACHI>Thôn Phước Sơn - Xã Đức Hiệp - Huyện Mộ Đức</DIACHI>
+    <NOIO>Thôn Phước Sơn - Xã Đức Hiệp - Huyện Mộ Đức</NOIO>
+    <H_NOIO>Thôn Phước Sơn - Xã Đức Hiệp - Huyện Mộ Đức</H_NOIO>
+    <CMNDSO>211904457</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>031</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1974</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000837</MABN>
+  </Table>
+  <Table>
+    <LAN>41</LAN>
+    <TUDEN>04/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>04/04/1974</NGAYSINH>
+    <MNVMAY>00312</MNVMAY>
+    <MANV>00312</MANV>
+    <MADV>015</MADV>
+    <HO>Lê Thị Kim</HO>
+    <TEN> Thỏa</TEN>
+    <NGAYSINH1>1974-04-04T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>768 Quang Trung - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>768 Quang Trung - Phường Chánh Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>768 Quang Trung - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>768 Quang Trung - Phường Chánh Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>210250982</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>005</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1974</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000312</MABN>
+  </Table>
+  <Table>
+    <LAN>42</LAN>
+    <TUDEN>05/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ</CHUCDANH>
+    <KHOAPHONG>Sản</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>05/04/1973</NGAYSINH>
+    <MNVMAY>00715</MNVMAY>
+    <MANV>00715</MANV>
+    <MADV>030</MADV>
+    <HO>Nguyễn Thị Thanh</HO>
+    <TEN> Xuân</TEN>
+    <NGAYSINH1>1973-04-05T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 9 - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 9 - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 9 - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 9 - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>271109894</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>046</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1973</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000715</MABN>
+  </Table>
+  <Table>
+    <LAN>27</LAN>
+    <TUDEN>06/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên kĩ thuật</CHUCDANH>
+    <KHOAPHONG>Hành Chính Quản Trị</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>06/04/1988</NGAYSINH>
+    <MNVMAY>00089</MNVMAY>
+    <MANV>00089</MANV>
+    <MADV>006</MADV>
+    <HO>Nguyễn Hữu</HO>
+    <TEN> Vinh</TEN>
+    <NGAYSINH1>1988-04-06T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Xóm 11 - Thôn 7 - Xã Đức Nhuận - Huyện Mộ Đức</NOISINH>
+    <DIACHI>Xóm 11 - Thôn 7 - Xã Đức Nhuận - Huyện Mộ Đức</DIACHI>
+    <NOIO>Xóm 11 - Thôn 7 - Xã Đức Nhuận - Huyện Mộ Đức</NOIO>
+    <H_NOIO>Xóm 11 - Thôn 7 - Xã Đức Nhuận - Huyện Mộ Đức</H_NOIO>
+    <CMNDSO>212690104</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>034</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1988</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000089</MABN>
+  </Table>
+  <Table>
+    <LAN>41</LAN>
+    <TUDEN>06/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Nội Tổng Hợp</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>06/04/1974</NGAYSINH>
+    <MNVMAY>00557</MNVMAY>
+    <MANV>00557</MANV>
+    <MADV>024</MADV>
+    <HO>Trần Văn</HO>
+    <TEN> Thanh</TEN>
+    <NGAYSINH1>1974-04-06T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>427 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>427 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>427 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>427 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211964490</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1974</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000557</MABN>
+  </Table>
+  <Table>
+    <LAN>26</LAN>
+    <TUDEN>07/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên kĩ thuật</CHUCDANH>
+    <KHOAPHONG>Dinh Dưỡng</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>07/04/1989</NGAYSINH>
+    <MNVMAY>00066</MNVMAY>
+    <MANV>00066</MANV>
+    <MADV>004</MADV>
+    <HO>Nguyễn Thị Mỹ</HO>
+    <TEN> Hạnh</TEN>
+    <NGAYSINH1>1989-04-07T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Liên Hiệp I - TT Sơn Tịnh - Tỉnh Quảng Ngãi</NOISINH>
+    <DIACHI>Liên Hiệp I - TT Sơn Tịnh - Tỉnh Quảng Ngãi</DIACHI>
+    <NOIO>Liên Hiệp I - TT Sơn Tịnh - Tỉnh Quảng Ngãi</NOIO>
+    <H_NOIO>Liên Hiệp I - TT Sơn Tịnh - Tỉnh Quảng Ngãi</H_NOIO>
+    <CMNDSO>212560991</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>042</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1989</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000066</MABN>
+  </Table>
+  <Table>
+    <LAN>40</LAN>
+    <TUDEN>07/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Yêu Cầu</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>07/04/1975</NGAYSINH>
+    <MNVMAY>00872</MNVMAY>
+    <MANV>00872</MANV>
+    <MADV>035</MADV>
+    <HO>Trần Thị Thu</HO>
+    <TEN> Lệ</TEN>
+    <NGAYSINH1>1975-04-07T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 16 - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 16 - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 16 - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 16 - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212108532</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1975</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000872</MABN>
+  </Table>
+  <Table>
+    <LAN>40</LAN>
+    <TUDEN>07/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Kỹ thuật viên y</CHUCDANH>
+    <KHOAPHONG>PTGM-HS</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>07/04/1975</NGAYSINH>
+    <MNVMAY>00610</MNVMAY>
+    <MANV>00610</MANV>
+    <MADV>025</MADV>
+    <HO>Nguyễn Hoài</HO>
+    <TEN> Châu</TEN>
+    <NGAYSINH1>1975-04-07T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Hẻm 80 Trần Hưng Đạo - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Hẻm 80 Trần Hưng Đạo - Phường Chánh Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Hẻm 80 Trần Hưng Đạo - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Hẻm 80 Trần Hưng Đạo - Phường Chánh Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211905956</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>030</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1975</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000610</MABN>
+  </Table>
+  <Table>
+    <LAN>44</LAN>
+    <TUDEN>08/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Ngoại CTCH-B</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>08/04/1971</NGAYSINH>
+    <MNVMAY>00330</MNVMAY>
+    <MANV>00330</MANV>
+    <MADV>016</MADV>
+    <HO>Thiều Thị</HO>
+    <TEN> Hoa</TEN>
+    <NGAYSINH1>1971-04-08T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Hẻm 103 Nguyễn Đình Chiểu - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Hẻm 103 Nguyễn Đình Chiểu - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Hẻm 103 Nguyễn Đình Chiểu - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Hẻm 103 Nguyễn Đình Chiểu - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211455326</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1971</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000330</MABN>
+  </Table>
+  <Table>
+    <LAN>26</LAN>
+    <TUDEN>09/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ</CHUCDANH>
+    <KHOAPHONG>Khoa Chuẩn đoán hình ảnh</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>09/04/1989</NGAYSINH>
+    <MNVMAY>00007</MNVMAY>
+    <MANV>00007</MANV>
+    <MADV>001</MADV>
+    <HO>Đinh Thị Thu</HO>
+    <TEN>Hiền</TEN>
+    <NGAYSINH1>1989-04-09T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>P Nghĩa lộ - TP Quảng Ngãi -  -</NOISINH>
+    <DIACHI>P Nghĩa lộ - TP Quảng Ngãi -  -</DIACHI>
+    <NOIO>P Nghĩa lộ - TP Quảng Ngãi -  -</NOIO>
+    <H_NOIO>P Nghĩa lộ - TP Quảng Ngãi -  -</H_NOIO>
+    <CMNDSO>212562247</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>001</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <MACD>04</MACD>
+    <NAMSINH>1989</NAMSINH>
+    <NGANHANG>0</NGANHANG>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000007</MABN>
+  </Table>
+  <Table>
+    <LAN>32</LAN>
+    <TUDEN>09/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ</CHUCDANH>
+    <KHOAPHONG>Răng Hàm Mặt</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>09/04/1983</NGAYSINH>
+    <MNVMAY>00699</MNVMAY>
+    <MANV>00699</MANV>
+    <MADV>029</MADV>
+    <HO>Huỳnh Thị Lệ</HO>
+    <TEN> Châu</TEN>
+    <NGAYSINH1>1983-04-09T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH> -  - </NOISINH>
+    <DIACHI> -  - </DIACHI>
+    <NOIO> -  - </NOIO>
+    <H_NOIO> -  - </H_NOIO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>002</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1983</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000699</MABN>
+  </Table>
+  <Table>
+    <LAN>42</LAN>
+    <TUDEN>09/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Phòng Điều Dưỡng</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>09/04/1973</NGAYSINH>
+    <MNVMAY>00645</MNVMAY>
+    <MANV>00645</MANV>
+    <MADV>026</MADV>
+    <HO>Võ Thị Bảo</HO>
+    <TEN> Thoa(dd)</TEN>
+    <NGAYSINH1>1973-04-09T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 6 - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 6 - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 6 - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 6 - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>210329612</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>005</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1973</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000645</MABN>
+  </Table>
+  <Table>
+    <LAN>49</LAN>
+    <TUDEN>09/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ chính</CHUCDANH>
+    <KHOAPHONG>Sản</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>09/04/1966</NGAYSINH>
+    <MNVMAY>00710</MNVMAY>
+    <MANV>00710</MANV>
+    <MADV>030</MADV>
+    <HO>Nguyễn Thị Minh</HO>
+    <TEN> Nguyệt(s)</TEN>
+    <NGAYSINH1>1966-04-09T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 8 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 8 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 8 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 8 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>210160295</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>046</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1966</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000710</MABN>
+  </Table>
+  <Table>
+    <LAN>24</LAN>
+    <TUDEN>10/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Kỹ thuật viên cao đẳng y</CHUCDANH>
+    <KHOAPHONG>Khoa Sinh Hóa</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>10/04/1991</NGAYSINH>
+    <MNVMAY>00106</MNVMAY>
+    <MANV>00106</MANV>
+    <MADV>007</MADV>
+    <HO>Ngô Thị Kim</HO>
+    <TEN> Tính</TEN>
+    <NGAYSINH1>1991-04-10T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 21 - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 21 - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 21 - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 21 - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>186347447</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>010</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1991</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000106</MABN>
+  </Table>
+  <Table>
+    <LAN>28</LAN>
+    <TUDEN>10/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên bảo vệ</CHUCDANH>
+    <KHOAPHONG>Phòng Tổ Chức</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>10/04/1987</NGAYSINH>
+    <MNVMAY>00663</MNVMAY>
+    <MANV>00663</MANV>
+    <MADV>027</MADV>
+    <HO>Nguyễn Thanh</HO>
+    <TEN> Kiệt</TEN>
+    <NGAYSINH1>1987-04-10T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Bình Trung - Bình Sơn -  - </NOISINH>
+    <DIACHI>Bình Trung - Bình Sơn -  - </DIACHI>
+    <NOIO>Bình Trung - Bình Sơn -  - </NOIO>
+    <H_NOIO>Bình Trung - Bình Sơn -  - </H_NOIO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>004</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1987</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000663</MABN>
+  </Table>
+  <Table>
+    <LAN>31</LAN>
+    <TUDEN>10/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên bảo vệ</CHUCDANH>
+    <KHOAPHONG>Phòng Tổ Chức</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>10/04/1984</NGAYSINH>
+    <MNVMAY>00670</MNVMAY>
+    <MANV>00670</MANV>
+    <MADV>027</MADV>
+    <HO>Nguyễn Lâm</HO>
+    <TEN> Cận</TEN>
+    <NGAYSINH1>1984-04-10T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Phổ Cường - Đức Phổ - Quang Ngãi -  - </NOISINH>
+    <DIACHI>Phổ Cường - Đức Phổ - Quang Ngãi -  - </DIACHI>
+    <NOIO>Phổ Cường - Đức Phổ - Quang Ngãi -  - </NOIO>
+    <H_NOIO>Phổ Cường - Đức Phổ - Quang Ngãi -  - </H_NOIO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>004</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1984</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000670</MABN>
+  </Table>
+  <Table>
+    <LAN>36</LAN>
+    <TUDEN>10/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Giải Phẫu Bệnh</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>10/04/1979</NGAYSINH>
+    <MNVMAY>00073</MNVMAY>
+    <MANV>00073</MANV>
+    <MADV>005</MADV>
+    <HO>Đoàn Thị Thu</HO>
+    <TEN> Hường</TEN>
+    <NGAYSINH1>1979-04-10T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 6 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 6 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 6 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 6 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212123460</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1979</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000073</MABN>
+  </Table>
+  <Table>
+    <LAN>42</LAN>
+    <TUDEN>10/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Hộ lý</CHUCDANH>
+    <KHOAPHONG>Ngoại Tổng Hợp-Ngoại Niệu</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>10/04/1973</NGAYSINH>
+    <MNVMAY>00377</MNVMAY>
+    <MANV>00377</MANV>
+    <MADV>037</MADV>
+    <HO>Nguyễn Thị</HO>
+    <TEN>Thủy</TEN>
+    <NGAYSINH1>1973-04-10T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 14 - Phường Lê Hồng Phong - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 14 - Phường Lê Hồng Phong - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 14 - Phường Lê Hồng Phong - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 14 - Phường Lê Hồng Phong - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211356525</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>025</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <MACD>03</MACD>
+    <NAMSINH>1973</NAMSINH>
+    <NGANHANG>0</NGANHANG>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000377</MABN>
+  </Table>
+  <Table>
+    <LAN>43</LAN>
+    <TUDEN>10/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>PTGM-HS</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>10/04/1972</NGAYSINH>
+    <MNVMAY>00592</MNVMAY>
+    <MANV>00592</MANV>
+    <MADV>025</MADV>
+    <HO>Trần Thị Diễm</HO>
+    <TEN> Huyền</TEN>
+    <NGAYSINH1>1972-04-10T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Hẻm 192 Trần Hưng Đạo - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Hẻm 192 Trần Hưng Đạo - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Hẻm 192 Trần Hưng Đạo - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Hẻm 192 Trần Hưng Đạo - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211923330</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1972</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000592</MABN>
+  </Table>
+  <Table>
+    <LAN>46</LAN>
+    <TUDEN>10/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ chính</CHUCDANH>
+    <KHOAPHONG>Phòng Tổ Chức</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>10/04/1969</NGAYSINH>
+    <MNVMAY>00649</MNVMAY>
+    <MANV>00649</MANV>
+    <MADV>027</MADV>
+    <HO>Võ Văn</HO>
+    <TEN> Văn</TEN>
+    <NGAYSINH1>1969-04-10T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Tổ 21 - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 21 - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 21 - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 21 - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211248504</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>002</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1969</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000649</MABN>
+  </Table>
+  <Table>
+    <LAN>29</LAN>
+    <TUDEN>12/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Nội Tim Mạch</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>12/04/1986</NGAYSINH>
+    <MNVMAY>00534</MNVMAY>
+    <MANV>00534</MANV>
+    <MADV>023</MADV>
+    <HO>Lê Đình</HO>
+    <TEN> Thảo</TEN>
+    <NGAYSINH1>1986-04-12T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Phổ Minh - Đức Phổ - Quảng Ngãi</NOISINH>
+    <DIACHI>Phổ Minh - Đức Phổ - Quảng Ngãi</DIACHI>
+    <NOIO>Phổ Minh - Đức Phổ - Quảng Ngãi</NOIO>
+    <H_NOIO>Phổ Minh - Đức Phổ - Quảng Ngãi</H_NOIO>
+    <CMNDSO>212208672</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1986</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000534</MABN>
+  </Table>
+  <Table>
+    <LAN>37</LAN>
+    <TUDEN>12/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Yêu Cầu</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>12/04/1978</NGAYSINH>
+    <MNVMAY>00871</MNVMAY>
+    <MANV>00871</MANV>
+    <MADV>035</MADV>
+    <HO>Nguyễn Thị</HO>
+    <TEN> Vân</TEN>
+    <NGAYSINH1>1978-04-12T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 4 - Phường Quảng Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 4 - Phường Quảng Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 4 - Phường Quảng Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 4 - Phường Quảng Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212052896</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1978</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000871</MABN>
+  </Table>
+  <Table>
+    <LAN>43</LAN>
+    <TUDEN>12/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên</CHUCDANH>
+    <KHOAPHONG>Sản</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>12/04/1972</NGAYSINH>
+    <MNVMAY>00762</MNVMAY>
+    <MANV>00762</MANV>
+    <MADV>030</MADV>
+    <HO>Nguyễn Thị Ngọc</HO>
+    <TEN> Lệ</TEN>
+    <NGAYSINH1>1972-04-12T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Xóm 2 Thôn Tân Hội - Xã Nghĩa Trung - Huyện Tư Nghĩa</NOISINH>
+    <DIACHI>Xóm 2 Thôn Tân Hội - Xã Nghĩa Trung - Huyện Tư Nghĩa</DIACHI>
+    <NOIO>Xóm 2 Thôn Tân Hội - Xã Nghĩa Trung - Huyện Tư Nghĩa</NOIO>
+    <H_NOIO>Xóm 2 Thôn Tân Hội - Xã Nghĩa Trung - Huyện Tư Nghĩa</H_NOIO>
+    <CMNDSO>212335902</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>035</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1972</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000762</MABN>
+  </Table>
+  <Table>
+    <LAN>29</LAN>
+    <TUDEN>13/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Khám Bệnh</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>13/04/1986</NGAYSINH>
+    <MNVMAY>00202</MNVMAY>
+    <MANV>00202</MANV>
+    <MADV>010</MADV>
+    <HO>Đoàn Thị Châu</HO>
+    <TEN> Loan</TEN>
+    <NGAYSINH1>1986-04-13T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH> -  - </NOISINH>
+    <DIACHI> -  - </DIACHI>
+    <NOIO> -  - </NOIO>
+    <H_NOIO> -  - </H_NOIO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1986</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000202</MABN>
+  </Table>
+  <Table>
+    <LAN>30</LAN>
+    <TUDEN>14/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ</CHUCDANH>
+    <KHOAPHONG>Nội Tim Mạch</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>14/04/1985</NGAYSINH>
+    <MNVMAY>00503</MNVMAY>
+    <MANV>00503</MANV>
+    <MADV>023</MADV>
+    <HO>Phạm Thị Lệ</HO>
+    <TEN> Quyên</TEN>
+    <NGAYSINH1>1985-04-14T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Thôn 5  - Xã Đức Nhuận - Huyện Mộ Đức</NOISINH>
+    <DIACHI>Thôn 5  - Xã Đức Nhuận - Huyện Mộ Đức</DIACHI>
+    <NOIO>Thôn 5  - Xã Đức Nhuận - Huyện Mộ Đức</NOIO>
+    <H_NOIO>Thôn 5  - Xã Đức Nhuận - Huyện Mộ Đức</H_NOIO>
+    <CMNDSO>212071202</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>046</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1985</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000503</MABN>
+  </Table>
+  <Table>
+    <LAN>33</LAN>
+    <TUDEN>14/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ</CHUCDANH>
+    <KHOAPHONG>Dinh Dưỡng</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>14/04/1982</NGAYSINH>
+    <MNVMAY>00059</MNVMAY>
+    <MANV>00059</MANV>
+    <MADV>004</MADV>
+    <HO>Nguyễn Lê Hồng</HO>
+    <TEN> Vân</TEN>
+    <NGAYSINH1>1982-04-14T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Thôn 6 - Xã Đức Chánh - Huyện Mộ Đức</NOISINH>
+    <DIACHI>Thôn 6 - Xã Đức Chánh - Huyện Mộ Đức</DIACHI>
+    <NOIO>Thôn 6 - Xã Đức Chánh - Huyện Mộ Đức</NOIO>
+    <H_NOIO>Thôn 6 - Xã Đức Chánh - Huyện Mộ Đức</H_NOIO>
+    <CMNDSO>212174019</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>001</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1982</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000059</MABN>
+  </Table>
+  <Table>
+    <LAN>24</LAN>
+    <TUDEN>15/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Kĩ thuật viên trung cấp y</CHUCDANH>
+    <KHOAPHONG>test</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>15/04/1991</NGAYSINH>
+    <MNVMAY>00887</MNVMAY>
+    <MANV>00887</MANV>
+    <MADV>036</MADV>
+    <STT>00887</STT>
+    <HO>Test Thứ</HO>
+    <TEN>Hai</TEN>
+    <NGAYSINH1>1991-04-15T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>abc</NOISINH>
+    <QUEQUAN>Acb</QUEQUAN>
+    <H_NOIO>abc</H_NOIO>
+    <MADT>25</MADT>
+    <MATGIAO>01</MATGIAO>
+    <MAQG>VN</MAQG>
+    <MACD>46</MACD>
+    <NAMSINH>1991</NAMSINH>
+    <NGANHANG>1</NGANHANG>
+    <NGHIHUU>2046</NGHIHUU>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+  </Table>
+  <Table>
+    <LAN>27</LAN>
+    <TUDEN>15/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Nhi</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>15/04/1988</NGAYSINH>
+    <MNVMAY>00452</MNVMAY>
+    <MANV>00452</MANV>
+    <MADV>020</MADV>
+    <HO>Nguyễn Văn</HO>
+    <TEN> Nhẫn</TEN>
+    <NGAYSINH1>1988-04-15T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Tổ 14 - Phường Quảng Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 14 - Phường Quảng Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 14 - Phường Quảng Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 14 - Phường Quảng Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212560538</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1988</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000452</MABN>
+  </Table>
+  <Table>
+    <LAN>44</LAN>
+    <TUDEN>15/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ chính</CHUCDANH>
+    <KHOAPHONG>Sản</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>15/04/1971</NGAYSINH>
+    <MNVMAY>00711</MNVMAY>
+    <MANV>00711</MANV>
+    <MADV>030</MADV>
+    <HO>Huỳnh Quốc</HO>
+    <TEN> Hiếu</TEN>
+    <NGAYSINH1>1971-04-15T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>12 Hoàng Văn Thụ - Phường Quảng Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>12 Hoàng Văn Thụ - Phường Quảng Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>12 Hoàng Văn Thụ - Phường Quảng Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>12 Hoàng Văn Thụ - Phường Quảng Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>205100251</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>046</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1971</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000711</MABN>
+  </Table>
+  <Table>
+    <LAN>38</LAN>
+    <TUDEN>16/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Ngoại Tổng Hợp-Ngoại Niệu</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>16/04/1977</NGAYSINH>
+    <MNVMAY>00371</MNVMAY>
+    <MANV>00371</MANV>
+    <MADV>037</MADV>
+    <HO>Hồ Bích</HO>
+    <TEN>Hồng</TEN>
+    <NGAYSINH1>1977-04-16T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Hẻm 341 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Hẻm 341 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Hẻm 341 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Hẻm 341 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212042292</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <MACD>46</MACD>
+    <NAMSINH>1977</NAMSINH>
+    <NGANHANG>0</NGANHANG>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000371</MABN>
+  </Table>
+  <Table>
+    <LAN>36</LAN>
+    <TUDEN>17/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên kĩ thuật</CHUCDANH>
+    <KHOAPHONG>Vật Tư Kỹ Thụât</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>17/04/1979</NGAYSINH>
+    <MNVMAY>00845</MNVMAY>
+    <MANV>00845</MANV>
+    <MADV>033</MADV>
+    <HO>Nguyễn Chí</HO>
+    <TEN> Tiến</TEN>
+    <NGAYSINH1>1979-04-17T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Hẻm 363 Nguyễn Trãi - Phường Quảng Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Hẻm 363 Nguyễn Trãi - Phường Quảng Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Hẻm 363 Nguyễn Trãi - Phường Quảng Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Hẻm 363 Nguyễn Trãi - Phường Quảng Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212088754</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>034</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1979</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000845</MABN>
+  </Table>
+  <Table>
+    <LAN>29</LAN>
+    <TUDEN>18/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Ngoại Tổng Hợp-Tiêu Hóa</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>18/04/1986</NGAYSINH>
+    <MNVMAY>00408</MNVMAY>
+    <MANV>00408</MANV>
+    <MADV>019</MADV>
+    <HO>Phạm Thị Kim</HO>
+    <TEN> Thùy</TEN>
+    <NGAYSINH1>1986-04-18T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Xóm 2 Thôn Xuân Phổ Tây - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</NOISINH>
+    <DIACHI>Xóm 2 Thôn Xuân Phổ Tây - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</DIACHI>
+    <NOIO>Xóm 2 Thôn Xuân Phổ Tây - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</NOIO>
+    <H_NOIO>Xóm 2 Thôn Xuân Phổ Tây - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</H_NOIO>
+    <CMNDSO>212633683</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1986</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000408</MABN>
+  </Table>
+  <Table>
+    <LAN>34</LAN>
+    <TUDEN>19/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Ngoại Tổng Hợp-Tiêu Hóa</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>19/04/1981</NGAYSINH>
+    <MNVMAY>00412</MNVMAY>
+    <MANV>00412</MANV>
+    <MADV>019</MADV>
+    <HO>Nguyễn Thị Ánh</HO>
+    <TEN> Tuyết</TEN>
+    <NGAYSINH1>1981-04-19T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 16 - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 16 - Phường Chánh Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 16 - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 16 - Phường Chánh Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212111298</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1981</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000412</MABN>
+  </Table>
+  <Table>
+    <LAN>25</LAN>
+    <TUDEN>20/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Khoa Thận Nhân Tạo</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>20/04/1990</NGAYSINH>
+    <MNVMAY>00274</MNVMAY>
+    <MANV>00274</MANV>
+    <MADV>012</MADV>
+    <HO>Võ Minh</HO>
+    <TEN> Luật</TEN>
+    <NGAYSINH1>1990-04-20T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Thôn Thanh Sơn - Xã Phổ Cường - Huyện Đức Phổ</NOISINH>
+    <DIACHI>Thôn Thanh Sơn - Xã Phổ Cường - Huyện Đức Phổ</DIACHI>
+    <NOIO>Thôn Thanh Sơn - Xã Phổ Cường - Huyện Đức Phổ</NOIO>
+    <H_NOIO>Thôn Thanh Sơn - Xã Phổ Cường - Huyện Đức Phổ</H_NOIO>
+    <CMNDSO>212249039</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1990</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000274</MABN>
+  </Table>
+  <Table>
+    <LAN>51</LAN>
+    <TUDEN>20/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Nội Tim Mạch</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>20/04/1964</NGAYSINH>
+    <MNVMAY>00506</MNVMAY>
+    <MANV>00506</MANV>
+    <MADV>023</MADV>
+    <HO>Võ Thị</HO>
+    <TEN> Toản</TEN>
+    <NGAYSINH1>1964-04-20T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>155 Trương Định - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>155 Trương Định - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>155 Trương Định - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>155 Trương Định - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212561701</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1964</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000506</MABN>
+  </Table>
+  <Table>
+    <LAN>51</LAN>
+    <TUDEN>20/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Hộ lý</CHUCDANH>
+    <KHOAPHONG>Hồi Sức TC-CĐ</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>20/04/1964</NGAYSINH>
+    <MNVMAY>00131</MNVMAY>
+    <MANV>00131</MANV>
+    <MADV>008</MADV>
+    <HO>Nguyễn</HO>
+    <TEN> Ngân</TEN>
+    <NGAYSINH1>1964-04-20T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Thôn Điền Chánh - Xã Nghĩa Điền - Huyện Tư Nghĩa</NOISINH>
+    <DIACHI>Thôn Điền Chánh - Xã Nghĩa Điền - Huyện Tư Nghĩa</DIACHI>
+    <NOIO>Thôn Điền Chánh - Xã Nghĩa Điền - Huyện Tư Nghĩa</NOIO>
+    <H_NOIO>Thôn Điền Chánh - Xã Nghĩa Điền - Huyện Tư Nghĩa</H_NOIO>
+    <CMNDSO>211032098</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>025</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1964</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000131</MABN>
+  </Table>
+  <Table>
+    <LAN>54</LAN>
+    <TUDEN>20/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Kế toán viên</CHUCDANH>
+    <KHOAPHONG>Tài Chính Kế Toán</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>20/04/1961</NGAYSINH>
+    <MNVMAY>00786</MNVMAY>
+    <MANV>00786</MANV>
+    <MADV>031</MADV>
+    <HO>Phạm Thị</HO>
+    <TEN> Trí</TEN>
+    <NGAYSINH1>1961-04-20T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>TT Sơn Tịnh - Thị trấn Sơn Tịnh - Huyện Sơn Tịnh</NOISINH>
+    <DIACHI>TT Sơn Tịnh - Thị trấn Sơn Tịnh - Huyện Sơn Tịnh</DIACHI>
+    <NOIO>TT Sơn Tịnh - Thị trấn Sơn Tịnh - Huyện Sơn Tịnh</NOIO>
+    <H_NOIO>TT Sơn Tịnh - Thị trấn Sơn Tịnh - Huyện Sơn Tịnh</H_NOIO>
+    <CMNDSO>210518527</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>026</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1961</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000786</MABN>
+  </Table>
+  <Table>
+    <LAN>58</LAN>
+    <TUDEN>20/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Hộ lý</CHUCDANH>
+    <KHOAPHONG>PTGM-HS</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>20/04/1957</NGAYSINH>
+    <MNVMAY>00626</MNVMAY>
+    <MANV>00626</MANV>
+    <MADV>025</MADV>
+    <HO>Hồ Ngọc</HO>
+    <TEN> Minh</TEN>
+    <NGAYSINH1>1957-04-20T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Tổ 12 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 12 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 12 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 12 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>210329366</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>025</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1957</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000626</MABN>
+  </Table>
+  <Table>
+    <LAN>55</LAN>
+    <TUDEN>21/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ chính</CHUCDANH>
+    <KHOAPHONG>Sản</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>21/04/1960</NGAYSINH>
+    <MNVMAY>00714</MNVMAY>
+    <MANV>00714</MANV>
+    <MADV>030</MADV>
+    <HO>Huỳnh Thị</HO>
+    <TEN> Bắc</TEN>
+    <NGAYSINH1>1960-04-21T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 4 - Phường Lê Hồng Phong - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 4 - Phường Lê Hồng Phong - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 4 - Phường Lê Hồng Phong - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 4 - Phường Lê Hồng Phong - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212044286</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>002</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1960</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000714</MABN>
+  </Table>
+  <Table>
+    <LAN>26</LAN>
+    <TUDEN>22/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên bảo vệ</CHUCDANH>
+    <KHOAPHONG>Phòng Tổ Chức</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>22/04/1989</NGAYSINH>
+    <MNVMAY>00674</MNVMAY>
+    <MANV>00674</MANV>
+    <MADV>027</MADV>
+    <HO>Đoàn Ngọc</HO>
+    <TEN> Trung</TEN>
+    <NGAYSINH1>1989-04-22T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>P. Quảng Phú - TP Quảng Ngãi -  - </NOISINH>
+    <DIACHI>P. Quảng Phú - TP Quảng Ngãi -  - </DIACHI>
+    <NOIO>P. Quảng Phú - TP Quảng Ngãi -  - </NOIO>
+    <H_NOIO>P. Quảng Phú - TP Quảng Ngãi -  - </H_NOIO>
+    <CMNDSO>212562908</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>004</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1989</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000674</MABN>
+  </Table>
+  <Table>
+    <LAN>26</LAN>
+    <TUDEN>22/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ</CHUCDANH>
+    <KHOAPHONG>Nội Tổng Hợp</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>22/04/1989</NGAYSINH>
+    <MNVMAY>00547</MNVMAY>
+    <MANV>00547</MANV>
+    <MADV>024</MADV>
+    <HO>Lê Vũ</HO>
+    <TEN> Quang</TEN>
+    <NGAYSINH1>1989-04-22T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Bình Hòa - Bình Sơn - Quảng Ngãi -  - </NOISINH>
+    <DIACHI>Bình Hòa - Bình Sơn - Quảng Ngãi -  - </DIACHI>
+    <NOIO>Bình Hòa - Bình Sơn - Quảng Ngãi -  - </NOIO>
+    <H_NOIO>Bình Hòa - Bình Sơn - Quảng Ngãi -  - </H_NOIO>
+    <CMNDSO>212303959</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>001</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1989</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000547</MABN>
+  </Table>
+  <Table>
+    <LAN>39</LAN>
+    <TUDEN>22/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Phó Trưởng Phòng</CHUCDANH>
+    <KHOAPHONG>Vật Tư Kỹ Thụât</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>22/04/1976</NGAYSINH>
+    <MNVMAY>00836</MNVMAY>
+    <MANV>00836</MANV>
+    <MADV>033</MADV>
+    <HO>Nguyễn Ngọc</HO>
+    <TEN> Anh</TEN>
+    <NGAYSINH1>1976-04-22T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>182/21 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>182/21 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>182/21 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>182/21 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212017831</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>031</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1976</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000836</MABN>
+  </Table>
+  <Table>
+    <LAN>48</LAN>
+    <TUDEN>22/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ</CHUCDANH>
+    <KHOAPHONG>Sản</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>22/04/1967</NGAYSINH>
+    <MNVMAY>00718</MNVMAY>
+    <MANV>00718</MANV>
+    <MADV>030</MADV>
+    <HO>Bùi Thị Xuân</HO>
+    <TEN> Diệu</TEN>
+    <NGAYSINH1>1967-04-22T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>781 Quang Trung - Phường Nghĩa Chánh - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>781 Quang Trung - Phường Nghĩa Chánh - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>781 Quang Trung - Phường Nghĩa Chánh - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>781 Quang Trung - Phường Nghĩa Chánh - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212152646</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>001</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1967</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000718</MABN>
+  </Table>
+  <Table>
+    <LAN>55</LAN>
+    <TUDEN>22/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Chuyên viên</CHUCDANH>
+    <KHOAPHONG>Phòng Tổ Chức</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>22/04/1960</NGAYSINH>
+    <MNVMAY>00650</MNVMAY>
+    <MANV>00650</MANV>
+    <MADV>027</MADV>
+    <HO>Trần Thị Hoài</HO>
+    <TEN> Hương</TEN>
+    <NGAYSINH1>1960-04-22T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>345A/2 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>345A/2 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>345A/2 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>345A/2 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>210180140</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>026</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1960</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000650</MABN>
+  </Table>
+  <Table>
+    <LAN>32</LAN>
+    <TUDEN>23/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên kĩ thuật</CHUCDANH>
+    <KHOAPHONG>Hành Chính Quản Trị</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>23/04/1983</NGAYSINH>
+    <MNVMAY>00090</MNVMAY>
+    <MANV>00090</MANV>
+    <MADV>006</MADV>
+    <HO>Dương Thái</HO>
+    <TEN> Cảnh</TEN>
+    <NGAYSINH1>1983-04-23T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>81 Tô Hiến Thành - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>81 Tô Hiến Thành - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>81 Tô Hiến Thành - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>81 Tô Hiến Thành - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212205078</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>040</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1983</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000090</MABN>
+  </Table>
+  <Table>
+    <LAN>40</LAN>
+    <TUDEN>24/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên</CHUCDANH>
+    <KHOAPHONG>Sản</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>24/04/1975</NGAYSINH>
+    <MNVMAY>00736</MNVMAY>
+    <MANV>00736</MANV>
+    <MADV>030</MADV>
+    <HO>Phan Thị Kim</HO>
+    <TEN> Oanh</TEN>
+    <NGAYSINH1>1975-04-24T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>31 Nguyễn Thuỵ - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>31 Nguyễn Thuỵ - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>31 Nguyễn Thuỵ - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>31 Nguyễn Thuỵ - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211888035</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>035</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1975</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000736</MABN>
+  </Table>
+  <Table>
+    <LAN>35</LAN>
+    <TUDEN>25/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Dược sĩ trung cấp</CHUCDANH>
+    <KHOAPHONG>Khoa Dược</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>25/04/1980</NGAYSINH>
+    <MNVMAY>00218</MNVMAY>
+    <MANV>00218</MANV>
+    <MADV>011</MADV>
+    <HO>Mai Thị Hồng</HO>
+    <TEN> Nhung</TEN>
+    <NGAYSINH1>1980-04-25T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 3 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 3 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 3 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 3 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>221009607</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>023</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1980</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000218</MABN>
+  </Table>
+  <Table>
+    <LAN>44</LAN>
+    <TUDEN>25/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>25/04/1971</NGAYSINH>
+    <MNVMAY>00311</MNVMAY>
+    <MANV>00311</MANV>
+    <MADV>015</MADV>
+    <HO>Phùng Thị Mỹ</HO>
+    <TEN> Khánh</TEN>
+    <NGAYSINH1>1971-04-25T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>248 Lê Lợi - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>248 Lê Lợi - Phường Chánh Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>248 Lê Lợi - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>248 Lê Lợi - Phường Chánh Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212561428</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1971</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000311</MABN>
+  </Table>
+  <Table>
+    <LAN>26</LAN>
+    <TUDEN>26/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Khám Bệnh</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>26/04/1989</NGAYSINH>
+    <MNVMAY>00200</MNVMAY>
+    <MANV>00200</MANV>
+    <MADV>010</MADV>
+    <HO>Trương Lê</HO>
+    <TEN> Thi</TEN>
+    <NGAYSINH1>1989-04-26T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH> -  - </NOISINH>
+    <DIACHI> -  - </DIACHI>
+    <NOIO> -  - </NOIO>
+    <H_NOIO> -  - </H_NOIO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1989</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000200</MABN>
+  </Table>
+  <Table>
+    <LAN>31</LAN>
+    <TUDEN>26/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>PTGM-HS</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>26/04/1984</NGAYSINH>
+    <MNVMAY>00635</MNVMAY>
+    <MANV>00635</MANV>
+    <MADV>025</MADV>
+    <HO>Đỗ Thị</HO>
+    <TEN> Tuấn</TEN>
+    <NGAYSINH1>1984-04-26T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>An Hội Bắc II - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</NOISINH>
+    <DIACHI>An Hội Bắc II - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</DIACHI>
+    <NOIO>An Hội Bắc II - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</NOIO>
+    <H_NOIO>An Hội Bắc II - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</H_NOIO>
+    <CMNDSO>212338225</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1984</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000635</MABN>
+  </Table>
+  <Table>
+    <LAN>36</LAN>
+    <TUDEN>26/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Khoa Thận Nhân Tạo</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>26/04/1979</NGAYSINH>
+    <MNVMAY>00266</MNVMAY>
+    <MANV>00266</MANV>
+    <MADV>012</MADV>
+    <HO>Bùi Thị Thanh</HO>
+    <TEN> Tùng</TEN>
+    <NGAYSINH1>1979-04-26T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Thôn Ngân Giang - Xã Tịnh Hà - Huyện Sơn Tịnh</NOISINH>
+    <DIACHI>Thôn Ngân Giang - Xã Tịnh Hà - Huyện Sơn Tịnh</DIACHI>
+    <NOIO>Thôn Ngân Giang - Xã Tịnh Hà - Huyện Sơn Tịnh</NOIO>
+    <H_NOIO>Thôn Ngân Giang - Xã Tịnh Hà - Huyện Sơn Tịnh</H_NOIO>
+    <CMNDSO>212058125</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1979</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000266</MABN>
+  </Table>
+  <Table>
+    <LAN>28</LAN>
+    <TUDEN>27/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Nhân viên bảo vệ</CHUCDANH>
+    <KHOAPHONG>Phòng Tổ Chức</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>27/04/1987</NGAYSINH>
+    <MNVMAY>00672</MNVMAY>
+    <MANV>00672</MANV>
+    <MADV>027</MADV>
+    <HO>Trần Anh</HO>
+    <TEN> Thương</TEN>
+    <NGAYSINH1>1987-04-27T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Nghĩa An - Tư Nghĩa -  - </NOISINH>
+    <DIACHI>Nghĩa An - Tư Nghĩa -  - </DIACHI>
+    <NOIO>Nghĩa An - Tư Nghĩa -  - </NOIO>
+    <H_NOIO>Nghĩa An - Tư Nghĩa -  - </H_NOIO>
+    <CMNDSO>212639231</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>004</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1987</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000672</MABN>
+  </Table>
+  <Table>
+    <LAN>28</LAN>
+    <TUDEN>27/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Dược sĩ trung cấp</CHUCDANH>
+    <KHOAPHONG>Khoa Dược</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>27/04/1987</NGAYSINH>
+    <MNVMAY>00240</MNVMAY>
+    <MANV>00240</MANV>
+    <MADV>011</MADV>
+    <HO>Nguyễn Thị Lệ</HO>
+    <TEN> Quyên</TEN>
+    <NGAYSINH1>1987-04-27T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Ba Tơ - Xã Ba Dinh - Huyện Ba Tơ</NOISINH>
+    <DIACHI>Ba Tơ - Xã Ba Dinh - Huyện Ba Tơ</DIACHI>
+    <NOIO>Ba Tơ - Xã Ba Dinh - Huyện Ba Tơ</NOIO>
+    <H_NOIO>Ba Tơ - Xã Ba Dinh - Huyện Ba Tơ</H_NOIO>
+    <CMNDSO>212341588</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>020</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1987</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000240</MABN>
+  </Table>
+  <Table>
+    <LAN>29</LAN>
+    <TUDEN>28/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Nhi</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>28/04/1986</NGAYSINH>
+    <MNVMAY>00449</MNVMAY>
+    <MANV>00449</MANV>
+    <MADV>020</MADV>
+    <HO>Võ Thị Hồng</HO>
+    <TEN> Sen</TEN>
+    <NGAYSINH1>1986-04-28T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Xóm 5 - thôn An Hội Nam I - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</NOISINH>
+    <DIACHI>Xóm 5 - thôn An Hội Nam I - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</DIACHI>
+    <NOIO>Xóm 5 - thôn An Hội Nam I - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</NOIO>
+    <H_NOIO>Xóm 5 - thôn An Hội Nam I - Xã Nghĩa Kỳ - Huyện Tư Nghĩa</H_NOIO>
+    <CMNDSO>212633754</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1986</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000449</MABN>
+  </Table>
+  <Table>
+    <LAN>49</LAN>
+    <TUDEN>29/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Bác sĩ chính</CHUCDANH>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>29/04/1966</NGAYSINH>
+    <MNVMAY>00305</MNVMAY>
+    <MANV>00305</MANV>
+    <MADV>015</MADV>
+    <HO>Đoàn Văn</HO>
+    <TEN> Xiêm</TEN>
+    <NGAYSINH1>1966-04-29T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>Tổ 18 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 18 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 18 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 18 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211263902</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>003</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1966</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000305</MABN>
+  </Table>
+  <Table>
+    <LAN>28</LAN>
+    <TUDEN>30/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>PTGM-HS</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>30/04/1987</NGAYSINH>
+    <MNVMAY>00640</MNVMAY>
+    <MANV>00640</MANV>
+    <MADV>025</MADV>
+    <HO>Hồ Hoàng</HO>
+    <TEN> Anh</TEN>
+    <NGAYSINH1>1987-04-30T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Thôn Ann Trường - Xã Phổ Ninh - Huyện Đức Phổ</NOISINH>
+    <DIACHI>Thôn Ann Trường - Xã Phổ Ninh - Huyện Đức Phổ</DIACHI>
+    <NOIO>Thôn Ann Trường - Xã Phổ Ninh - Huyện Đức Phổ</NOIO>
+    <H_NOIO>Thôn Ann Trường - Xã Phổ Ninh - Huyện Đức Phổ</H_NOIO>
+    <CMNDSO>240946501</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1987</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000640</MABN>
+  </Table>
+  <Table>
+    <LAN>35</LAN>
+    <TUDEN>30/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Ngoại CTCH-B</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>30/04/1980</NGAYSINH>
+    <MNVMAY>00336</MNVMAY>
+    <MANV>00336</MANV>
+    <MADV>016</MADV>
+    <HO>Đặng Thị Thu</HO>
+    <TEN> Đào</TEN>
+    <NGAYSINH1>1980-04-30T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>Tổ 9 - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>Tổ 9 - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>Tổ 9 - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>Tổ 9 - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212086562</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1980</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000336</MABN>
+  </Table>
+  <Table>
+    <LAN>40</LAN>
+    <TUDEN>30/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>Khám Bệnh</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>30/04/1975</NGAYSINH>
+    <MNVMAY>00168</MNVMAY>
+    <MANV>00168</MANV>
+    <MADV>010</MADV>
+    <HO>Nguyễn Thị Thanh</HO>
+    <TEN> Tùng</TEN>
+    <NGAYSINH1>1975-04-30T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nữ</PHAI>
+    <NOISINH>76 Ngô Sỹ Liên - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>76 Ngô Sỹ Liên - Phường Trần Phú - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>76 Ngô Sỹ Liên - Phường Trần Phú - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>76 Ngô Sỹ Liên - Phường Trần Phú - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>212006885</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>019</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1975</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000168</MABN>
+  </Table>
+  <Table>
+    <LAN>48</LAN>
+    <TUDEN>30/04</TUDEN>
+    <THANG>04</THANG>
+    <NGAY>29</NGAY>
+    <CHUCDANH>Điều dưỡng trung cấp</CHUCDANH>
+    <KHOAPHONG>PTGM-HS</KHOAPHONG>
+    <SOTIEN>200000</SOTIEN>
+    <NGAYSINH>30/04/1967</NGAYSINH>
+    <MNVMAY>00601</MNVMAY>
+    <MANV>00601</MANV>
+    <MADV>025</MADV>
+    <HO>Đỗ Thế</HO>
+    <TEN> Thiệp</TEN>
+    <NGAYSINH1>1967-04-30T00:00:00+07:00</NGAYSINH1>
+    <PHAI>Nam</PHAI>
+    <NOISINH>30/1 Phạm Văn Đồng - Phường Nguyễn Nghiêm - Thành phố Quảng Ngãi</NOISINH>
+    <DIACHI>30/1 Phạm Văn Đồng - Phường Nguyễn Nghiêm - Thành phố Quảng Ngãi</DIACHI>
+    <NOIO>30/1 Phạm Văn Đồng - Phường Nguyễn Nghiêm - Thành phố Quảng Ngãi</NOIO>
+    <H_NOIO>30/1 Phạm Văn Đồng - Phường Nguyễn Nghiêm - Thành phố Quảng Ngãi</H_NOIO>
+    <CMNDSO>211384860</CMNDSO>
+    <MADT>25</MADT>
+    <MATGIAO>06</MATGIAO>
+    <NNGHIEP>005</NNGHIEP>
+    <MAQG>VN</MAQG>
+    <NAMSINH>1967</NAMSINH>
+    <LAN1>1</LAN1>
+    <IDQD>0</IDQD>
+    <MABN>00000601</MABN>
+  </Table>
+</NewDataSet>

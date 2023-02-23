@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="STT" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="LOAI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="THANGHT" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMHT" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NU" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="SOBHXH" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYBHXH" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_LC" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="MLTT" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="LUONGHUONGBHXH" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NOIDUNG" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="TUNGAY" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="DENNGAY" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="SONGAYNGHI" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="IDCHEDO" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <STT>A. CHẾ ĐỘ ỐM ĐAU</STT>
+    <LOAI>7</LOAI>
+  </Table>
+  <Table>
+    <STT>I. Bản thân ốm thường</STT>
+    <LOAI>8</LOAI>
+  </Table>
+  <Table>
+    <STT>II.Bản thân ốm dài ngày</STT>
+  </Table>
+  <Table>
+    <STT>III.Con ốm</STT>
+  </Table>
+  <Table>
+    <STT>B. CHẾ ĐỘ THAI SẢN</STT>
+  </Table>
+  <Table>
+    <STT>I. Sẩy thai, nạo hút thai, thai chết lưu</STT>
+  </Table>
+  <Table>
+    <STT>II.Sinh con, nuôi con nuôi</STT>
+  </Table>
+  <Table>
+    <STT>D. DƯỠNG SỨC PHỤC HỒI SỨC KHỎE SAU THAI SẢN</STT>
+  </Table>
+  <Table>
+    <STT>I. Nghỉ tại gia đình</STT>
+  </Table>
+  <Table>
+    <STT>II. Nghỉ khác</STT>
+  </Table>
+</NewDataSet>

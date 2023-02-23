@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<Table>
+		<STT>0</STT>
+		<NOIDUNG>Đăng ký khám bệnh</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,c.tenkp FROM zzz.BTDBN A,xxx.TIEPDON B,zzz.btdkp_bv c WHERE A.MABN=B.MABN and b.makp=c.makp</SQL>
+		<DEL>DELETE  FROM xxx.TIEPDON WHERE MAQL=</DEL>
+	</Table>
+	<Table>
+		<STT>1</STT>
+		<NOIDUNG>Phiếu khám bệnh</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,c.tenkp FROM zzz.BTDBN A,xxx.BENHANpk B,zzz.btdkp_bv c WHERE A.MABN=B.MABN and b.makp=c.makp</SQL>
+		<DEL>DELETE  FROM xxx.BENHANDT WHERE MAQL=</DEL>
+	</Table>
+	<Table>
+		<STT>2</STT>
+		<NOIDUNG>Bệnh án ngoại trú</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,c.tenkp FROM zzz.BTDBN A,zzz.BENHANngtr B,zzz.btdkp_bv c WHERE A.MABN=B.MABN and b.makp=c.makp</SQL>
+		<DEL>DELETE  FROM zzz.BENHANngtr WHERE MAQL=</DEL>
+	</Table>
+	<Table>
+		<STT>3</STT>
+		<NOIDUNG>Nhận bệnh</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,c.tenkp FROM zzz.BTDBN A,zzz.BENHANDT B,zzz.btdkp_bv c WHERE A.MABN=B.MABN and b.makp=c.makp</SQL>
+		<DEL>DELETE  FROM zzz.BENHANDT WHERE MAQL=</DEL>
+	</Table>
+	<Table>
+		<STT>4</STT>
+		<NOIDUNG>Nhập khoa</NOIDUNG>    
+    <SQL>SELECT A.MABN,d.HOTEN,d.NAMSINH,to_char(a.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,a.MAQL,a.ID AS ID,c.tenkp  FROM zzz.NHAPKHOA a,zzz.BENHANDT b,zzz.btdkp_bv c,zzz.BTDBN d  where a.maql=b.maql and a.makp=c.makp and a.mabn=d.mabn</SQL>
+		<DEL>DELETE  FROM zzz.NHAPKHOA WHERE ID=</DEL>
+	</Table>
+	<Table>
+		<STT>5</STT>
+		<NOIDUNG>Phẫu thuật,thủ thuật</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,B.ID AS ID,c.tenkp FROM zzz.BTDBN A,xxx.PTTT B,zzz.btdkp_bv c WHERE A.MABN=B.MABN and b.makp=c.makp</SQL>
+		<DEL>DELETE  FROM xxx.PTTT WHERE ID=</DEL>
+	</Table>
+	<Table>
+		<STT>6</STT>
+		<NOIDUNG>Xuất khoa</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(C.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,B.ID AS ID,e.tenkp FROM zzz.BTDBN A,zzz.NHAPKHOA B,zzz.XUATKHOA C,zzz.BENHANDT D,zzz.btdkp_bv e WHERE A.MABN=B.MABN AND B.ID=C.ID AND B.MAQL=D.MAQL and b.makp=e.makp</SQL>
+		<DEL>DELETE  FROM zzz.XUATKHOA WHERE ID=</DEL>
+	</Table>
+	<Table>
+		<STT>7</STT>
+		<NOIDUNG>Xuất viện</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,d.tenkp FROM zzz.BTDBN A,zzz.XUATVIEN B,zzz.BENHANDT C,zzz.btdkp_bv d WHERE A.MABN=B.MABN AND B.MAQL=C.MAQL and b.makp=d.makp</SQL>
+		<DEL>DELETE  FROM zzz.XUATVIEN WHERE MAQL=</DEL>
+	</Table>
+	<Table>
+		<STT>8</STT>
+		<NOIDUNG>Hiện diện</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,B.ID AS ID,d.tenkp FROM zzz.BTDBN A,zzz.HIENDIEN B,zzz.BENHANDT C,zzz.btdkp_bv d WHERE A.MABN=B.MABN AND B.MAQL=C.MAQL and b.makp=d.makp</SQL>
+		<DEL>DELETE  FROM zzz.HIENDIEN WHERE ID=</DEL>
+	</Table>
+	<Table>
+		<STT>9</STT>
+		<NOIDUNG>Trẻ sơ sinh</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(C.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,C.ID_SS AS ID,d.tenkp FROM zzz.BTDBN A,zzz.BENHANDT B,zzz.TRESOSINH C,zzz.btdkp_bv d WHERE A.MABN=B.MABN AND B.MAQL=C.MAQL and b.makp=d.makp</SQL>
+		<DEL>DELETE  FROM zzz.TRESOSINH WHERE ID_SS=</DEL>
+	</Table>
+	<Table>
+		<STT>10</STT>
+		<NOIDUNG>Tai nạn,thương tích</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,d.tenkp FROM zzz.BTDBN A,zzz.BENHANDT B,xxx.TAINANTT C,zzz.btdkp_bv d WHERE A.MABN=B.MABN AND B.MAQL=C.MAQL and b.makp=d.makp</SQL>
+		<DEL>DELETE  FROM xxx.TAINANTT WHERE MAQL=</DEL>
+	</Table>
+	<Table>
+		<STT>11</STT>
+		<NOIDUNG>Tử vong</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,d.tenkp FROM zzz.BTDBN A,zzz.XUATVIEN B,zzz.TUVONG C,zzz.btdkp_bv d WHERE A.MABN=B.MABN AND B.MAQL=C.MAQL and b.makp=d.makp</SQL>
+		<DEL>DELETE  FROM zzz.TUVONG WHERE MAQL=</DEL>
+	</Table>
+	<Table>
+		<STT>12</STT>
+		<NOIDUNG>Sản khoa</NOIDUNG>
+		<SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,d.tenkp FROM zzz.BTDBN A,zzz.CDSANKHOA B,zzz.BENHANDT C,zzz.btdkp_bv d WHERE A.MABN=C.MABN AND C.MAQL=B.MAQL and c.makp=d.makp</SQL>
+		<DEL>DELETE  FROM zzz.CDSANKHOA WHERE MAQL=</DEL>
+	</Table>
+  <Table>
+    <STT>13</STT>
+    <NOIDUNG>Phòng lưu</NOIDUNG>
+    <SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAY,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,d.tenkp FROM zzz.BTDBN A,xxx.BENHANcc B,zzz.btdkp_bv d WHERE A.MABN=B.MABN and b.makp=d.makp</SQL>
+    <DEL>DELETE  FROM xxx.BENHANcc WHERE MAQL=</DEL>
+  </Table>
+  <Table>
+    <STT>14</STT>
+    <NOIDUNG>Bệnh án ra ngoại trú</NOIDUNG>
+    <SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAYrv,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,d.tenkp FROM zzz.BTDBN A,zzz.BENHANngtr B,zzz.btdkp_bv d WHERE A.MABN=B.MABN and b.ngayrv is not null and b.makp=d.makp</SQL>
+    <DEL>update zzz.BENHANngtr set ngayrv=null WHERE MAQL=</DEL>
+  </Table>
+  <Table>
+    <STT>15</STT>
+    <NOIDUNG>Ra phòng lưu</NOIDUNG>
+    <SQL>SELECT A.MABN,A.HOTEN,A.NAMSINH,to_char(B.NGAYrv,'dd/mm/yyyy hh24:mi') as NGAY,B.MAQL,0 AS ID,d.tenkp FROM zzz.BTDBN A,xxx.BENHANcc B,zzz.btdkp_bv d WHERE A.MABN=B.MABN and b.ngayrv is not null and b.makp=d.makp</SQL>
+    <DEL>update xxx.BENHANcc set ngayrv=null WHERE MAQL=</DEL>
+  </Table>
+</NewDataSet>

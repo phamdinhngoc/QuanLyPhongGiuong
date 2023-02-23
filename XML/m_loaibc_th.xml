@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true">
+            <xs:complexType>
+                <xs:choice maxOccurs="unbounded">
+                    <xs:element name="Table">
+                        <xs:complexType>
+                            <xs:sequence>
+                                <xs:element name="ID" type="xs:decimal" minOccurs="0" />
+                                <xs:element name="LOAI" type="xs:decimal" minOccurs="0" />
+                                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                            </xs:sequence>
+                        </xs:complexType>
+                    </xs:element>
+                </xs:choice>
+            </xs:complexType>
+        </xs:element>
+    </xs:schema>
+    <Table>
+        <ID>1</ID>
+        <LOAI>1</LOAI>
+        <TEN>Nhập mới</TEN>
+    </Table>
+    <Table>
+        <ID>2</ID>
+        <LOAI>1</LOAI>
+        <TEN>Nhập do hoàn trả</TEN>
+    </Table>
+    <Table>
+        <ID>3</ID>
+        <LOAI>1</LOAI>
+        <TEN>Tái nhập kho</TEN>
+    </Table>
+    <Table>
+        <ID>4</ID>
+        <LOAI>1</LOAI>
+        <TEN>Nhập do thu hồi tủ trực</TEN>
+    </Table>
+    <Table>
+        <ID>5</ID>
+        <LOAI>1</LOAI>
+        <TEN>Chuyển kho</TEN>
+    </Table>
+    <Table>
+        <ID>6</ID>
+        <LOAI>2</LOAI>
+        <TEN>Xuất Bán</TEN>
+    </Table>
+    <Table>
+        <ID>7</ID>
+        <LOAI>2</LOAI>
+        <TEN>Xuất chuyển kho</TEN>
+    </Table>
+    <Table>
+        <ID>8</ID>
+        <LOAI>2</LOAI>
+        <TEN>Xuất bù cơ số tủ trực</TEN>
+    </Table>
+    <Table>
+        <ID>9</ID>
+        <LOAI>2</LOAI>
+        <TEN>Xuất bổ sung cơ số tủ trực</TEN>
+    </Table>
+    <Table>
+        <ID>10</ID>
+        <LOAI>2</LOAI>
+        <TEN>Xuất khác</TEN>
+    </Table>
+    <Table>
+        <ID>11</ID>
+        <LOAI>2</LOAI>
+        <TEN>Xuất vay</TEN>
+    </Table>
+    <Table>
+        <ID>11</ID>
+        <LOAI>2</LOAI>
+        <TEN>Xuất trả nhà cung cấp</TEN>
+    </Table>
+    <Table>
+        <ID>11</ID>
+        <LOAI>2</LOAI>
+        <TEN>Xuất BHYT</TEN>
+    </Table>
+  <Table>
+    <ID>11</ID>
+    <LOAI>2</LOAI>
+    <TEN>Xuất sử dụng</TEN>
+  </Table>
+    <Table>
+        <ID>14</ID>
+        <LOAI>3</LOAI>
+        <TEN>Hoàn trả theo khoa phòng</TEN>
+    </Table>
+</NewDataSet>

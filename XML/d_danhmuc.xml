@@ -1,0 +1,283 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+  <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten></ten>
+    <table>d_dmnhomkho</table>
+    <sql>select * from yyy.d_dmkho where nhom=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten></ten>
+    <table>d_dmkho</table>
+    <sql>select * from xxx.d_tonkhoth where makho=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten></ten>
+    <table>d_dmnhom</table>
+    <sql>select * from yyy.d_dmbd where manhom=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten></ten>
+    <table>d_dmloai</table>
+    <sql>select * from yyy.d_dmbd where maloai=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten></ten>    
+    <table>d_dmhang</table>
+    <sql>select * from yyy.d_dmbd where mahang=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten></ten>    
+    <table>d_dmnuoc</table>
+    <sql>select * from yyy.d_dmbd where manuoc=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten></ten>
+    <table>d_dmnhomkt</table>
+    <sql>select * from yyy.d_dmbd where sotk=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nhóm báo cáo dược bệnh viện</ten>
+    <table>d_nhombo</table>
+    <sql>select * from yyy.d_dmbd where nhombo=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten></ten>
+    <table>d_dmnguon</table>
+    <sql>select * from xxx.d_tonkhoth where manguon=</sql>
+  </Table>
+   <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten></ten>
+    <table>d_duockp</table>
+    <sql>select * from xxx.d_tutructh where makp=</sql>
+  </Table>
+    <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten></ten>
+    <table>d_dmphieu</table>
+    <sql>select * from yyy.d_loaiphieu where loai=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten>Danh mục nhóm báo cáo bệnh viện</ten>
+    <table>d_nhombc</table>
+    <sql>select * from yyy.d_dmnhom where loai=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nhóm nhà cung cấp</ten>
+    <table>d_nhomcc</table>
+    <sql>select * from yyy.d_dmnx where nhomcc=</sql>
+  </Table>
+    <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nhóm hãng sản xuất</ten>
+    <table>d_nhomhang</table>
+    <sql>select * from yyy.d_dmhang where loai=</sql>
+  </Table>
+   <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nhóm nước sản xuất</ten>
+    <table>d_nhomnuoc</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục lý do hoàn trả</ten>
+    <table>d_dmlydo</table>
+    <sql></sql>
+  </Table>
+   <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục loại ngoại trú</ten>
+    <table>d_dmloaint</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục khác</ten>
+    <table>d_dmkhac</table>
+    <sql>select * from xxx.d_xuatll where loai=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nhóm in phiếu lĩnh</ten>
+    <table>d_nhomin</table>
+    <sql>select * from yyy.d_dmnhom where nhomin=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>0</loai>
+    <ten>Danh mục nhóm báo cáo viện phí</ten>
+    <table>d_nhomvp</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục loại ABC</ten>
+    <table>d_dmloaiabc</table>
+    <sql>select * from yyy.d_dmbd where loaiabc=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục loại Ven</ten>
+    <table>d_dmloaiven</table>
+    <sql>select * from yyy.d_dmbd where loaiven=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục loại FS</ten>
+    <table>d_dmloaifs</table>
+    <sql>select * from yyy.d_dmbd where loaifs=</sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục đơn vị</ten>
+    <table>d_dmdvt</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>0</nhom>
+    <loai>1</loai>
+    <ten>Mức độ dị ứng thuốc</ten>
+    <table>mucdodiung</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục chất lượng</ten>
+    <table>d_chatluong</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục tiêu chuẩn</ten>
+    <table>d_tieuchuan</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>0</nhom>
+    <loai>1</loai>
+    <ten>Loại thầu</ten>
+    <table>d_loaithau</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>0</nhom>
+    <loai>1</loai>
+    <ten>Danh mục thể tích bịch máu - chế phẩm máu</ten>
+    <table>d_dmthetich</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>0</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nhóm RHD</ten>
+    <table>d_dmnhomrhd</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>0</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nhóm ABO</ten>
+    <table>d_dmnhomabo</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục tình trạng</ten>
+    <table>d_dmtinhtrang</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>0</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nhóm kho</ten>
+    <table>d_loaikho</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục phẩm chất</ten>
+    <table>d_dmloaitscd</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nguồn gốc</ten>
+    <table>d_dmnguongoc</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục tình trạng</ten>
+    <table>d_dmtinhtrang</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nhóm điều trị</ten>
+    <table>d_dmnhomdt</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Tình trạng sửa chữa</ten>
+    <table>d_tscdsctinhtrang</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Tình trạng thanh toán chi phí sửa chữa</ten>
+    <table>d_tscdsctinhtrangtt</table>
+    <sql></sql>
+  </Table>
+  <Table>
+    <nhom>1</nhom>
+    <loai>1</loai>
+    <ten>Danh mục nguồn gốc thực phẩm</ten>
+    <table>di_nguongoc</table>
+    <sql></sql>
+  </Table>
+</NewDataSet>

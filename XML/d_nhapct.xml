@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="STT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MABD" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MA" type="xs:string" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="TENHC" type="xs:string" minOccurs="0" />
+								<xs:element name="DANG" type="xs:string" minOccurs="0" />
+								<xs:element name="HANDUNG" type="xs:string" minOccurs="0" />
+								<xs:element name="LOSX" type="xs:string" minOccurs="0" />
+								<xs:element name="SOLUONG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="DONGIA" type="xs:decimal" minOccurs="0" />
+								<xs:element name="VAT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="SOTIEN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="SOTIENVAT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="GIABAN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="SL1" type="xs:decimal" minOccurs="0" />
+								<xs:element name="SL2" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TYLE" type="xs:decimal" minOccurs="0" />
+								<xs:element name="CUOCVC" type="xs:decimal" minOccurs="0" />
+								<xs:element name="CHAYTHU" type="xs:decimal" minOccurs="0" />
+								<xs:element name="NAMSX" type="xs:string" minOccurs="0" />
+								<xs:element name="TAILIEU" type="xs:string" minOccurs="0" />
+								<xs:element name="GIAMUA" type="xs:decimal" minOccurs="0" />
+								<xs:element name="BAOHANH" type="xs:decimal" minOccurs="0" />
+								<xs:element name="NGUONGOC" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TINHTRANG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="SOTHE" type="xs:string" minOccurs="0" />
+								<xs:element name="GIABANCU" type="xs:decimal" minOccurs="0" />
+		            <xs:element name="GIAMUACU" type="xs:decimal" minOccurs="0" />
+                <xs:element name="GIABAN2" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TYLE2" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TYLE_GGIA" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ST_GGIA" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TONGTIEN" type="xs:decimal" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

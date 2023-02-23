@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="LOAI" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <MA>01</MA>
+    <LOAI>Khám thai</LOAI>
+  </Table>
+  <Table>
+    <MA>02</MA>
+    <LOAI>Khám kế hoạch</LOAI>
+  </Table>
+  <Table>
+    <MA>03</MA>
+    <LOAI>Khám phụ khoa</LOAI>
+  </Table>
+  <Table>
+    <MA>04</MA>
+    <LOAI>Danh sách phòng khám</LOAI>
+  </Table>
+  <Table>
+    <MA>05</MA>
+    <LOAI>Phân loại bệnh</LOAI>
+  </Table>
+  <Table>
+    <MA>06</MA>
+    <LOAI>Tổng hơp khám dịch vụ</LOAI>
+  </Table>
+  <Table>
+    <MA>07</MA>
+    <LOAI>Phòng khám dịch vụ</LOAI>
+  </Table>
+  <Table>
+    <MA>08</MA>
+    <LOAI>Phòng khám Hiếm Muộn</LOAI>
+  </Table>
+  <Table>
+    <MA>09</MA>
+    <LOAI>Phòng khám Nhũ hoa</LOAI>
+  </Table>
+  <Table>
+    <MA>10</MA>
+    <LOAI>Báo cáo thủ thuật</LOAI>
+  </Table>
+  <Table>
+    <MA>11</MA>
+    <LOAI>Hàng ngày dịch vụ</LOAI>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="MAQL" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TENBV" type="xs:string" minOccurs="0" />
+								<xs:element name="TENKP" type="xs:string" minOccurs="0" />
+								<xs:element name="MABN" type="xs:string" minOccurs="0" />
+								<xs:element name="HOTEN" type="xs:string" minOccurs="0" />
+								<xs:element name="NAMSINH" type="xs:string" minOccurs="0" />
+								<xs:element name="PHAI" type="xs:string" minOccurs="0" />
+								<xs:element name="TENNN" type="xs:string" minOccurs="0" />
+								<xs:element name="DANTOC" type="xs:string" minOccurs="0" />
+								<xs:element name="DOITUONG" type="xs:string" minOccurs="0" />
+								<xs:element name="SOTHE" type="xs:string" minOccurs="0" />
+								<xs:element name="DENNGAY" type="xs:string" minOccurs="0" />
+								<xs:element name="DIACHI" type="xs:string" minOccurs="0" />
+								<xs:element name="NOILAMVIEC" type="xs:string" minOccurs="0" />
+								<xs:element name="NGAYVAO" type="xs:string" minOccurs="0" />
+								<xs:element name="NGAYRA" type="xs:string" minOccurs="0" />
+								<xs:element name="CHANDOAN" type="xs:string" minOccurs="0" />
+								<xs:element name="MAICD" type="xs:string" minOccurs="0" />
+								<xs:element name="TENBS" type="xs:string" minOccurs="0" />
+								<xs:element name="NOIDKKCB" type="xs:string" minOccurs="0" />
+								<xs:element name="NOIGIOITHIEU" type="xs:string" minOccurs="0" />
+								<xs:element name="LAMSANG" type="xs:string" minOccurs="0" />
+								<xs:element name="XN" type="xs:string" minOccurs="0" />
+								<xs:element name="THUOC" type="xs:string" minOccurs="0" />
+								<xs:element name="TINHTRANG" type="xs:string" minOccurs="0" />
+								<xs:element name="LYDO" type="xs:string" minOccurs="0" />
+								<xs:element name="NGAY" type="xs:string" minOccurs="0" />
+								<xs:element name="VANCHUYEN" type="xs:string" minOccurs="0" />
+								<xs:element name="NGUOIDUA" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

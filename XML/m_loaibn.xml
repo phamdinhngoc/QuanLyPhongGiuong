@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ID>0</ID>
+		<TEN>Nội trú</TEN>
+	</Table>
+	<Table>
+		<ID>1</ID>
+		<TEN>Ngoại trú</TEN>
+	</Table>
+	<Table>
+		<ID>2</ID>
+		<TEN>Phòng lưu</TEN>
+	</Table>
+	<Table>
+		<ID>3</ID>
+		<TEN>Phòng khám</TEN>
+	</Table>
+	<Table>
+		<ID>4</ID>
+		<TEN>Tiếp đón</TEN>
+	</Table>
+</NewDataSet>

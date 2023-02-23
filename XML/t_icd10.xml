@@ -1,0 +1,155 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+								<xs:element name="cont" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ma>00</ma>
+		<ten>SXH</ten>
+		<cont>a.maicd like 'A91%'</cont>
+	</Table>
+	<Table>
+		<ma>01</ma>
+		<ten>SXH Độ I</ten>
+		<cont>a.maicd in ('A91','A91.1','A91.-1','A91.+1')</cont>
+	</Table>
+	<Table>
+		<ma>02</ma>
+		<ten>SXH Độ II</ten>
+		<cont>a.maicd in ('A91.2','A91.-2','A91.+2')</cont>
+	</Table>
+	<Table>
+		<ma>03</ma>
+		<ten>SXH Độ III</ten>
+		<cont>a.maicd in ('A91.3','A91.-3','A91.+3')</cont>
+	</Table>
+	<Table>
+		<ma>04</ma>
+		<ten>SXH Độ IV</ten>
+		<cont>a.maicd in ('A91.4','A91.-4','A91.+4')</cont>
+	</Table>
+	<Table>
+		<ma>05</ma>
+		<ten>VIÊM NÃO NHẬT BẢN</ten>
+		<cont>a.maicd='A83.0'</cont>
+	</Table>
+	<Table>
+		<ma>06</ma>
+		<ten>VIÊM NÃO SIÊU VI</ten>
+		<cont>a.maicd='A86'</cont>
+	</Table>
+	<Table>
+		<ma>07</ma>
+		<ten>VIÊM MÀNG NÃO SIÊU VI</ten>
+		<cont>a.maicd like 'A87%'</cont>
+	</Table>
+	<Table>
+		<ma>08</ma>
+		<ten>VIÊM NÃO, VIÊM TỦY</ten>
+		<cont>a.maicd like 'G04%'</cont>
+	</Table>
+	<Table>
+		<ma>09</ma>
+		<ten>SỞI</ten>
+		<cont>a.maicd like 'B05%'</cont>
+	</Table>
+	<Table>
+		<ma>10</ma>
+		<ten>SỐT RÉT DO Plasmodium falciparum</ten>
+		<cont>a.maicd like 'B50%'</cont>
+	</Table>
+	<Table>
+		<ma>11</ma>
+		<ten>SỐT RÉT DO Plasmodium vivax </ten>
+		<cont>a.maicd like 'B51%'</cont>
+	</Table>
+	<Table>
+		<ma>12</ma>
+		<ten>SỐT RÉT LÂM SÀNG</ten>
+		<cont>a.maicd like 'B54%'</cont>
+	</Table>
+	<Table>
+		<ma>13</ma>
+		<ten>SỐT RÉT DO Plasmodium malariae</ten>
+		<cont>a.maicd like 'B52%'</cont>
+	</Table>
+	<Table>
+		<ma>14</ma>
+		<ten>BỆNH ĐƯỜNG HÔ HẤP</ten>
+		<cont>a.maicd like 'J%'</cont>
+	</Table>
+	<Table>
+		<ma>15</ma>
+		<ten>QUAI BỊ</ten>
+		<cont>a.maicd like 'B26%'</cont>
+	</Table>
+	<Table>
+		<ma>16</ma>
+		<ten>BẠCH CẦU</ten>
+		<cont>a.maicd like 'A36%'</cont>
+	</Table>
+	<Table>
+		<ma>17</ma>
+		<ten>HO GÀ</ten>
+		<cont>a.maicd like 'A37%'</cont>
+	</Table>
+	<Table>
+		<ma>18</ma>
+		<ten>THỦY ĐẬU</ten>
+		<cont>a.maicd like 'B01%'</cont>
+	</Table>
+	<Table>
+		<ma>19</ma>
+		<ten>HO CẢM</ten>
+		<cont>a.maicd like 'J0%' or a.maicd like 'J20%'</cont>
+	</Table>
+	<Table>
+		<ma>20</ma>
+		<ten>VIÊM PHỔI</ten>
+		<cont>a.maicd in ('J15','J15.1','J15.-1')</cont>
+	</Table>
+	<Table>
+		<ma>21</ma>
+		<ten>VIÊM PHỔI NẶNG</ten>
+		<cont>a.maicd in ('J15.2','J15.-2')</cont>
+	</Table>
+	<Table>
+		<ma>22</ma>
+		<ten>VIÊM PHỔI RẤT NẶNG</ten>
+		<cont>a.maicd in ('J15.3','J15.-3')</cont>
+	</Table>
+	<Table>
+		<ma>23</ma>
+		<ten>BỆNH ARI KHÁC</ten>
+		<cont>a.maicd like 'J85%' or a.maicd like 'J91%' or a.maicd like 'J90%' or a.maicd like 'J45%' or a.maicd like 'J86%' or a.maicd like 'J21%' or a.maicd like 'J46%' or a.maicd like 'J3%'</cont>
+	</Table>
+	<Table>
+		<ma>24</ma>
+		<ten>BỆNH TMH KHÁC</ten>
+		<cont>a.maicd like 'H6%' or a.maicd like 'H7%' or a.maicd like 'H8%' or a.maicd like 'H9%'</cont>
+	</Table>
+	<Table>
+		<ma>25</ma>
+		<ten>LỴ</ten>
+		<cont>a.maicd like 'A03%' or a.maicd like 'A06%'</cont>
+	</Table>
+	<Table>
+		<ma>26</ma>
+		<ten>TIÊU CHẢY</ten>
+		<cont>a.maicd like 'A09%'</cont>
+	</Table>
+</NewDataSet>

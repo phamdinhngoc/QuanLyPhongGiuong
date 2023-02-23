@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NU" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CDCV" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DONVI" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="KHOA" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBP" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CS_KT" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <HOTEN>Lê Quang Vinh</HOTEN>
+    <CDCV>-Nhân viên</CDCV>
+    <DONVI>Bệnh viện y học cổ truyền</DONVI>
+    <KHOA>x</KHOA>
+    <TENBP>Khoa Chuẩn đoán hình ảnh</TENBP>
+    <CS_KT>1</CS_KT>
+  </Table>
+</NewDataSet>

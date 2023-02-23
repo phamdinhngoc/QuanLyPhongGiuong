@@ -1,0 +1,312 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+			<xs:complexType>
+				<xs:choice minOccurs="0" maxOccurs="unbounded">
+					<xs:element name="TAINANTT">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ID" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="VALUE" type="xs:string" minOccurs="0" />
+								<xs:element name="C01" type="xs:string" minOccurs="0" />
+								<xs:element name="C02" type="xs:string" minOccurs="0" />
+								<xs:element name="C03" type="xs:string" minOccurs="0" />
+								<xs:element name="C04" type="xs:string" minOccurs="0" />
+								<xs:element name="C05" type="xs:string" minOccurs="0" />
+								<xs:element name="C06" type="xs:string" minOccurs="0" />
+								<xs:element name="C07" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<TAINANTT>
+		<ID>1</ID>
+		<TEN>1. Tổng số nạn nhân đến cấp cứu</TEN>
+		<VALUE>maql&gt;0</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>2</ID>
+		<TEN>2. Tổng số nạn nhân TNGT đến cấp cứu</TEN>
+		<VALUE>loaiba=4 and nhantu=1</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>3</ID>
+		<TEN>Tổng số bị chấn thương sọ não</TEN>
+		<VALUE>sonao=0</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>4</ID>
+		<TEN>Tổng số bị chấn thương sọ não không đội mũ bảo hiểm</TEN>
+		<VALUE>sonao=0 and mubaohiem&lt;&gt;0</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>5</ID>
+		<TEN>Tổng số bị chấn thương cột sống cổ</TEN>
+		<VALUE>cotsongco=0</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>6</ID>
+		<TEN>Tổng số trường hợp phải mổ cấp cứu</TEN>
+		<VALUE>mocapcuu=0</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>7</ID>
+		<TEN>3. Thông tin về mũ bảo hiểm</TEN>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>8</ID>
+		<TEN>Số trường hợp có mũ bảo hiểm bị vỡ</TEN>
+		<VALUE>mubaohiem=0 and bivo=0</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>9</ID>
+		<TEN>Số nạn nhân đội mũ không cài quai</TEN>
+		<VALUE>mubaohiem=0 and gaiquai&lt;&gt;0</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>10</ID>
+		<TEN>Số mũ bảo hiểm không rõ nguồn gốc</TEN>
+		<VALUE>mubaohiem=0 and loaimu&lt;&gt;''</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>11</ID>
+		<TEN>4. TS trường hợp TNGT có sử dụng rượu bia</TEN>
+		<VALUE>ruoubia=0</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>12</ID>
+		<TEN>5. Tổng số trường hợp TNGT có nồng độ cồn trong máu</TEN>
+		<VALUE>mau&lt;&gt;0</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>13</ID>
+		<TEN>6. Phương tiện gây tai nạn</TEN>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>14</ID>
+		<TEN>Ô tô</TEN>
+		<VALUE>ptgaytn=0</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>15</ID>
+		<TEN>Mô tô,xe máy</TEN>
+		<VALUE>ptgaytn=2</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>16</ID>
+		<TEN>tàu hỏa</TEN>
+		<VALUE>ptgaytn=1</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>17</ID>
+		<TEN>Xe tự chế</TEN>
+		<VALUE>ptgaytn=3</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>18</ID>
+		<TEN>Tự gây tai nạn</TEN>
+		<VALUE>ptgaytn=4</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>19</ID>
+		<TEN>Khác</TEN>
+		<VALUE>ptgaytn=5</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>20</ID>
+		<TEN>7. Tử vong và nặng xin về</TEN>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>21</ID>
+		<TEN>Số nạn nhân tử vong trước nhập viện</TEN>
+		<VALUE>tuvong=1 and nhapvien=1</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>22</ID>
+		<TEN>Số nạn nhân tử vong sau khi nhập viện</TEN>
+		<VALUE>tuvong=1 and nhapvien=2</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>23</ID>
+		<TEN>Số nạn nhân nặng xin về</TEN>
+		<VALUE>tuvong=1 and xinve=1</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+	<TAINANTT>
+		<ID>24</ID>
+		<TEN>8. Tổng số bệnh nhân chuyển tuyến</TEN>
+		<VALUE>mabv&lt;&gt;''</VALUE>
+		<C01>0</C01>
+		<C02>0</C02>
+		<C03>0</C03>
+		<C04>0</C04>
+		<C05>0</C05>
+		<C06>0</C06>
+		<C07>0</C07>
+	</TAINANTT>
+</NewDataSet>

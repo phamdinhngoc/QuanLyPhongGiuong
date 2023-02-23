@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+								<xs:element name="stt" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+  <Table>
+    <ma>Nội trú</ma>
+    <ten>select a.makp,count(*) tso,sum(decode(a.ketqua,1,1,0)) c01,sum(decode(a.ketqua,2,1,0)) c02,sum(decode(a.ketqua,3,1,0)) c03,sum(decode(a.ketqua,4,1,0)) c04,sum(decode(a.ketqua,5,1,0)) c05,sum(decode(a.ketqua,6,1,0)) c06,sum(decode(a.ketqua,7,1,0)) c07 from his.xuatvien a,his.btdbn b,his.benhandt c,his.btdkp_bv d where a.mabn=b.mabn and a.maql=c.maql and a.makp=d.makp</ten>
+    <stt>a.makp</stt>
+  </Table>
+  <Table>
+    <ma>Ngoại trú</ma>
+    <ten>select a.makp,count(*) tso,sum(decode(a.ketqua,1,1,0)) c01,sum(decode(a.ketqua,2,1,0)) c02,sum(decode(a.ketqua,3,1,0)) c03,sum(decode(a.ketqua,4,1,0)) c04,sum(decode(a.ketqua,5,1,0)) c05,sum(decode(a.ketqua,6,1,0)) c06,sum(decode(a.ketqua,7,1,0)) c07 from his.benhanngtr a,his.btdbn b,his.btdkp_bv d where a.mabn=b.mabn and a.makp=d.makp</ten>
+    <stt>a.makp</stt>
+  </Table>
+</NewDataSet>

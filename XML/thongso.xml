@@ -1,0 +1,568 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row />
+  <ttptttloai>1</ttptttloai>
+  <giavpall />
+  <giavpgc />
+  <donmauhc>1</donmauhc>
+  <Ngonngu>0</Ngonngu>
+  <c56>3</c56>
+  <c60>3</c60>
+  <c296>0</c296>
+  <c14>120</c14>
+  <hinh />
+  <c17>1</c17>
+  <c18>0</c18>
+  <c21>1</c21>
+  <c22>1</c22>
+  <c23>0</c23>
+  <c25>1</c25>
+  <c26>0</c26>
+  <c27>0</c27>
+  <c28>0</c28>
+  <c29>0</c29>
+  <c30>0</c30>
+  <c31>0</c31>
+  <c32>0</c32>
+  <c33>0</c33>
+  <c36>0</c36>
+  <c38>0</c38>
+  <c39 />
+  <c40 />
+  <c41 />
+  <c44>0</c44>
+  <c45>1</c45>
+  <c46>1</c46>
+  <c51>0</c51>
+  <c52>1</c52>
+  <c53>0</c53>
+  <c55>0</c55>
+  <c57>1</c57>
+  <c58>0</c58>
+  <c61>1</c61>
+  <c105>1</c105>
+  <c116>0</c116>
+  <c125>0</c125>
+  <c126>1</c126>
+  <c127>0</c127>
+  <c134>0</c134>
+  <c140>0</c140>
+  <c177>0</c177>
+  <c195>0</c195>
+  <c196>1</c196>
+  <smartcard>0</smartcard>
+  <thumucexe />
+  <thumucbackup>D:\</thumucbackup>
+  <c47>0</c47>
+  <c48>0</c48>
+  <c178>0</c178>
+  <c59>2</c59>
+  <tonthtoithieu />
+  <inphieubanin>1</inphieubanin>
+  <khudt>3</khudt>
+  <mnKhongnhapquanhuyen />
+  <mnNhapnoilamviec />
+  <mnNhapma />
+  <chkAutomoi>0</chkAutomoi>
+  <chkAutoInmavach />
+  <chkPreview>1</chkPreview>
+  <coso>2</coso>
+  <khuxetnghiem>1</khuxetnghiem>
+  <tttiepdon>1</tttiepdon>
+  <tdlcd>0</tdlcd>
+  <tiepdonbdtt>0</tiepdonbdtt>
+  <tiepdoncmakp>0</tiepdoncmakp>
+  <pkpreview>1</pkpreview>
+  <pklcd>1</pklcd>
+  <pkholotlcd>0</pkholotlcd>
+  <pksttlcd>0</pksttlcd>
+  <pktenpklcd />
+  <pkpttt />
+  <chidinhten>1</chidinhten>
+  <chidinhgc>1</chidinhgc>
+  <chidinhchkhiencl>0</chidinhchkhiencl>
+  <cdtreeview>0</cdtreeview>
+  <chidinhv />
+  <cdtraiphai />
+  <huychonin>0</huychonin>
+  <cdxemin>1</cdxemin>
+  <cdluuin />
+  <chidinhmadtdef />
+  <chidinhmadt />
+  <thantso />
+  <pktoathuoc />
+  <pkbangdien>0</pkbangdien>
+  <pkbangdienmabn>0</pkbangdienmabn>
+  <kbtiepmabn>1</kbtiepmabn>
+  <pkgoibdtt>0</pkgoibdtt>
+  <kbxtchuot />
+  <pkcpcongdon />
+  <choncdten>1</choncdten>
+  <chidinhdong>0</chidinhdong>
+  <xemthuoc>1</xemthuoc>
+  <bhyhct>0</bhyhct>
+  <toabhytmoi />
+  <toabhytcdung>0</toabhytcdung>
+  <toabhlkct>1</toabhlkct>
+  <toabhsongay>0</toabhsongay>
+  <toabhpreview>1</toabhpreview>
+  <banin_1>0</banin_1>
+  <bhluuin />
+  <chkintodieutri>0</chkintodieutri>
+  <bhma />
+  <bhsangchieu />
+  <bhghichu>1</bhghichu>
+  <cdha_may>1</cdha_may>
+  <banin_7>0</banin_7>
+  <nhanbenhbarcode />
+  <nhanbenhxem />
+  <xdvall>1</xdvall>
+  <tsodutruphieu>147</tsodutruphieu>
+  <tsodutrumatutruc>42</tsodutrumatutruc>
+  <goithanincls />
+  <dtdausinhton />
+  <dtsolan>1</dtsolan>
+  <dutruhc />
+  <xtutruchd>1</xtutruchd>
+  <dutrudd />
+  <dutrumsg />
+  <xtutrucgc />
+  <xtutrucdongia />
+  <xtutrucinchung>1</xtutrucinchung>
+  <dutrumadoituong>1</dutrumadoituong>
+  <chkNhapsobienlai />
+  <chidinhtv />
+  <suadtlvp />
+  <tkthuocpk />
+  <loccoso />
+  <banintoa>0</banintoa>
+  <duyetclsxem>1</duyetclsxem>
+  <vdtmakpbo />
+  <bieu_tk_1>1</bieu_tk_1>
+  <bieu_bn_1>0</bieu_bn_1>
+  <bieu_tk_2>0</bieu_tk_2>
+  <bieu_bn_2>1</bieu_bn_2>
+  <bieu_tk_3>1</bieu_tk_3>
+  <bieu_bn_3>0</bieu_bn_3>
+  <bieu_tk_4>1</bieu_tk_4>
+  <bieu_bn_4>0</bieu_bn_4>
+  <bieu_tk_5>1</bieu_tk_5>
+  <bieu_bn_5>0</bieu_bn_5>
+  <bieu_tk_6>0</bieu_tk_6>
+  <bieu_bn_6>1</bieu_bn_6>
+  <bieu_tk_7>1</bieu_tk_7>
+  <bieu_bn_7>0</bieu_bn_7>
+  <bieu_tk_91>1</bieu_tk_91>
+  <bieu_bn_91>0</bieu_bn_91>
+  <bieu_tk_92>1</bieu_tk_92>
+  <bieu_bn_92>0</bieu_bn_92>
+  <bieu_tk_101>1</bieu_tk_101>
+  <bieu_bn_101>0</bieu_bn_101>
+  <bieu_tk_1021>1</bieu_tk_1021>
+  <bieu_bn_1021>0</bieu_bn_1021>
+  <bieu_tk_103>1</bieu_tk_103>
+  <bieu_bn_103>0</bieu_bn_103>
+  <bieu_tk_11>1</bieu_tk_11>
+  <bieu_bn_11>1</bieu_bn_11>
+  <hiendienallxv />
+  <hiendienalltuden>1</hiendienalltuden>
+  <hiendienncls>0</hiendienncls>
+  <def_inttrv>1</def_inttrv>
+  <ptttloaipttt />
+  <tkdiaphuongr />
+  <bctthiendien />
+  <ththbnnxk />
+  <plpreview />
+  <pllist>1</pllist>
+  <benhanccyymabn />
+  <plkemdon />
+  <rapltime />
+  <tkbnbhyt_pl />
+  <dscdvpvp />
+  <dscdvpcd />
+  <ravienktkhoa />
+  <ravienth />
+  <ravienct>1</ravienct>
+  <ravienxoa />
+  <ravienintp />
+  <ravieninbhyt />
+  <ravienctngay />
+  <ravienththuocvp />
+  <ravienluuin />
+  <kskpre>1</kskpre>
+  <kskluuin>1</kskluuin>
+  <doan>150922091818000008</doan>
+  <ngaykl>1</ngaykl>
+  <kskthiluc />
+  <kskmsg />
+  <ckthuoc>1</ckthuoc>
+  <ckexcel>1</ckexcel>
+  <ckall>1</ckall>
+  <vaopltime />
+  <plravien />
+  <hiendienthuoc>0</hiendienthuoc>
+  <dtallngay>1</dtallngay>
+  <ctdutru />
+  <dutrugc />
+  <chkdtcachdung />
+  <chkdtpgiuong>0</chkdtpgiuong>
+  <lichthanx>1</lichthanx>
+  <lichthanxt />
+  <treothanx />
+  <iphieuhc />
+  <dsdutrunkho />
+  <chidinhlvp />
+  <cpxvchuatttrai />
+  <tienan>0</tienan>
+  <miencppre>1</miencppre>
+  <duyetclslvp />
+  <duyetclsall>1</duyetclsall>
+  <btdkpcoso />
+  <thanntaoxem />
+  <sttngayview>1</sttngayview>
+  <sttngaycot>1</sttngaycot>
+  <LabconnectUser>Admin</LabconnectUser>
+  <LabconnectPass>Admin0936336084P@ssword17012016</LabconnectPass>
+  <frmKhambenhchkNhapdausinhton>1</frmKhambenhchkNhapdausinhton>
+  <chongoiall>1</chongoiall>
+  <chongoimabs>0</chongoimabs>
+  <chongoimaicd>0</chongoimaicd>
+  <chkNhapdienthoai>1</chkNhapdienthoai>
+  <chkNhapnguoithan>1</chkNhapnguoithan>
+  <frmBKThutructiepchkTTRV>1</frmBKThutructiepchkTTRV>
+  <frmBaocao_soytechkThuoc>1</frmBaocao_soytechkThuoc>
+  <frmBaocao_soytechkChidinh>1</frmBaocao_soytechkChidinh>
+  <frmTiemnguaVATchkPre>1</frmTiemnguaVATchkPre>
+  <cdha_phong>3</cdha_phong>
+  <frmThkhoa_bhytchkDaphat>1</frmThkhoa_bhytchkDaphat>
+  <frmThkhoa_bhytchkChitiet>1</frmThkhoa_bhytchkChitiet>
+  <frmChidinhmnKhongdongmanhinh>1</frmChidinhmnKhongdongmanhinh>
+  <frmBaohiem2mnKhongdongmanhinh>1</frmBaohiem2mnKhongdongmanhinh>
+  <sophieuauto>1</sophieuauto>
+  <chuyengiaokythuatsophieu>1</chuyengiaokythuatsophieu>
+  <sinhhoatkhoahocsophieu />
+  <luanphiencanbosophieu />
+  <daotaocanbosophieu />
+  <taphuanchuyenmonsophieu />
+  <nckhoahocsophieu />
+  <hsluutruauto>1</hsluutruauto>
+  <hsluutrusum>1</hsluutrusum>
+  <chklaychandoangiayrv />
+  <frmTiepdonbenhnhanchkAutochidinh>0</frmTiepdonbenhnhanchkAutochidinh>
+  <frmChidinhchkNhapchidinhkhambenh>1</frmChidinhchkNhapchidinhkhambenh>
+  <frmTamungchkXem>1</frmTamungchkXem>
+  <frmBaohiem2chkDongia />
+  <frmBaohiem2chkVP />
+  <donthuoca5>1</donthuoca5>
+  <chkCachdung>1</chkCachdung>
+  <frmKhambenhchkNhapthongtinphieukham>1</frmKhambenhchkNhapthongtinphieukham>
+  <frmKhambenhchkhsbangoaitru>1</frmKhambenhchkhsbangoaitru>
+  <frmKhambenhchkmau1 />
+  <frmYlenh_cdchkIndd>1</frmYlenh_cdchkIndd>
+  <frmYlenh_cdchkCachdung>1</frmYlenh_cdchkCachdung>
+  <frmYlenh_cdchkHoatchat>1</frmYlenh_cdchkHoatchat>
+  <frmTiepdonbenhnhanchkqrcodecholamdiachi>1</frmTiepdonbenhnhanchkqrcodecholamdiachi>
+  <frmPhongluu_115chkqrcodecholamdiachi />
+  <frmBaohiem1mnKhongdongmanhinh>1</frmBaohiem1mnKhongdongmanhinh>
+  <SQL>select * from hisbvnhitp.dlogin</SQL>
+  <frmTiepdonbenhnhanPhongmachchkAutochidinh />
+  <frmKhambenh_PhongmachchkNhapdausinhton>1</frmKhambenh_PhongmachchkNhapdausinhton>
+  <frmKhambenh_PhongmachchkNhapthongtinphieukham />
+  <frmKhambenh_Phongmachchkhsbangoaitru />
+  <frmKhambenh_Phongmachchkmau1 />
+  <Winrar>C:\Program Files (x86)\WinRAR</Winrar>
+  <frmPhongluu_115chkNhapthongtinphieukham>1</frmPhongluu_115chkNhapthongtinphieukham>
+  <duyetluu>1</duyetluu>
+  <frmChidinhPhongmachmnKhongdongmanhinh>1</frmChidinhPhongmachmnKhongdongmanhinh>
+  <frmChidinhPhongmachchkNhapchidinhkhambenh />
+  <frmChidinhchkNhomloai>1</frmChidinhchkNhomloai>
+  <frmTonghopmau0102chkXem>1</frmTonghopmau0102chkXem>
+  <frmTonghopmau0102chkLuuin>1</frmTonghopmau0102chkLuuin>
+  <pathautoupdate>G:\Source\HIS\HIS_Update</pathautoupdate>
+  <frmToaPhongMachmnKhongdongmanhinh />
+  <pathServer>\\192.168.1.111\share\HISSOFT</pathServer>
+  <pathLocalhost>C:\HISSOFT</pathLocalhost>
+  <fileRunHISSOFT>C:\HISSOFT\HIS\bin\Debug\HIS.SOFT.exe</fileRunHISSOFT>
+  <hisVersion>25/09/2016 02:50</hisVersion>
+  <chkKhongnhapNgayLanSongay>0</chkKhongnhapNgayLanSongay>
+  <frmBaohiem1chkXem>1</frmBaohiem1chkXem>
+  <nxttvcstt />
+  <nxttvgiaban />
+  <frmTonghopmau0102_NuocNgoaichkXem>1</frmTonghopmau0102_NuocNgoaichkXem>
+  <frmTonghopmau0102_NuocNgoaichkLuuin>1</frmTonghopmau0102_NuocNgoaichkLuuin>
+  <frmBHYT9324thumuc>E:\BHXH</frmBHYT9324thumuc>
+  <frmTonghopmau0102_NNchkXem>1</frmTonghopmau0102_NNchkXem>
+  <frmTonghopmau0102_NNchkLuuin />
+  <pkbuttiepmsg />
+  <chkttvaovien />
+  <toabhlockho />
+  <toabhttac />
+  <toabhvp />
+  <toabhsolan />
+  <toabhecachdung>1</toabhecachdung>
+  <frmToabhytmnKhongdongmanhinh />
+  <frmToabhytchkDongia />
+  <frmToabhytchkVP />
+  <frmKhambenhmatchkNhapdausinhton>0</frmKhambenhmatchkNhapdausinhton>
+  <pmnhinh>0</pmnhinh>
+  <frmToabhytSTCTchkXem>1</frmToabhytSTCTchkXem>
+  <frmToabhytSTCTmnKhongdongmanhinh>1</frmToabhytSTCTmnKhongdongmanhinh>
+  <pkphongmach>0</pkphongmach>
+  <khambenhpmx>1</khambenhpmx>
+  <pmback>0</pmback>
+  <frmKhambenhchkLockp>1</frmKhambenhchkLockp>
+  <frmToabhytSTCTchkBienban>1</frmToabhytSTCTchkBienban>
+  <frmToabhytSTCTchkCamket />
+  <frmToabhytchkBienban>1</frmToabhytchkBienban>
+  <frmToabhytchkCamket>1</frmToabhytchkCamket>
+  <sttngaykhu>1</sttngaykhu>
+  <lcdtiepdonh>56</lcdtiepdonh>
+  <lcdtiepdonw>160</lcdtiepdonw>
+  <lcdtiepdons>12</lcdtiepdons>
+  <lcdtiepdonshoten>12</lcdtiepdonshoten>
+  <lcdtiepdonstieude>12</lcdtiepdonstieude>
+  <lcdtiepdondelay>12</lcdtiepdondelay>
+  <lcdtiepdonx>0</lcdtiepdonx>
+  <lcdtiepdonxh>10</lcdtiepdonxh>
+  <lcdtiepdony>0</lcdtiepdony>
+  <lcdtiepdonsh>600</lcdtiepdonsh>
+  <lcdtiepdonsw>800</lcdtiepdonsw>
+  <lcdtiepdonsochia>2</lcdtiepdonsochia>
+  <lcdtiepdonsoquay>5</lcdtiepdonsoquay>
+  <lcdtiepdonsott>2</lcdtiepdonsott>
+  <lcdtiepdonkhoangcach>10</lcdtiepdonkhoangcach>
+  <lcdtiepdontrang />
+  <lcdtiepdonhoten />
+  <lcdtiepdonvitri />
+  <lcdtiepdonbold />
+  <r1>0</r1>
+  <g1>246</g1>
+  <b1>0</b1>
+  <r2>175</r2>
+  <g2>48</g2>
+  <b2>0</b2>
+  <docloatiepdond1>800</docloatiepdond1>
+  <docloatiepdond2>700</docloatiepdond2>
+  <docloatiepdond3>1100</docloatiepdond3>
+  <docloatiepdond44>1100</docloatiepdond44>
+  <docloatiepdond5>950</docloatiepdond5>
+  <nhomkplcdnhompk1>0</nhomkplcdnhompk1>
+  <quaypklcd>002</quaypklcd>
+  <quaypklcdnhom>0</quaypklcdnhom>
+  <khambenhchkdocamthanh />
+  <khambenhchonmabnralcd />
+  <lcdnhompkh>56</lcdnhompkh>
+  <lcdnhompkw>160</lcdnhompkw>
+  <lcdnhompks>12</lcdnhompks>
+  <lcdnhompkshoten>12</lcdnhompkshoten>
+  <lcdnhompkstieude>12</lcdnhompkstieude>
+  <lcdnhompkdelay>12</lcdnhompkdelay>
+  <lcdnhompkx>0</lcdnhompkx>
+  <lcdnhompkxh>10</lcdnhompkxh>
+  <lcdnhompky>0</lcdnhompky>
+  <lcdnhompksh>600</lcdnhompksh>
+  <lcdnhompksw>800</lcdnhompksw>
+  <lcdnhompksochia>1</lcdnhompksochia>
+  <lcdnhompkdorongcot1>5</lcdnhompkdorongcot1>
+  <lcdnhompksott>5</lcdnhompksott>
+  <lcdnhompkkhoangcach>10</lcdnhompkkhoangcach>
+  <lcdnhompktrang />
+  <lcdnhompkhoten />
+  <lcdnhompkchuhoa />
+  <lcdnhompkbold />
+  <lcdnhompktieude>PHÒNG KHÁM+MỜI SỐ+SỐ TIẾP THEO+SỐ ƯU TIÊN</lcdnhompktieude>
+  <dmquayclsquayxncls1>2</dmquayclsquayxncls1>
+  <btdkp_bvchonlcdkp>009</btdkp_bvchonlcdkp>
+  <lcdmakph>56</lcdmakph>
+  <lcdmakpw>160</lcdmakpw>
+  <lcdmakps>12</lcdmakps>
+  <lcdmakpshoten>12</lcdmakpshoten>
+  <lcdmakpstieude>12</lcdmakpstieude>
+  <lcdmakpdelay>12</lcdmakpdelay>
+  <lcdmakpx>0</lcdmakpx>
+  <lcdmakkhoangcachngay>0</lcdmakkhoangcachngay>
+  <lcdmakpy>0</lcdmakpy>
+  <lcdmakpsh>600</lcdmakpsh>
+  <lcdmakpsw>800</lcdmakpsw>
+  <lcdmakpsodong>10</lcdmakpsodong>
+  <lcdmakphtieude>5</lcdmakphtieude>
+  <txtdelaydoi>5</txtdelaydoi>
+  <lcdmakpkhoangcach>10</lcdmakpkhoangcach>
+  <lcdmakptrang />
+  <lcdmakphiendien />
+  <lcdmakpchuhoa />
+  <lcdmakpbold />
+  <lcdmakptieude>STT+HỌ TÊN+NĂM SINH+BÁC SỸ+TÊN BỆNH+GHI CHÚ</lcdmakptieude>
+  <lcdmakpdorong>50+200+50+200+200+100</lcdmakpdorong>
+  <lcdmakpsize>20+20+20+20+20+20</lcdmakpsize>
+  <scrtheoten />
+  <lcdtheoten />
+  <chkKhongNhapnoilamviec />
+  <frmTiepdonbenhnhanchkKhongNhapnoilamviec>0</frmTiepdonbenhnhanchkKhongNhapnoilamviec>
+  <dmquayvienphiquay1 />
+  <docloaclsd1>800</docloaclsd1>
+  <docloaclsd2>700</docloaclsd2>
+  <docloaclsd3>1100</docloaclsd3>
+  <docloaclsd44>1100</docloaclsd44>
+  <docloaclsd4>3</docloaclsd4>
+  <sttngayh>56</sttngayh>
+  <sttngayw>160</sttngayw>
+  <sttngays>12</sttngays>
+  <frmTiepdonbenhnhanvideosource />
+  <docloavienphid1>900</docloavienphid1>
+  <docloavienphid2>900</docloavienphid2>
+  <docloavienphid3>900</docloavienphid3>
+  <docloavienphid4>900</docloavienphid4>
+  <dmquayvienphiquay>1</dmquayvienphiquay>
+  <dmquayduocquay1 />
+  <dmquayduocquay>1</dmquayduocquay>
+  <phatthuocgoilandau />
+  <phatthuochienlcd />
+  <phatthuocgoisolangoi>1</phatthuocgoisolangoi>
+  <goicapphatchktim8kytu />
+  <phatthuochienall>1</phatthuochienall>
+  <phatthuoclcd />
+  <dmquayduocquay0 />
+  <lcdcapdonh>56</lcdcapdonh>
+  <lcdcapdonw>160</lcdcapdonw>
+  <lcdcapdons>12</lcdcapdons>
+  <lcdcapdonstieude>12</lcdcapdonstieude>
+  <lcdcapdondelay>12</lcdcapdondelay>
+  <lcdcapdonx>0</lcdcapdonx>
+  <lcdcapdonxh>10</lcdcapdonxh>
+  <lcdcapdony>0</lcdcapdony>
+  <lcdcapdonsh>600</lcdcapdonsh>
+  <lcdcapdonsw>800</lcdcapdonsw>
+  <lcdcapdonsochia>1</lcdcapdonsochia>
+  <lcdcapdonsoquay>5</lcdcapdonsoquay>
+  <lcdcapdonsott>5</lcdcapdonsott>
+  <lcdcapdontrang />
+  <lcdcapdonbold />
+  <lcdphatthuoch>56</lcdphatthuoch>
+  <lcdphatthuocw>160</lcdphatthuocw>
+  <lcdphatthuocs>12</lcdphatthuocs>
+  <lcdphatthuocstieude>12</lcdphatthuocstieude>
+  <lcdphatthuocdelay>12</lcdphatthuocdelay>
+  <lcdphatthuocx>0</lcdphatthuocx>
+  <lcdphatthuocxh>10</lcdphatthuocxh>
+  <lcdphatthuocy>0</lcdphatthuocy>
+  <lcdphatthuocsh>600</lcdphatthuocsh>
+  <lcdphatthuocsw>800</lcdphatthuocsw>
+  <lcdphatthuocsochia>1</lcdphatthuocsochia>
+  <lcdphatthuocsoquay>5</lcdphatthuocsoquay>
+  <lcdphatthuocsott>5</lcdphatthuocsott>
+  <lcdphatthuoctrang />
+  <lcdphatthuocbold />
+  <kyhieuloai>1</kyhieuloai>
+  <kyhieusohieu>67</kyhieusohieu>
+  <kyhieuall>1</kyhieuall>
+  <frmTiepdonbenhnhan_nhichkKhongNhapnoilamviec>0</frmTiepdonbenhnhan_nhichkKhongNhapnoilamviec>
+  <frmTiepdonbenhnhan_nhichkqrcodecholamdiachi />
+  <frmTiepdonbenhnhan_nhichkAutochidinh />
+  <frmTiepdonbenhnhan_nhivideosource />
+  <frmToabhytchkKiemtrattkhiluu>1</frmToabhytchkKiemtrattkhiluu>
+  <chkKktphacdo />
+  <frmChidinhchkchukyso />
+  <dmnoithuchienquayxncls1>13</dmnoithuchienquayxncls1>
+  <lcdxncls1h>56</lcdxncls1h>
+  <lcdxncls1w>160</lcdxncls1w>
+  <lcdxncls1s>12</lcdxncls1s>
+  <lcdxncls1shoten>12</lcdxncls1shoten>
+  <lcdxncls1stieude>12</lcdxncls1stieude>
+  <lcdxncls1delay>12</lcdxncls1delay>
+  <lcdxncls1x>0</lcdxncls1x>
+  <lcdxncls1xh>10</lcdxncls1xh>
+  <lcdxncls1y>0</lcdxncls1y>
+  <lcdxncls1sh>600</lcdxncls1sh>
+  <lcdxncls1sw>800</lcdxncls1sw>
+  <lcdxncls1sochia>2</lcdxncls1sochia>
+  <lcdxncls1soquay>5</lcdxncls1soquay>
+  <lcdxncls1sott>5</lcdxncls1sott>
+  <lcdxncls1khoangcach>10</lcdxncls1khoangcach>
+  <lcdxncls1trang />
+  <lcdxncls1hoten />
+  <lcdxncls1vitri />
+  <lcdxncls1bold />
+  <quaynoithuchienloai>13</quaynoithuchienloai>
+  <quaynoithuchienquay>1</quaynoithuchienquay>
+  <sttngayquay>7</sttngayquay>
+  <frmToabhytchkchukyso />
+  <frmToabhytchkKktphacdo />
+  <frmToabhytchkLoidankcongdon />
+  <docloanoithuchiend1>800</docloanoithuchiend1>
+  <docloanoithuchiend2>700</docloanoithuchiend2>
+  <docloanoithuchiend3>1100</docloanoithuchiend3>
+  <docloanoithuchiend44>1100</docloanoithuchiend44>
+  <docloanoithuchiend4>13</docloanoithuchiend4>
+  <frmKhambenh_nhichkNhapdausinhton>1</frmKhambenh_nhichkNhapdausinhton>
+  <frmKhambenh_nhichkNhapthongtinphieukham />
+  <frmKhambenh_nhichkhsbangoaitru />
+  <frmKhambenh_nhichkmau1 />
+  <frmKhambenh_nhichkLockp />
+  <chkchukyso />
+  <idkhu>3</idkhu>
+  <frmKhambenh_nhi_newchkNhapdausinhton>1</frmKhambenh_nhi_newchkNhapdausinhton>
+  <frmKhambenh_nhi_newchkMacdinh_Cannang />
+  <frmKhambenh_nhi_newchkNhapthongtinphieukham />
+  <frmKhambenh_nhi_newchkhsbangoaitru />
+  <frmKhambenh_nhi_newchkmau1 />
+  <frmKhambenh_nhi_newchkLockp />
+  <frmToabhytchk1loidan />
+  <frmToabhytchkLoidandutien />
+  <frmToabhytchkGlycemin />
+  <frmSttDangkyngaysobanin>1</frmSttDangkyngaysobanin>
+  <frmSttDangkyngaynumsocot>1</frmSttDangkyngaynumsocot>
+  <frmSttDangkyngayw>100</frmSttDangkyngayw>
+  <frmSttDangkyngayh>100</frmSttDangkyngayh>
+  <frmSttDangkyngayfontsize>12</frmSttDangkyngayfontsize>
+  <frmToathuocchkBienban />
+  <frmToathuocchkCamket />
+  <frmChidinhchkChukyso />
+  <frmKhambenh_nhi_newmnuLocICDTraiphai />
+  <frmKhambenh_nhi_newchkKiemtratt />
+  <frmKhambenh_nhi_newchkKktphacdo />
+  <frmKhambenh_nhi_newchkBienban />
+  <frmKhambenh_nhi_newchkCamket />
+  <frmKhambenh_nhi_newchkChukyso />
+  <frmKhambenh_nhi_newchkhuychenhlech />
+  <frmKhamsuckhoecoquanchkNhapdausinhton>0</frmKhamsuckhoecoquanchkNhapdausinhton>
+  <frmKhamsuckhoecoquanchkMacdinh_Cannang />
+  <frmKhamsuckhoecoquanchkNhapthongtinphieukham />
+  <frmKhamsuckhoecoquanchkhsbangoaitru />
+  <frmKhamsuckhoecoquanchkmau1 />
+  <frmKhamsuckhoecoquanchkLockp />
+  <frmKhamsuckhoecoquanmnuLocICDTraiphai />
+  <frmKhamsuckhoecoquanchkKiemtratt />
+  <frmKhamsuckhoecoquanchkKktphacdo />
+  <frmKhamsuckhoecoquanchkBienban />
+  <frmKhamsuckhoecoquanchkCamket />
+  <frmKhamsuckhoecoquanchkChukyso />
+  <frmKhamsuckhoecoquanchkhuychenhlech />
+  <frmChidinh1chkNhomloai>0</frmChidinh1chkNhomloai>
+  <frmChidinh1chkchukyso />
+  <frmChidinh1mnKhongdongmanhinh />
+  <frmChidinh1chkNhapchidinhkhambenh />
+  <frmTiepdonbenhnhan_nhichkDoctheQRkiemtrathongtuyen />
+  <usc_ToaThuocchkBienban />
+  <usc_ToaThuocchkCamket />
+  <usc_frmChidinh1chkNhomloai>0</usc_frmChidinh1chkNhomloai>
+  <usc_frmChidinh1chkchukyso />
+  <usc_frmChidinh1mnKhongdongmanhinh />
+  <usc_frmChidinh1chkNhapchidinhkhambenh />
+  <frmBHYT9324chkGuiGDsrv />
+  <frmKhambenh_nhi_newchkVuotTamUng />
+  <frmKhambenh_nt_newchkNhapdausinhton>0</frmKhambenh_nt_newchkNhapdausinhton>
+  <frmKhambenh_nt_newchkMacdinh_Cannang />
+  <frmKhambenh_nt_newchkNhapthongtinphieukham />
+  <frmKhambenh_nt_newchkhsbangoaitru />
+  <frmKhambenh_nt_newchkmau1 />
+  <frmKhambenh_nt_newchkLockp />
+  <frmKhambenh_nt_newmnuLocICDTraiphai />
+  <frmKhambenh_nt_newchkVuotTamUng />
+  <frmKhambenh_nt_newchkKiemtratt />
+  <frmKhambenh_nt_newchkKktphacdo />
+  <frmKhambenh_nt_newchkBienban />
+  <frmKhambenh_nt_newchkCamket />
+  <frmKhambenh_nt_newchkChukyso />
+  <frmKhambenh_nt_newchkhuychenhlech />
+</Import>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="MABN" type="xs:string" minOccurs="0" />
+								<xs:element name="HOTEN" type="xs:string" minOccurs="0" />
+								<xs:element name="HOTENME" type="xs:string" minOccurs="0" />
+								<xs:element name="TENKP" type="xs:string" minOccurs="0" />
+								<xs:element name="DIACHI" type="xs:string" minOccurs="0" />
+								<xs:element name="NAMSINH" type="xs:string" minOccurs="0" />
+								<xs:element name="CHANDOAN" type="xs:string" minOccurs="0" />
+								<xs:element name="MAICD" type="xs:string" minOccurs="0" />
+								<xs:element name="NGAYVAO" type="xs:string" minOccurs="0" />
+								<xs:element name="NGAYRA" type="xs:string" minOccurs="0" />
+								<xs:element name="SODT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="STTNHOM" type="xs:decimal" minOccurs="0" />
+								<xs:element name="STT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="SO" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C01" type="xs:string" minOccurs="0" />
+								<xs:element name="C02" type="xs:string" minOccurs="0" />
+								<xs:element name="NOIDUNG" type="xs:string" minOccurs="0" />
+								<xs:element name="SOTIEN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C0" type="xs:string" minOccurs="0" />
+								<xs:element name="ST0" type="xs:decimal" minOccurs="0" />
+								<xs:element name="C1" type="xs:string" minOccurs="0" />
+								<xs:element name="ST1" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TAMUNG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="BHYT" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MIEN" type="xs:decimal" minOccurs="0" />
+								<xs:element name="CHIPHI" type="xs:decimal" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

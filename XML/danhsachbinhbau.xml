@@ -1,0 +1,113 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="STT" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MADV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="BOPHAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUYENMON" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCVU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DAUNAM" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CUOINAM" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CANAM" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="SO_KT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CS_KT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="GIAYKHEN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="BANGKHEN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="UB_KT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="GHICHU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM" msprop:OraDbType="113" type="xs:long" minOccurs="0" />
+                <xs:element name="MALOAI" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="tongnv" type="xs:decimal" minOccurs="0" />
+                <xs:element name="dat" type="xs:decimal" minOccurs="0" />
+                <xs:element name="d_so" type="xs:decimal" minOccurs="0" />
+                <xs:element name="pt_so" type="xs:decimal" minOccurs="0" />
+                <xs:element name="d_cs" type="xs:decimal" minOccurs="0" />
+                <xs:element name="pt_cs" type="xs:decimal" minOccurs="0" />
+                <xs:element name="d_ub" type="xs:decimal" minOccurs="0" />
+                <xs:element name="pt_ub" type="xs:decimal" minOccurs="0" />
+                <xs:element name="so_bp" type="xs:boolean" minOccurs="0" />
+                <xs:element name="cs_bp" type="xs:boolean" minOccurs="0" />
+                <xs:element name="ub_bp" type="xs:boolean" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <STT>1</STT>
+    <MANV>00165</MANV>
+    <HOTEN>Trần THỊ Thanh Lâm</HOTEN>
+    <MADV>014</MADV>
+    <BOPHAN>KHTH</BOPHAN>
+    <CHUYENMON>Bác sĩ CKI</CHUYENMON>
+    <TEN>Bác Sĩ</TEN>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <DAUNAM>X</DAUNAM>
+    <NAM>2015</NAM>
+  </Table>
+  <Table>
+    <STT>2</STT>
+    <MANV>00293</MANV>
+    <HOTEN>Lương Thị Kim  Quy</HOTEN>
+    <MADV>014</MADV>
+    <BOPHAN>KHTH</BOPHAN>
+    <CHUYENMON>CNĐD</CHUYENMON>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <DAUNAM>X</DAUNAM>
+    <NAM>2015</NAM>
+  </Table>
+  <Table>
+    <STT>3</STT>
+    <MANV>00295</MANV>
+    <HOTEN>Nguyễn Văn Độ</HOTEN>
+    <MADV>014</MADV>
+    <BOPHAN>KHTH</BOPHAN>
+    <CHUYENMON>Cử nhân tin</CHUYENMON>
+    <TEN>Đại Học</TEN>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <DAUNAM>X</DAUNAM>
+    <NAM>2015</NAM>
+  </Table>
+  <Table>
+    <STT>4</STT>
+    <MANV>00296</MANV>
+    <HOTEN>Bùi Văn Bình</HOTEN>
+    <MADV>014</MADV>
+    <BOPHAN>KHTH</BOPHAN>
+    <CHUYENMON>Cử nhân tin</CHUYENMON>
+    <TEN>Đại Học</TEN>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <DAUNAM>X</DAUNAM>
+    <NAM>2015</NAM>
+  </Table>
+  <Table1>
+    <tongnv>0</tongnv>
+    <dat>0</dat>
+    <d_so>0</d_so>
+    <pt_so>0</pt_so>
+    <d_cs>0</d_cs>
+    <pt_cs>0</pt_cs>
+    <d_ub>0</d_ub>
+    <pt_ub>0</pt_ub>
+    <so_bp>false</so_bp>
+    <cs_bp>false</cs_bp>
+    <ub_bp>false</ub_bp>
+  </Table1>
+</NewDataSet>

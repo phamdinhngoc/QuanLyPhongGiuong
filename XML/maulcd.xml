@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <xs:schema id="Import" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Import" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Row">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="r1" type="xs:string" minOccurs="0" />
+                <xs:element name="g1" type="xs:string" minOccurs="0" />
+                <xs:element name="b1" type="xs:string" minOccurs="0" />
+                <xs:element name="r2" type="xs:string" minOccurs="0" />
+                <xs:element name="g2" type="xs:string" minOccurs="0" />
+                <xs:element name="b2" type="xs:string" minOccurs="0" />
+                <xs:element name="r3" type="xs:string" minOccurs="0" />
+                <xs:element name="g3" type="xs:string" minOccurs="0" />
+                <xs:element name="b3" type="xs:string" minOccurs="0" />
+                <xs:element name="r4" type="xs:string" minOccurs="0" />
+                <xs:element name="g4" type="xs:string" minOccurs="0" />
+                <xs:element name="b4" type="xs:string" minOccurs="0" />
+                <xs:element name="x" type="xs:string" minOccurs="0" />
+                <xs:element name="y" type="xs:string" minOccurs="0" />
+                <xs:element name="w" type="xs:string" minOccurs="0" />
+                <xs:element name="h" type="xs:string" minOccurs="0" />
+                <xs:element name="s" type="xs:string" minOccurs="0" />
+                <xs:element name="s2" type="xs:string" minOccurs="0" />
+                <xs:element name="s3" type="xs:string" minOccurs="0" />
+                <xs:element name="s4" type="xs:string" minOccurs="0" />
+                <xs:element name="nd3" type="xs:string" minOccurs="0" />
+                <xs:element name="nd4" type="xs:string" minOccurs="0" />
+                <xs:element name="delay" type="xs:string" minOccurs="0" />
+                <xs:element name="hien" type="xs:string" minOccurs="0" />
+                <xs:element name="somaudo" type="xs:string" minOccurs="0" />
+                <xs:element name="s1" type="xs:string" minOccurs="0" />
+                <xs:element name="hds" type="xs:string" minOccurs="0" />
+                <xs:element name="video" type="xs:string" minOccurs="0" />
+                <xs:element name="nd13" type="xs:string" default=" " minOccurs="0" />
+                <xs:element name="r11" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="g11" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="b11" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="r12" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="g12" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="b12" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="h3" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="h13" type="xs:decimal" default="0" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Row>
+    <r1>0</r1>
+    <g1>23</g1>
+    <b1>23</b1>
+    <r2>246</r2>
+    <g2>246</g2>
+    <b2>29</b2>
+    <r3>133</r3>
+    <g3>213</g3>
+    <b3>8</b3>
+    <r4>106</r4>
+    <g4>190</g4>
+    <b4>0</b4>
+    <x>0</x>
+    <y>0</y>
+    <w>0</w>
+    <h>768</h>
+    <s>72</s>
+    <s2>25</s2>
+    <s3>50</s3>
+    <s4>36</s4>
+    <nd3>PHÒNG KHÁM SỐ 1</nd3>
+    <nd4>PHÒNG KHÁM SỐ 1</nd4>
+    <delay>20</delay>
+    <hien>5</hien>
+    <somaudo>3</somaudo>
+    <s1>35</s1>
+    <hds>50</hds>
+    <video>C:\Users\Public\Videos\Sample Videos\Wildlife.wmv</video>
+  </Row>
+</Import>

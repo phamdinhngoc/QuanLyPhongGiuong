@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="mmyy" type="xs:string" minOccurs="0" />
+								<xs:element name="id" type="xs:decimal" minOccurs="0" />
+								<xs:element name="mabd" type="xs:string" minOccurs="0" />
+								<xs:element name="maql" type="xs:decimal" minOccurs="0" />
+								<xs:element name="idkhoa" type="xs:decimal" minOccurs="0" />
+								<xs:element name="ngay" type="xs:string" minOccurs="0" />
+								<xs:element name="makp" type="xs:decimal" minOccurs="0" />
+								<xs:element name="kp" type="xs:string" minOccurs="0" />
+								<xs:element name="madoituong" type="xs:decimal" minOccurs="0" />
+								<xs:element name="ma" type="xs:decimal" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+								<xs:element name="dvt" type="xs:string" minOccurs="0" />
+								<xs:element name="soluong" type="xs:decimal" minOccurs="0" />
+								<xs:element name="doituongcu" type="xs:string" minOccurs="0" />
+								<xs:element name="doituong" type="xs:string" minOccurs="0" />
+								<xs:element name="bhyt" type="xs:decimal" minOccurs="0" />
+								<xs:element name="sotien" type="xs:decimal" minOccurs="0" />
+								<xs:element name="giaban" type="xs:decimal" minOccurs="0" />
+								<xs:element name="dongia" type="xs:decimal" minOccurs="0" />
+								<xs:element name="vattu" type="xs:decimal" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TO_CHAR_x0028_HD.NGAYDENCT_x002C__x0027_DD_x002F_MM_x002F_YYYY_x0027__x0029_" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYHD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="THANGCT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMCT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYSINHNAM" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYSINHNU" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CHOOHIENNAY" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="QUEQUAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DIENTHOAI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYCT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANGACH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="BAC" msprop:OraDbType="112" type="xs:int" minOccurs="0" />
+                <xs:element name="HSLUONG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LUONG" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LOAIHOPDONG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MADV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="THANG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENHD" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TENHV" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBANG" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBP" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="DONVI" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="CTDT" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="BHYT" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="BHXH" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMTN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

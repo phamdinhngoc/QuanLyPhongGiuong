@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="COT" type="xs:string" minOccurs="0" />
+								<xs:element name="DK" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<COT>C01</COT>
+		<DK>phai=0 and mann&lt;&gt;'11' and mannbo in ('03','10','12','99')</DK>
+	</Table>
+	<Table>
+		<COT>C02</COT>
+		<DK>phai=1 and mann&lt;&gt;'11' and mannbo in ('03','10','12','99')</DK>
+	</Table>
+	<Table>
+		<COT>C03</COT>
+		<DK>phai=0 and mannbo='01'</DK>
+	</Table>
+	<Table>
+		<COT>C04</COT>
+		<DK>phai=1 and mannbo='01'</DK>
+	</Table>
+	<Table>
+		<COT>C05</COT>
+		<DK>phai=0 and mannbo='04'</DK>
+	</Table>
+	<Table>
+		<COT>C06</COT>
+		<DK>phai=1 and mannbo='04'</DK>
+	</Table>
+	<Table>
+		<COT>C07</COT>
+		<DK>phai=0 and mannbo='07'</DK>
+	</Table>
+	<Table>
+		<COT>C08</COT>
+		<DK>phai=1 and mannbo='07'</DK>
+	</Table>
+	<Table>
+		<COT>C09</COT>
+		<DK>phai=0 and mannbo in ('08','09')</DK>
+	</Table>
+	<Table>
+		<COT>C10</COT>
+		<DK>phai=1 and mannbo in ('08','09')</DK>
+	</Table>
+	<Table>
+		<COT>C11</COT>
+		<DK>phai=0 and mannbo='06'</DK>
+	</Table>
+	<Table>
+		<COT>C12</COT>
+		<DK>phai=1 and mannbo='06'</DK>
+	</Table>
+	<Table>
+		<COT>C13</COT>
+		<DK>phai=0 and mannbo='02'</DK>
+	</Table>
+	<Table>
+		<COT>C14</COT>
+		<DK>phai=1 and mannbo='02'</DK>
+	</Table>
+	<Table>
+		<COT>C15</COT>
+		<DK>phai=0 and mannbo='05'</DK>
+	</Table>
+	<Table>
+		<COT>C16</COT>
+		<DK>phai=1 and mannbo='05'</DK>
+	</Table>
+	<Table>
+		<COT>C17</COT>
+		<DK>phai=0 and mann='11'</DK>
+	</Table>
+	<Table>
+		<COT>C18</COT>
+		<DK>phai=1 and mann='11'</DK>
+	</Table>
+</NewDataSet>

@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SHCC" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="LOAIHD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="THANG" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="STK" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CMNDSO" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="PHAINAM" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NU" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCVU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TONGTIEN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TENKP" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="M_T_T" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="H_T_T" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="M_CC_T" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="H_CC_T" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="M_T_TB" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="H_T_TB" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="M_CC_TB" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="H_CC_TB" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="M_T_LE" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="H_T_LE" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="M_CC_LE" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="H_CC_LE" msprop:OraDbType="111" type="xs:short" minOccurs="0" />
+                <xs:element name="THUONGTRUC" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="CCTHUONG" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="T7THUONG" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="CCT7" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="LETHUONG" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="CCLE" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="THUONGTRUC_24" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="CCTHUONG_24" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="T7THUONG_24" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="CCT7_24" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="LETHUONG_24" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+                <xs:element name="CCLE_24" msprop:OraDbType="108" type="xs:double" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

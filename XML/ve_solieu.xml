@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ma>c01</ma>
+		<ten>Số mắc (Nam)</ten>
+	</Table>
+	<Table>
+		<ma>c02</ma>
+		<ten>Số mắc (Nữ)</ten>
+	</Table>
+	<Table>
+		<ma>c03</ma>
+		<ten>Số mắc (&lt;15 Nam)</ten>
+	</Table>
+	<Table>
+		<ma>c04</ma>
+		<ten>Số mắc (&lt;15 Nữ)</ten>
+	</Table>
+	<Table>
+		<ma>c05</ma>
+		<ten>Số mắc (&lt;=6 Nam)</ten>
+	</Table>
+	<Table>
+		<ma>c06</ma>
+		<ten>Số mắc (&lt;=6 Nữ)</ten>
+	</Table>
+	<Table>
+		<ma>c07</ma>
+		<ten>Số mắc (&lt;=4 Nam)</ten>
+	</Table>
+	<Table>
+		<ma>c08</ma>
+		<ten>Số mắc (&lt;=4 Nữ)</ten>
+	</Table>
+	<Table>
+		<ma>c09</ma>
+		<ten>Tử vong (Nam)</ten>
+	</Table>
+	<Table>
+		<ma>c10</ma>
+		<ten>Tử vong (Nữ)</ten>
+	</Table>
+	<Table>
+		<ma>c11</ma>
+		<ten>Tử vong (&lt;15 Nam)</ten>
+	</Table>
+	<Table>
+		<ma>c12</ma>
+		<ten>Tử vong (&lt;15 Nữ)</ten>
+	</Table>
+	<Table>
+		<ma>c13</ma>
+		<ten>Tử vong (&lt;=6 Nam)</ten>
+	</Table>
+	<Table>
+		<ma>c14</ma>
+		<ten>Tử vong (&lt;=6 Nữ)</ten>
+	</Table>
+	<Table>
+		<ma>c15</ma>
+		<ten>Tử vong (&lt;=4 Nam)</ten>
+	</Table>
+	<Table>
+		<ma>c16</ma>
+		<ten>Tử vong (&lt;=4 Nữ)</ten>
+	</Table>
+</NewDataSet>

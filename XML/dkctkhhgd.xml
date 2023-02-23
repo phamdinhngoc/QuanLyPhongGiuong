@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MA" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="MATAT" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="MAICD" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="XUTRI" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="IDTHUOC" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="LOAI" type="xs:short" default="0" minOccurs="0" />
+                <xs:element name="GHICHU" type="xs:short" default="0" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <MA>01</MA>
+    <MATAT>THUOC</MATAT>
+    <TEN>Amox</TEN>
+    <MAICD />
+    <XUTRI>14,58</XUTRI>
+    <IDTHUOC />
+    <LOAI>1</LOAI>
+    <GHICHU>0</GHICHU>
+  </Table>
+  <Table>
+    <MA>02</MA>
+    <MATAT>THUOC</MATAT>
+    <TEN>Doxy</TEN>
+    <MAICD />
+    <XUTRI>14,58</XUTRI>
+    <IDTHUOC />
+    <LOAI>1</LOAI>
+    <GHICHU>0</GHICHU>
+  </Table>
+  <Table>
+    <MA>03</MA>
+    <MATAT>THUO</MATAT>
+    <TEN>Nospa</TEN>
+    <MAICD />
+    <XUTRI>14,58</XUTRI>
+    <IDTHUOC />
+    <LOAI>1</LOAI>
+    <GHICHU>0</GHICHU>
+  </Table>
+  <Table>
+    <MA>04</MA>
+    <MATAT>DVONG</MATAT>
+    <TEN>Đặt vòng</TEN>
+    <MAICD>Z30.1</MAICD>
+    <XUTRI />
+    <IDTHUOC />
+    <LOAI>2</LOAI>
+    <GHICHU>0</GHICHU>
+  </Table>
+  <Table>
+    <MA>05</MA>
+    <MATAT>TIEMTHUOC</MATAT>
+    <TEN>Tiêm thuốc</TEN>
+    <MAICD />
+    <XUTRI>48</XUTRI>
+    <IDTHUOC />
+    <LOAI>3</LOAI>
+    <GHICHU>1</GHICHU>
+  </Table>
+  <Table>
+    <MA>06</MA>
+    <MATAT>CAYQUE</MATAT>
+    <TEN>Cấy que</TEN>
+    <MAICD />
+    <XUTRI>15</XUTRI>
+    <IDTHUOC />
+    <LOAI>4</LOAI>
+    <GHICHU>0</GHICHU>
+  </Table>
+  <Table>
+    <MA>07</MA>
+    <MATAT>SAUHUT</MATAT>
+    <TEN>Đặt vòng sau nạo hút thai</TEN>
+    <MAICD />
+    <XUTRI>58</XUTRI>
+    <IDTHUOC />
+    <LOAI>5</LOAI>
+    <GHICHU>0</GHICHU>
+  </Table>
+  <Table>
+    <MA>08</MA>
+    <MATAT>TRIETSAN</MATAT>
+    <TEN>Triệt sản</TEN>
+    <MAICD>Z30.2</MAICD>
+    <XUTRI />
+    <IDTHUOC />
+    <LOAI>6</LOAI>
+    <GHICHU>0</GHICHU>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,362 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DIENTHOAI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENHV" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TENHOCHAM" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUYENMON" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="CVDANGLAM" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="LUONGHD" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYHD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYVAO" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="THUHUT" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MADV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="KHOAPHONG" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="PHAI" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="QUEQUAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TRUQUAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TENDT" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="HOCVAN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY_T_GIA" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY_DOAN" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CTHUC_DANG" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCVU" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBANG" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYDENTCT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENCHA" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NSCHA" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NOIOCHA" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="TENME" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NSME" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NOIOME" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="TENVC" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NSVC" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NOIOVC" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="CMNDSO" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="CMNDNGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NOICAPCMND" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NOISINH" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYDENCT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="DENNGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="LUONGHD1" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYSINH" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <CHUYENMON>Bác sĩ CKII</CHUYENMON>
+    <CVDANGLAM>Trưởng Khoa</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/12/1991</NGAYHD>
+    <NGAYVAO>01/12/1991</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00305</MANV>
+    <HOTEN>Đoàn Văn Xiêm</HOTEN>
+    <PHAI>Nam</PHAI>
+    <TRUQUAN>Tổ 18 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Trưởng Khoa</CHUCVU>
+    <TENBANG>Bác sĩ chính</TENBANG>
+    <NGAYDENTCT>01/12/1991</NGAYDENTCT>
+    <CMNDSO>211263902</CMNDSO>
+    <NOISINH>Tổ 18 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/12/1991</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>29/04/1966</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>Bác sĩ CKI</CHUYENMON>
+    <CVDANGLAM>Phó Trưởng Khoa</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/11/2003</NGAYHD>
+    <NGAYVAO>01/11/2003</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00306</MANV>
+    <HOTEN>Trần Thanh Vũ</HOTEN>
+    <PHAI>Nam</PHAI>
+    <TRUQUAN>31 Lê Lợi - Phường Chánh Lộ - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Phó Trưởng Khoa</CHUCVU>
+    <TENBANG>Bác sĩ</TENBANG>
+    <NGAYDENTCT>01/11/2003</NGAYDENTCT>
+    <CMNDSO>211942138</CMNDSO>
+    <NOISINH>31 Lê Lợi - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/11/2003</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>25/11/1975</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>Thạc sĩ y học</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/08/2013</NGAYHD>
+    <NGAYVAO>01/08/2013</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00308</MANV>
+    <HOTEN>Đinh Thị Kim Ánh</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TRUQUAN>Tổ 7 - Phường Trần Phú - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Bác sĩ</TENBANG>
+    <NGAYDENTCT>01/08/2013</NGAYDENTCT>
+    <CMNDSO>212137029</CMNDSO>
+    <NOISINH>Tổ 7 - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/08/2013</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>13/11/1981</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>CNĐD</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/02/1998</NGAYHD>
+    <NGAYVAO>01/02/1998</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00312</MANV>
+    <HOTEN>Lê Thị Kim Thỏa</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TRUQUAN>768 Quang Trung - Phường Chánh Lộ - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Điều dưỡng trung cấp</TENBANG>
+    <NGAYDENTCT>01/02/1998</NGAYDENTCT>
+    <CMNDSO>210250982</CMNDSO>
+    <NOISINH>768 Quang Trung - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/02/1998</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>04/04/1974</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>Bác sĩ</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/01/2014</NGAYHD>
+    <NGAYVAO>01/01/2014</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00309</MANV>
+    <HOTEN>Trần Đức Chánh</HOTEN>
+    <PHAI>Nam</PHAI>
+    <TRUQUAN> -  - </TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Bác sĩ</TENBANG>
+    <NGAYDENTCT>01/01/2014</NGAYDENTCT>
+    <CMNDSO>212559568</CMNDSO>
+    <NOISINH> -  - </NOISINH>
+    <NGAYDENCT>01/01/2014</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>28/12/1989</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>ĐDTH</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/11/2005</NGAYHD>
+    <NGAYVAO>01/11/2005</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00314</MANV>
+    <HOTEN>Lê Thị Hồng</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TRUQUAN>79 Bắc Sơn - Phường Nghĩa Chánh - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Điều dưỡng trung cấp</TENBANG>
+    <NGAYDENTCT>01/11/2005</NGAYDENTCT>
+    <CMNDSO>212183896</CMNDSO>
+    <NOISINH>79 Bắc Sơn - Phường Nghĩa Chánh - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/11/2005</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>17/03/1982</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>ĐDTH</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/11/1995</NGAYHD>
+    <NGAYVAO>01/11/1995</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00311</MANV>
+    <HOTEN>Phùng Thị Mỹ Khánh</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TRUQUAN>248 Lê Lợi - Phường Chánh Lộ - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Điều dưỡng trung cấp</TENBANG>
+    <NGAYDENTCT>01/11/1995</NGAYDENTCT>
+    <CMNDSO>212561428</CMNDSO>
+    <NOISINH>248 Lê Lợi - Phường Chánh Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/11/1995</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>25/04/1971</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>ĐDTH</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/11/2005</NGAYHD>
+    <NGAYVAO>01/11/2005</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00317</MANV>
+    <HOTEN>Hồ Thị Trợ</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TRUQUAN>Tổ 6 - Phường Trần Phú - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Điều dưỡng trung cấp</TENBANG>
+    <NGAYDENTCT>01/11/2005</NGAYDENTCT>
+    <CMNDSO>212168170</CMNDSO>
+    <NOISINH>Tổ 6 - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/11/2005</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>10/12/1982</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>Hộ lý</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/01/2002</NGAYHD>
+    <NGAYVAO>01/01/2002</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00318</MANV>
+    <HOTEN>Lê Thị Phượng</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TRUQUAN>140 Nguyễn Trãi - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Hộ lý</TENBANG>
+    <NGAYDENTCT>01/01/2002</NGAYDENTCT>
+    <CMNDSO>211008913</CMNDSO>
+    <NOISINH>140 Nguyễn Trãi - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/01/2002</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>07/05/1967</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>ĐDTH</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/01/2008</NGAYHD>
+    <NGAYVAO>01/01/2008</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00316</MANV>
+    <HOTEN>Nguyễn Thị Nên</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TRUQUAN>Tổ 4 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Điều dưỡng trung cấp</TENBANG>
+    <NGAYDENTCT>01/01/2008</NGAYDENTCT>
+    <CMNDSO>212017266</CMNDSO>
+    <NOISINH>Tổ 4 - Phường Nghĩa Lộ - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/01/2008</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>12/09/1978</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>ĐDTH</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/11/1995</NGAYHD>
+    <NGAYVAO>01/11/1995</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00313</MANV>
+    <HOTEN>Đặng Thị Yên</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TRUQUAN>Vùng 3 - Hải Tân - Xã Phổ Quang - Huyện Đức Phổ</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Điều dưỡng trung cấp</TENBANG>
+    <NGAYDENTCT>01/11/1995</NGAYDENTCT>
+    <CMNDSO>212235920</CMNDSO>
+    <NOISINH>Vùng 3 - Hải Tân - Xã Phổ Quang - Huyện Đức Phổ</NOISINH>
+    <NGAYDENCT>01/11/1995</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>12/05/1973</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>ĐDTH</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/01/2009</NGAYHD>
+    <NGAYVAO>01/01/2009</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00315</MANV>
+    <HOTEN>Phạm Thị Hồng Ngọc</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TRUQUAN>Tổ 22 - Phường Quảng Phú - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Điều dưỡng trung cấp</TENBANG>
+    <NGAYDENTCT>01/01/2009</NGAYDENTCT>
+    <CMNDSO>212166143</CMNDSO>
+    <NOISINH>Tổ 22 - Phường Quảng Phú - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/01/2009</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>08/01/1982</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>Bác sĩ</CHUYENMON>
+    <CVDANGLAM>Nhân viên</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/10/2012</NGAYHD>
+    <NGAYVAO>01/10/2012</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00307</MANV>
+    <HOTEN>Huỳnh Thị Tâm</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TENDT>*Kinh</TENDT>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBANG>Bác sĩ</TENBANG>
+    <NGAYDENTCT>01/10/2012</NGAYDENTCT>
+    <NGAYDENCT>01/10/2012</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>10/01/1988</NGAYSINH>
+  </Table>
+  <Table>
+    <CHUYENMON>CNĐD</CHUYENMON>
+    <CVDANGLAM>Điều dưỡng trưởng khoa</CVDANGLAM>
+    <LUONGHD>1150000</LUONGHD>
+    <NGAYHD>01/03/1989</NGAYHD>
+    <NGAYVAO>01/03/1989</NGAYVAO>
+    <MADV>015</MADV>
+    <KHOAPHONG>Mắt</KHOAPHONG>
+    <MANV>00310</MANV>
+    <HOTEN>Nguyễn Thị Thanh Kiều</HOTEN>
+    <PHAI>Nữ</PHAI>
+    <TRUQUAN>295/23 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</TRUQUAN>
+    <TENDT>*Kinh</TENDT>
+    <TENBANG>Điều dưỡng trung cấp</TENBANG>
+    <NGAYDENTCT>01/03/1989</NGAYDENTCT>
+    <CMNDSO>210961549</CMNDSO>
+    <NOISINH>295/23 Hùng Vương - Phường Trần Phú - Thành phố Quảng Ngãi</NOISINH>
+    <NGAYDENCT>01/03/1989</NGAYDENCT>
+    <LUONGHD1>1150000</LUONGHD1>
+    <NGAYSINH>01/05/1965</NGAYSINH>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="toa1">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="TENBV" type="xs:string" minOccurs="0" />
+								<xs:element name="MAKP" type="xs:string" minOccurs="0" />
+								<xs:element name="TENKP" type="xs:string" minOccurs="0" />
+								<xs:element name="MADOITUONG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="DOITUONG" type="xs:string" minOccurs="0" />
+								<xs:element name="PHONG" type="xs:string" minOccurs="0" />
+								<xs:element name="GIUONG" type="xs:string" minOccurs="0" />
+								<xs:element name="MABN" type="xs:string" minOccurs="0" />
+								<xs:element name="HOTEN" type="xs:string" minOccurs="0" />
+								<xs:element name="NHOM" type="xs:string" minOccurs="0" />
+								<xs:element name="LOAI" type="xs:decimal" minOccurs="0" />
+								<xs:element name="MA" type="xs:decimal" minOccurs="0" />
+								<xs:element name="TEN" type="xs:string" minOccurs="0" />
+								<xs:element name="DVT" type="xs:string" minOccurs="0" />
+								<xs:element name="SOLUONG" type="xs:decimal" minOccurs="0" />
+								<xs:element name="DONGIA" type="xs:decimal" minOccurs="0" />
+								<xs:element name="NGAY" type="xs:string" minOccurs="0" />
+								<xs:element name="TENLOAI" type="xs:string" minOccurs="0" />
+								<xs:element name="PHIEU" type="xs:string" minOccurs="0" />
+								<xs:element name="BACSY" type="xs:string" minOccurs="0" />
+								<xs:element name="CACHDUNG" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+</NewDataSet>

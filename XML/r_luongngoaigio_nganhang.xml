@@ -1,0 +1,175 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="manv" type="xs:string" minOccurs="0" />
+                <xs:element name="hoten" type="xs:string" minOccurs="0" />
+                <xs:element name="thang" type="xs:string" minOccurs="0" />
+                <xs:element name="nam" type="xs:string" minOccurs="0" />
+                <xs:element name="makp" type="xs:string" minOccurs="0" />
+                <xs:element name="tenkp" type="xs:string" minOccurs="0" />
+                <xs:element name="sotk" type="xs:string" minOccurs="0" />
+                <xs:element name="hs_lc" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_tn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_tnien" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_vk" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_kn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_cv" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_dh" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hs_dt" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngaylv" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngaytt" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hsvk" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hsdt" type="xs:decimal" minOccurs="0" />
+                <xs:element name="hsdh" type="xs:decimal" minOccurs="0" />
+                <xs:element name="tongheso" type="xs:decimal" minOccurs="0" />
+                <xs:element name="mltt" type="xs:decimal" minOccurs="0" />
+                <xs:element name="luongngay" type="xs:decimal" minOccurs="0" />
+                <xs:element name="luonggio" type="xs:decimal" minOccurs="0" />
+                <xs:element name="sogio" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngaythuong" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngaytbcn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ngayle" type="xs:decimal" minOccurs="0" />
+                <xs:element name="demthuong" type="xs:decimal" minOccurs="0" />
+                <xs:element name="demtbcn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="demle" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_ngaythuong" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_demthuong" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_ngaytbcn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_demtbcn" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_ngayle" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t_demle" type="xs:decimal" minOccurs="0" />
+                <xs:element name="tongtien" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <manv>00008</manv>
+    <hoten>Lương Vĩnh  Phước</hoten>
+    <thang>04</thang>
+    <nam>2015</nam>
+    <makp>001</makp>
+    <tenkp>Khoa Chuẩn đoán hình ảnh</tenkp>
+    <sotk xml:space="preserve"> </sotk>
+    <hs_lc>1</hs_lc>
+    <hs_tn>0</hs_tn>
+    <hs_tnien>0</hs_tnien>
+    <hs_vk>0</hs_vk>
+    <hs_kn>0</hs_kn>
+    <hs_cv>0</hs_cv>
+    <hs_dh>0</hs_dh>
+    <hs_dt>0</hs_dt>
+    <ngaylv>22</ngaylv>
+    <ngaytt>0</ngaytt>
+    <hsvk>0</hsvk>
+    <hsdt>0</hsdt>
+    <hsdh>0</hsdh>
+    <tongheso>1</tongheso>
+    <mltt>1150000</mltt>
+    <luongngay>52273</luongngay>
+    <luonggio>6534</luonggio>
+    <sogio>35</sogio>
+    <ngaythuong>2</ngaythuong>
+    <ngaytbcn>0</ngaytbcn>
+    <ngayle>0</ngayle>
+    <demthuong>0</demthuong>
+    <demtbcn>0</demtbcn>
+    <demle>0</demle>
+    <t_ngaythuong>19602</t_ngaythuong>
+    <t_demthuong>0</t_demthuong>
+    <t_ngaytbcn>0</t_ngaytbcn>
+    <t_demtbcn>0</t_demtbcn>
+    <t_ngayle>0</t_ngayle>
+    <t_demle>0</t_demle>
+    <tongtien>19602</tongtien>
+  </Table>
+  <Table>
+    <manv>00012</manv>
+    <hoten>Võ Trương   Sâm</hoten>
+    <thang>04</thang>
+    <nam>2015</nam>
+    <makp>001</makp>
+    <tenkp>Khoa Chuẩn đoán hình ảnh</tenkp>
+    <sotk xml:space="preserve"> </sotk>
+    <hs_lc>1</hs_lc>
+    <hs_tn>0</hs_tn>
+    <hs_tnien>0</hs_tnien>
+    <hs_vk>0</hs_vk>
+    <hs_kn>0</hs_kn>
+    <hs_cv>0</hs_cv>
+    <hs_dh>0</hs_dh>
+    <hs_dt>0</hs_dt>
+    <ngaylv>22</ngaylv>
+    <ngaytt>0</ngaytt>
+    <hsvk>0</hsvk>
+    <hsdt>0</hsdt>
+    <hsdh>0</hsdh>
+    <tongheso>1</tongheso>
+    <mltt>1150000</mltt>
+    <luongngay>52273</luongngay>
+    <luonggio>6534</luonggio>
+    <sogio>4</sogio>
+    <ngaythuong>4</ngaythuong>
+    <ngaytbcn>0</ngaytbcn>
+    <ngayle>0</ngayle>
+    <demthuong>0</demthuong>
+    <demtbcn>0</demtbcn>
+    <demle>0</demle>
+    <t_ngaythuong>39204</t_ngaythuong>
+    <t_demthuong>0</t_demthuong>
+    <t_ngaytbcn>0</t_ngaytbcn>
+    <t_demtbcn>0</t_demtbcn>
+    <t_ngayle>0</t_ngayle>
+    <t_demle>0</t_demle>
+    <tongtien>39204</tongtien>
+  </Table>
+  <Table>
+    <manv>00887</manv>
+    <hoten>Test Thứ  Hai</hoten>
+    <thang>04</thang>
+    <nam>2015</nam>
+    <makp>036</makp>
+    <tenkp>test</tenkp>
+    <sotk xml:space="preserve"> </sotk>
+    <hs_lc>1.86</hs_lc>
+    <hs_tn>0</hs_tn>
+    <hs_tnien>0</hs_tnien>
+    <hs_vk>0</hs_vk>
+    <hs_kn>0</hs_kn>
+    <hs_cv>0</hs_cv>
+    <hs_dh>0</hs_dh>
+    <hs_dt>0</hs_dt>
+    <ngaylv>22</ngaylv>
+    <ngaytt>0</ngaytt>
+    <hsvk>0.00</hsvk>
+    <hsdt>0.00</hsdt>
+    <hsdh>0</hsdh>
+    <tongheso>1.86</tongheso>
+    <mltt>1150000</mltt>
+    <luongngay>97227</luongngay>
+    <luonggio>12153</luonggio>
+    <sogio>4</sogio>
+    <ngaythuong>4</ngaythuong>
+    <ngaytbcn>0</ngaytbcn>
+    <ngayle>0</ngayle>
+    <demthuong>0</demthuong>
+    <demtbcn>0</demtbcn>
+    <demle>0</demle>
+    <t_ngaythuong>72918</t_ngaythuong>
+    <t_demthuong>0</t_demthuong>
+    <t_ngaytbcn>0</t_ngaytbcn>
+    <t_demtbcn>0</t_demtbcn>
+    <t_ngayle>0</t_ngayle>
+    <t_demle>0</t_demle>
+    <tongtien>72918</tongtien>
+  </Table>
+</NewDataSet>

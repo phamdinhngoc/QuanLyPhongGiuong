@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="LOAI" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA" type="xs:string" minOccurs="0" />
+                <xs:element name="MALOAI" type="xs:string" minOccurs="0" />
+                <xs:element name="NOIDUNG" type="xs:string" minOccurs="0" />
+                <xs:element name="DIEUKIEN" type="xs:string" minOccurs="0" />
+                <xs:element name="TIEUDE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <LOAI>1</LOAI>
+    <MA>01</MA>
+    <MALOAI>01</MALOAI>
+    <NOIDUNG>Báo cáo số đặt vòng sau nạo</NOIDUNG>
+    <DIEUKIEN>c.maicd='O04' and d.maicd='Z30.1'</DIEUKIEN>
+    <TIEUDE>ĐẶT VÒNG</TIEUDE>
+  </Table>
+  <Table>
+    <LOAI>1</LOAI>
+    <MA>02</MA>
+    <MALOAI>02</MALOAI>
+    <NOIDUNG>Phân tích nạo theo số tuổi và lần sanh</NOIDUNG>
+    <DIEUKIEN>c.maicd='O04'</DIEUKIEN>
+    <TIEUDE>NẠO THEO TUỔI</TIEUDE>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,179 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <hinh />
+    <c00>HIEN</c00>
+    <c01>0</c01>
+    <c02>1</c02>
+    <c03>1</c03>
+    <c04>Mai Ba Son</c04>
+    <c05>1</c05>
+    <c06>0</c06>
+    <c07>Giám đốc</c07>
+    <c08>Phụ trách bộ phận</c08>
+    <c09>Người lâp biểu</c09>
+    <c10>90</c10>
+    <c11>0</c11>
+    <c12>0</c12>
+    <c13>0</c13>
+    <c14>0</c14>
+    <c15>Kt trưởng</c15>
+    <c16>Thủ kho</c16>
+    <c17>0</c17>
+    <c18>1</c18>
+    <c19>1</c19>
+    <c20>1</c20>
+    <c21>0</c21>
+    <c22>30</c22>
+    <c23>1</c23>
+    <c24>1</c24>
+    <c25>1</c25>
+    <c26>1</c26>
+    <c27>0</c27>
+    <c28>1</c28>
+    <c29>1</c29>
+    <c30>1</c30>
+    <c31>1</c31>
+    <c32>Kế toán kho</c32>
+    <c33>0</c33>
+    <c34>0</c34>
+    <c35>0</c35>
+    <c36>0</c36>
+    <c37>1</c37>
+    <c38>0</c38>
+    <c39>0</c39>
+    <c40>1</c40>
+    <c41>0</c41>
+    <c42>1</c42>
+    <sudung />
+    <maloai>13,20,</maloai>
+    <manhom>1,2,3,6,</manhom>
+    <sql>select * from v_giavp where ten like '%*%' and id not in (4945)
+select * from d_dmnhomkho where id not in (1)
+
+select * from d_dmkho</sql>
+    <c95>1</c95>
+    <c96>0</c96>
+    <c97>0</c97>
+    <c101>1</c101>
+    <dbhyt>1</dbhyt>
+    <nhomkho>0</nhomkho>
+    <gianovat>0</gianovat>
+    <dmnx_kt>0</dmnx_kt>
+    <dgcstt>1</dgcstt>
+    <duyetcls>0</duyetcls>
+    <duyetnv>0</duyetnv>
+    <Kodichvu>0</Kodichvu>
+    <bbkn_ngayhd>1</bbkn_ngayhd>
+    <bbkn_ngaykiem>0</bbkn_ngaykiem>
+    <indon>1</indon>
+    <donchiphi>0</donchiphi>
+    <duyetpl>0</duyetpl>
+    <dlistcls>0</dlistcls>
+    <duyetkin>0</duyetkin>
+    <duyetin>1</duyetin>
+    <duyetlist>1</duyetlist>
+    <duyetchuain>1</duyetchuain>
+    <taohongcau>0</taohongcau>
+    <vpbhytkp>005,004,003,</vpbhytkp>
+    <dutruca>2</dutruca>
+    <dutrupp>1</dutrupp>
+    <dbhytmpk>1</dbhytmpk>
+    <phatkhoct>1</phatkhoct>
+    <bhluuin>0</bhluuin>
+    <bhxemin>1</bhxemin>
+    <solankthuoc>1</solankthuoc>
+    <nthmuamoi>1</nthmuamoi>
+    <nxtckngay>0</nxtckngay>
+    <kbtonnhom />
+    <tksophieunhom>0</tksophieunhom>
+    <thkhacdg>1</thkhacdg>
+    <tksophieuduyet>0</tksophieuduyet>
+    <ylenhkhoa>0</ylenhkhoa>
+    <nthchuyenkho>1</nthchuyenkho>
+    <xuatbanckho>0</xuatbanckho>
+    <bhtoapk>0</bhtoapk>
+    <tkthuocpk>0</tkthuocpk>
+    <nhapthncc>1</nhapthncc>
+    <tkspbucstt>0</tkspbucstt>
+    <tkspngoaitru>0</tkspngoaitru>
+    <nhapthnoingtru>1</nhapthnoingtru>
+    <bbkiemken>1</bbkiemken>
+    <bbkiemkeh>1</bbkiemkeh>
+    <bbkiemkenh>1</bbkiemkenh>
+    <dbhytclspk>0</dbhytclspk>
+    <vpbhyticd10>0</vpbhyticd10>
+    <vpbhytcdicd10>0</vpbhytcdicd10>
+    <duyethangsx>0</duyethangsx>
+    <duyetmabd>0</duyetmabd>
+    <reportbanin>4</reportbanin>
+    <planhnhomin>0</planhnhomin>
+    <duyetbhsoban>1</duyetbhsoban>
+    <duyetbhsobantoa>1</duyetbhsobantoa>
+    <hdbhytluuin>0</hdbhytluuin>
+    <hdbhytindon>0</hdbhytindon>
+    <hdbhytinchiphi>1</hdbhytinchiphi>
+    <xtonkhoctbh>0</xtonkhoctbh>
+    <duyetbhytdvck>1</duyetbhytdvck>
+    <dsdutrunkho>0</dsdutrunkho>
+    <dtkhocstt>0</dtkhocstt>
+    <tyledutru>50</tyledutru>
+    <xtutrucctth>0</xtutrucctth>
+    <dmbdmacu>0</dmbdmacu>
+    <kbtondg>0</kbtondg>
+    <toabhsolan>0</toabhsolan>
+    <xuatbansbl>1</xuatbansbl>
+    <xuatbaninbl>0</xuatbaninbl>
+    <xuatbanview>1</xuatbanview>
+    <chkhienknhapmoi>0</chkhienknhapmoi>
+    <duyetbhytdpk>0</duyetbhytdpk>
+    <dkpcoso>1</dkpcoso>
+    <phathsp>1</phathsp>
+    <datelocstt>1</datelocstt>
+    <trathuocprev>1</trathuocprev>
+    <xuatbandthd>0</xuatbandthd>
+    <ylenhsovaovien>0</ylenhsovaovien>
+    <giaban>0</giaban>
+    <dtkhohide>1</dtkhohide>
+    <nhapmmdongia>0</nhapmmdongia>
+    <tksophieuloaiphieu>1</tksophieuloaiphieu>
+    <plttbxem>1</plttbxem>
+    <plttbgiagoc>0</plttbgiagoc>
+    <dukhotoanvien>0</dukhotoanvien>
+    <dukhokhu>1</dukhokhu>
+    <duyetallkhoa>1</duyetallkhoa>
+    <kbtutrucdg>0</kbtutrucdg>
+    <bcngaycstt>0</bcngaycstt>
+    <nxthoantrarieng>0</nxthoantrarieng>
+    <nxtchuyenrieng>0</nxtchuyenrieng>
+    <tkthuocicd>0</tkthuocicd>
+    <dmbdchudau>0</dmbdchudau>
+    <bbkiemketh>0</bbkiemketh>
+    <tonthtoithieu>1</tonthtoithieu>
+    <chontutrucallkho>0</chontutrucallkho>
+    <pbhytdon>0</pbhytdon>
+    <pbhytxem>0</pbhytxem>
+    <xkngaytenbd>0</xkngaytenbd>
+    <nxkckdate>0</nxkckdate>
+    <kho>Dược</kho>
+    <inphieubanin />
+    <ckylenh />
+    <ckchkvienphi />
+    <chkCachdung />
+    <ckhandung />
+    <donthuoca5 />
+    <donthuocddv />
+    <duyetluu>1</duyetluu>
+    <dutrucaptonkho />
+    <frmMmyy_chlKho />
+    <xemtonthck_tsmiTutruc />
+    <frmTkthuoc_makp_noitru />
+    <dutrukho_dongiale>0</dutrukho_dongiale>
+    <frmDutrukho_tsmiDutru_nhap />
+    <frmDuyetcapbhytchkLuuClose>1</frmDuyetcapbhytchkLuuClose>
+    <frmDuyetcapbhytPhongmachchkLuuClose />
+    <nxttvgiaban>1</nxttvgiaban>
+    <chkhideten />
+    <xuatbaninblchkInbienlaichitiet />
+  </Row>
+</Import>

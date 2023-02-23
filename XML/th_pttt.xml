@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+								<xs:element name="sql" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+  <Table>
+    <ma>benhandt</ma>
+    <ten>Nội trú</ten>
+    <sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,his.benhandt b,hismmyy.pttt c,his.bctheopttt d  WHERE a.mabn=b.mabn and b.maql=c.maql and b.LOAIBA=1 and c.mapt=d.ma</sql>
+  </Table>
+  <Table>
+		<ma>benhanngtr</ma>
+		<ten>Ngoại trú</ten>
+		<sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,his.benhanngtr b,hismmyy.pttt c,his.bctheopttt d  WHERE a.mabn=b.mabn and b.maql=c.maql and c.mapt=d.ma</sql>
+	</Table>
+  <Table>
+    <ma>benhanpk</ma>
+    <ten>Khám bệnh</ten>
+    <sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,hismmyy.benhanpk b,hismmyy.pttt c,his.bctheopttt d  WHERE a.mabn=b.mabn and b.maql=c.maql and c.mapt=d.ma</sql>
+  </Table>
+  <Table>
+    <ma>benhancc</ma>
+    <ten>Phòng lưu</ten>
+    <sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,hismmyy.benhancc b,hismmyy.pttt c,his.bctheopttt d  WHERE a.mabn=b.mabn and b.maql=c.maql and c.mapt=d.ma</sql>
+  </Table>
+</NewDataSet>

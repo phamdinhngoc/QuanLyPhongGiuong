@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="NGAY" type="xs:string" minOccurs="0" />
+                <xs:element name="SOQD" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYQD" type="xs:string" minOccurs="0" />
+                <xs:element name="CUAQD" type="xs:string" minOccurs="0" />
+                <xs:element name="HT1" type="xs:string" minOccurs="0" />
+                <xs:element name="CV1" type="xs:string" minOccurs="0" />
+                <xs:element name="HT2" type="xs:string" minOccurs="0" />
+                <xs:element name="CV2" type="xs:string" minOccurs="0" />
+                <xs:element name="HT3" type="xs:string" minOccurs="0" />
+                <xs:element name="CV3" type="xs:string" minOccurs="0" />
+                <xs:element name="DD" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <NGAY>02/04/2015</NGAY>
+    <SOQD />
+    <NGAYQD />
+    <CUAQD />
+    <HT1>Trần Anh Phương</HT1>
+    <CV1>-</CV1>
+    <HT2>Trọng</HT2>
+    <CV2>-</CV2>
+    <HT3>Bình</HT3>
+    <CV3 />
+    <DD>Kho bán công</DD>
+  </Table>
+</NewDataSet>

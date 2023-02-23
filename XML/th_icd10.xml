@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+								<xs:element name="sql" type="xs:string" minOccurs="0" />
+                <xs:element name="sql1" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ma>benhanpk</ma>
+		<ten>Phòng khám</ten>
+    <sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,hismmyy.benhanpk c,his.bctheoicd d  WHERE a.mabn=c.mabn and c.maicd=d.ma</sql>
+    <sql1></sql1>
+	</Table>
+  <Table>
+    <ma>benhanngtr</ma>
+    <ten>Ngoại trú</ten>
+    <sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,his.benhanngtr c,his.bctheoicd d  WHERE a.mabn=c.mabn and c.maicdrv=d.ma</sql>
+    <sql1></sql1>
+  </Table>
+  <Table>
+    <ma>benhancc</ma>
+    <ten>Phòng lưu</ten>
+    <sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,hismmyy.benhancc c,his.bctheoicd d  WHERE a.mabn=c.mabn and c.maicdrv=d.ma</sql>
+    <sql1></sql1>
+  </Table>
+	<Table>
+		<ma>benhandt</ma>
+		<ten>Nhập viện</ten>
+		<sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,his.benhandt c,his.bctheoicd d WHERE a.mabn=c.mabn and c.loaiba=1 and c.maicd=d.ma</sql>
+    <sql1></sql1>
+	</Table>
+	<Table>
+		<ma>his.nhapkhoa</ma>
+		<ten>Nhập khoa</ten>
+		<sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,his.benhandt b,his.nhapkhoa c,his.bctheoicd d WHERE a.mabn=b.mabn and b.maql=c.maql and b.loaiba=1 and c.maicd=d.ma</sql>
+    <sql1></sql1>
+	</Table>
+	<Table>
+		<ma>his.xuatkhoa</ma>
+		<ten>Xuất khoa</ten>
+		<sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,his.nhapkhoa b,his.xuatkhoa c,his.bctheoicd d,his.benhandt  e WHERE a.mabn=b.mabn and b.id=c.id and b.maql=e.maql and e.loaiba=1 and c.maicd=d.ma</sql>
+    <sql1></sql1>
+	</Table>
+	<Table>
+		<ma>xuatvien</ma>
+		<ten>Xuất viện</ten>
+		<sql>SELECT d.ma,d.ten,sum(1) as c01,sum(to_number(decode(a.phai,0,1,0))) as c02,sum(to_number(decode(a.phai,1,1,0))) as c03 FROM his.btdbn a,his.benhandt b,his.xuatvien c,his.bctheoicd d  WHERE a.mabn=b.mabn and b.maql=c.maql and b.loaiba=1 and c.maicd=d.ma</sql>
+    <sql1></sql1>
+	</Table>
+</NewDataSet>

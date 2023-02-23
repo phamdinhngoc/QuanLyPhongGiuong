@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<ma>c01</ma>
+		<ten>Tổng số</ten>
+	</Table>
+	<Table>
+		<ma>c02</ma>
+		<ten>&lt;2 tháng</ten>
+	</Table>
+	<Table>
+		<ma>c03</ma>
+		<ten>2 tháng - 1 tuổi</ten>
+	</Table>
+	<Table>
+		<ma>c04</ma>
+		<ten>1 - 5 tuổi</ten>
+	</Table>
+	<Table>
+		<ma>c05</ma>
+		<ten>5 - 15 tuổi</ten>
+	</Table>
+	<Table>
+		<ma>c06</ma>
+		<ten>&gt;=15 tuổi</ten>
+	</Table>
+	<Table>
+		<ma>c07</ma>
+		<ten>Tử vong: &lt;2TH </ten>
+	</Table>
+	<Table>
+		<ma>c08</ma>
+		<ten>Tử vong: 2TH - 1T</ten>
+	</Table>
+	<Table>
+		<ma>c09</ma>
+		<ten>Tử vong: 1-5T</ten>
+	</Table>
+	<Table>
+		<ma>c10</ma>
+		<ten>Tổng số tử</ten>
+	</Table>
+	<Table>
+		<ma>c11</ma>
+		<ten>Tử &lt;24 giờ</ten>
+	</Table>
+	<Table>
+		<ma>c12</ma>
+		<ten>Cấp toa</ten>
+	</Table>
+	<Table>
+		<ma>c13</ma>
+		<ten>Hẹn</ten>
+	</Table>
+	<Table>
+		<ma>c14</ma>
+		<ten>Điều trị ngoại trú</ten>
+	</Table>
+	<Table>
+		<ma>c15</ma>
+		<ten>Khác</ten>
+	</Table>
+	<Table>
+		<ma>c16</ma>
+		<ten>Nhập viện</ten>
+	</Table>
+	<Table>
+		<ma>c17</ma>
+		<ten>Chuyển viện</ten>
+	</Table>
+</NewDataSet>

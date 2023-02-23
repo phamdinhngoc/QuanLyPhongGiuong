@@ -1,0 +1,256 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="STT" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="LOAI" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SOBHXH" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="MANV" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="THANG" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMHT" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="STK" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="CMNDSO" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="NU" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUCVU" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBP" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_LC" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_LCCU" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_CV" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_CVCU" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_UD" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_VK" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_VKCU" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_BL" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_TN" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HS_DH" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="LUONGHD" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="CONGHUONGLUONG" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="LUONGBHXH" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="CONGHUONGPC" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="HSUDN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <STT>Tăng</STT>
+    <LOAI>4</LOAI>
+    <HSUDN>0</HSUDN>
+  </Table>
+  <Table>
+    <STT>Lao động</STT>
+    <LOAI>5</LOAI>
+    <HSUDN>0</HSUDN>
+  </Table>
+  <Table>
+    <STT>Mức đóng</STT>
+  </Table>
+  <Table>
+    <LOAI>1</LOAI>
+    <MANV>00259</MANV>
+    <THANG>04</THANG>
+    <NAMHT>2015</NAMHT>
+    <HOTEN>Phạm Thị  Ái</HOTEN>
+    <STK xml:space="preserve"> </STK>
+    <CMNDSO>210743459</CMNDSO>
+    <NU>12/02/1965</NU>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBP>Khoa Thận Nhân Tạo</TENBP>
+    <HS_LC>2.66</HS_LC>
+    <HS_LCCU>2.46</HS_LCCU>
+    <HS_CV>0</HS_CV>
+    <HS_CVCU>0</HS_CVCU>
+    <HS_UD>0</HS_UD>
+    <HS_VK>0</HS_VK>
+    <HS_VKCU>0</HS_VKCU>
+    <HS_BL>0</HS_BL>
+    <HS_TN>0</HS_TN>
+    <HS_DH>0</HS_DH>
+    <LUONGHD>0</LUONGHD>
+    <CONGHUONGLUONG>0</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <HSUDN>0</HSUDN>
+  </Table>
+  <Table>
+    <STT>Giảm</STT>
+  </Table>
+  <Table>
+    <STT>Lao động</STT>
+  </Table>
+  <Table>
+    <STT>Giảm mức đóng</STT>
+  </Table>
+  <Table>
+    <LOAI>3</LOAI>
+    <MANV>00383</MANV>
+    <THANG>04</THANG>
+    <NAMHT>2015</NAMHT>
+    <HOTEN>Trần Thị Hoàng  Mai</HOTEN>
+    <STK xml:space="preserve"> </STK>
+    <CMNDSO>212104297</CMNDSO>
+    <NU>01/08/1973</NU>
+    <CHUCVU>Điều dưỡng trưởng khoa</CHUCVU>
+    <TENBP>Ngoại Thần Kinh</TENBP>
+    <HS_LC>3.66</HS_LC>
+    <HS_LCCU>3.33</HS_LCCU>
+    <HS_CV>0.40</HS_CV>
+    <HS_CVCU>0.40</HS_CVCU>
+    <HS_UD>40</HS_UD>
+    <HS_VK>0</HS_VK>
+    <HS_VKCU>0</HS_VKCU>
+    <HS_BL>0</HS_BL>
+    <HS_TN>0</HS_TN>
+    <HS_DH>0</HS_DH>
+    <LUONGHD>3829500</LUONGHD>
+    <CONGHUONGLUONG>2</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <HSUDN>0</HSUDN>
+  </Table>
+  <Table>
+    <LOAI>3</LOAI>
+    <MANV>00266</MANV>
+    <THANG>04</THANG>
+    <NAMHT>2015</NAMHT>
+    <HOTEN>Bùi Thị Thanh  Tùng</HOTEN>
+    <STK xml:space="preserve"> </STK>
+    <CMNDSO>212058125</CMNDSO>
+    <NU>26/04/1979</NU>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBP>Khoa Thận Nhân Tạo</TENBP>
+    <HS_LC>2.06</HS_LC>
+    <HS_LCCU>1</HS_LCCU>
+    <HS_CV>0</HS_CV>
+    <HS_CVCU>0</HS_CVCU>
+    <HS_UD>0</HS_UD>
+    <HS_VK>0</HS_VK>
+    <HS_VKCU>0</HS_VKCU>
+    <HS_BL>0</HS_BL>
+    <HS_TN>0</HS_TN>
+    <HS_DH>0</HS_DH>
+    <LUONGHD>0</LUONGHD>
+    <CONGHUONGLUONG>2</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <HSUDN>0</HSUDN>
+  </Table>
+  <Table>
+    <LOAI>3</LOAI>
+    <MANV>00004</MANV>
+    <THANG>04</THANG>
+    <NAMHT>2015</NAMHT>
+    <HOTEN>Trần Thị Kim Cúc</HOTEN>
+    <STK xml:space="preserve"> </STK>
+    <CMNDSO>210028792</CMNDSO>
+    <NU>29/06/1961</NU>
+    <CHUCVU>Phó Trưởng Khoa</CHUCVU>
+    <TENBP>Khoa Chuẩn đoán hình ảnh</TENBP>
+    <HS_LC>2.67</HS_LC>
+    <HS_LCCU>2.34</HS_LCCU>
+    <HS_CV>0</HS_CV>
+    <HS_CVCU>0</HS_CVCU>
+    <HS_UD>0</HS_UD>
+    <HS_VK>0</HS_VK>
+    <HS_VKCU>0</HS_VKCU>
+    <HS_BL>0</HS_BL>
+    <HS_TN>0</HS_TN>
+    <HS_DH>0</HS_DH>
+    <LUONGHD>0</LUONGHD>
+    <CONGHUONGLUONG>4</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <HSUDN>0</HSUDN>
+  </Table>
+  <Table>
+    <LOAI>3</LOAI>
+    <MANV>00008</MANV>
+    <THANG>04</THANG>
+    <NAMHT>2015</NAMHT>
+    <HOTEN>Lương Vĩnh Phước</HOTEN>
+    <STK xml:space="preserve"> </STK>
+    <CMNDSO>210633362</CMNDSO>
+    <NAM>02/01/1963</NAM>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBP>Khoa Chuẩn đoán hình ảnh</TENBP>
+    <HS_LC>2.67</HS_LC>
+    <HS_LCCU>1</HS_LCCU>
+    <HS_CV>0</HS_CV>
+    <HS_CVCU>0</HS_CVCU>
+    <HS_UD>0</HS_UD>
+    <HS_VK>0</HS_VK>
+    <HS_VKCU>0</HS_VKCU>
+    <HS_BL>0</HS_BL>
+    <HS_TN>0</HS_TN>
+    <HS_DH>0</HS_DH>
+    <LUONGHD>0</LUONGHD>
+    <CONGHUONGLUONG>4</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <HSUDN>0</HSUDN>
+  </Table>
+  <Table>
+    <LOAI>3</LOAI>
+    <MANV>00014</MANV>
+    <THANG>04</THANG>
+    <NAMHT>2015</NAMHT>
+    <HOTEN>Võ Duy Quang</HOTEN>
+    <STK xml:space="preserve"> </STK>
+    <CMNDSO>212060624</CMNDSO>
+    <NAM>09/10/1979</NAM>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBP>Khoa Chuẩn đoán hình ảnh</TENBP>
+    <HS_LC>2.06</HS_LC>
+    <HS_LCCU>1</HS_LCCU>
+    <HS_CV>0</HS_CV>
+    <HS_CVCU>0</HS_CVCU>
+    <HS_UD>60</HS_UD>
+    <HS_VK>0</HS_VK>
+    <HS_VKCU>0</HS_VKCU>
+    <HS_BL>0</HS_BL>
+    <HS_TN>0</HS_TN>
+    <HS_DH>0</HS_DH>
+    <LUONGHD>0</LUONGHD>
+    <CONGHUONGLUONG>4</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <HSUDN>0</HSUDN>
+  </Table>
+  <Table>
+    <LOAI>3</LOAI>
+    <MANV>00003</MANV>
+    <THANG>04</THANG>
+    <NAMHT>2015</NAMHT>
+    <HOTEN>Hà Vĩnh An</HOTEN>
+    <STK xml:space="preserve"> </STK>
+    <CMNDSO>211421377</CMNDSO>
+    <NAM>04/01/1972</NAM>
+    <CHUCVU>Nhân viên</CHUCVU>
+    <TENBP>Khoa Chuẩn đoán hình ảnh</TENBP>
+    <HS_LC>3</HS_LC>
+    <HS_LCCU>2.67</HS_LCCU>
+    <HS_CV>0</HS_CV>
+    <HS_CVCU>0</HS_CVCU>
+    <HS_UD>60</HS_UD>
+    <HS_VK>0</HS_VK>
+    <HS_VKCU>0</HS_VKCU>
+    <HS_BL>0</HS_BL>
+    <HS_TN>0</HS_TN>
+    <HS_DH>0</HS_DH>
+    <LUONGHD>0</LUONGHD>
+    <CONGHUONGLUONG>4</CONGHUONGLUONG>
+    <LUONGBHXH>0</LUONGBHXH>
+    <CONGHUONGPC>0</CONGHUONGPC>
+    <HSUDN>0</HSUDN>
+  </Table>
+</NewDataSet>

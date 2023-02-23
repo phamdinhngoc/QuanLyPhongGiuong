@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MA" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="MATAT" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="MAICD" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="XUTRI" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="GIOITINH" type="xs:string" default="" minOccurs="0" />
+                <xs:element name="GHICHU" type="xs:short" default="0" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <MA>01</MA>
+    <MATAT>DVONG</MATAT>
+    <TEN>Đặt vòng</TEN>
+    <MAICD>Z30.1</MAICD>
+    <XUTRI />
+    <GIOITINH />
+    <GHICHU>0</GHICHU>
+  </Table>
+  <Table>
+    <MA>02</MA>
+    <MATAT>TS_NU</MATAT>
+    <TEN>Triệt sản Nữ</TEN>
+    <MAICD>Z30.2</MAICD>
+    <XUTRI />
+    <GIOITINH>1</GIOITINH>
+    <GHICHU>0</GHICHU>
+  </Table>
+  <Table>
+    <MA>03</MA>
+    <MATAT>TS_NAM</MATAT>
+    <TEN>Triệt sản Nam</TEN>
+    <MAICD>Z30.2</MAICD>
+    <XUTRI />
+    <GIOITINH>0</GIOITINH>
+    <GHICHU>0</GHICHU>
+  </Table>
+  <Table>
+    <MA>04</MA>
+    <MATAT>TT_TT</MATAT>
+    <TEN>Thuốc tiêm tránh thai</TEN>
+    <MAICD />
+    <XUTRI>48</XUTRI>
+    <GIOITINH />
+    <GHICHU>1</GHICHU>
+  </Table>
+  <Table>
+    <MA>05</MA>
+    <MATAT>TT_TC</MATAT>
+    <TEN>Thuốc cấy tránh thai</TEN>
+    <MAICD />
+    <XUTRI>15</XUTRI>
+    <GIOITINH />
+    <GHICHU>0</GHICHU>
+  </Table>
+</NewDataSet>

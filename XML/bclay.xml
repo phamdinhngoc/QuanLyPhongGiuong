@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes" ?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true">
+			<xs:complexType>
+				<xs:choice maxOccurs="unbounded">
+					<xs:element name="Table">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="stt" type="xs:string" minOccurs="0" />
+								<xs:element name="nhom" type="xs:string" minOccurs="0" />
+								<xs:element name="ma" type="xs:string" minOccurs="0" />
+								<xs:element name="ten" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<Table>
+		<stt>01</stt>
+		<nhom>A</nhom>
+		<ma>A91?</ma>
+		<ten>A: SỐT XUẤT HUYẾT</ten>
+	</Table>
+	<Table>
+		<stt>02</stt>
+		<nhom>B</nhom>
+		<ma>A83.0</ma>
+		<ten>B: VIÊM NÃO NHẬT BẢN</ten>
+	</Table>
+	<Table>
+		<stt>03</stt>
+		<nhom>C</nhom>
+		<ma>A86+A87?+G04?</ma>
+		<ten>C: VIÊM NÃO, MÀNG NÃO, VIÊM TỦY</ten>
+	</Table>
+	<Table>
+		<stt>04</stt>
+		<nhom>D</nhom>
+		<ma>B05?</ma>
+		<ten>D: SỞI</ten>
+	</Table>
+	<Table>
+		<stt>05</stt>
+		<nhom>F</nhom>
+		<ma>B50?+B51?+B54?+B52?</ma>
+		<ten>F: SỐT RÉT </ten>
+	</Table>
+	<Table>
+		<stt>06</stt>
+		<nhom>G</nhom>
+		<ma>B34?</ma>
+		<ten>G: NHIỄM SIÊU VI</ten>
+	</Table>
+	<Table>
+		<stt>07</stt>
+		<nhom>H</nhom>
+		<ma>J?</ma>
+		<ten>H: BỆNH ĐƯỜNG HÔ HẤP</ten>
+	</Table>
+	<Table>
+		<stt>08</stt>
+		<nhom>I</nhom>
+		<ma>B26?</ma>
+		<ten>I: QUAI BỊ</ten>
+	</Table>
+	<Table>
+		<stt>09</stt>
+		<nhom>J</nhom>
+		<ma>A36?</ma>
+		<ten>J: BẠCH CẦU</ten>
+	</Table>
+	<Table>
+		<stt>10</stt>
+		<nhom>K</nhom>
+		<ma>A37?</ma>
+		<ten>K: HO GÀ</ten>
+	</Table>
+	<Table>
+		<stt>11</stt>
+		<nhom>L</nhom>
+		<ma>B01?</ma>
+		<ten>L: THỦY ĐẬU</ten>
+	</Table>
+	<Table>
+		<stt>12</stt>
+		<nhom>M</nhom>
+		<ma>-</ma>
+		<ten>M: CÁC BỆNH KHÁC</ten>
+	</Table>
+</NewDataSet>

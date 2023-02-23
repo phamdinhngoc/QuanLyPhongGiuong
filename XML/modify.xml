@@ -1,0 +1,267 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="sql" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+	
+<Table>
+    <sql>alter table   pay_pg_comment modify (  ALL_RIGHT  NVARCHAR2(2000)  )</sql>
+  </Table>
+
+  <Table>
+    <sql>alter table   pay_heso add  (mbhtn_hs    number (10) DEFAULT 0 ,mtietkiem_hs number (10) DEFAULT 0, mkngay_hs number (10) DEFAULT 0, mkbuoi_hs number (10) DEFAULT 0)</sql>
+  </Table>
+  
+<Table> 
+	<sql>alter table pay_bcc add(  t_bhtn numeric(10) DEFAULT  0,  t_tk numeric(10) DEFAULT 0,  l_khoan numeric(10) DEFAULT 0,  k_buoi numeric(10) DEFAULT 0,  k_ngay numeric(10) DEFAULT 0,  hs_vk numeric(5) DEFAULT 0,  congtacphi numeric DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_nn add(  nghi_nn numeric(5) DEFAULT 0,  nghi_bu numeric(10) DEFAULT 0,  nghi_kt numeric(10) DEFAULT 0,  nghi_sc numeric(10) DEFAULT 0,  nghi_khac numeric(10) DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_nv add(bhtn numeric(1) DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_pc add( madv1 VARCHAR2(3 BYTE),  thuchien numeric(1) DEFAULT 0,  l_giupviec numeric DEFAULT 0,  l_dungcu numeric DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>CREATE TABLE pay_thunhap  (MANV VARCHAR2(5 BYTE),  MMYY VARCHAR2(4 BYTE), madv VARCHAR2(3 BYTE), t_luong numeric DEFAULT 0, t_pcvuotkhung numeric DEFAULT 0,  t_pcchucvu VARCHAR2(6 BYTE),  t_pctrachnhiem numeric DEFAULT 0, t_pclaynhiem numeric DEFAULT 0,   t_pcudnghe numeric DEFAULT 0,  t_pcbdhv numeric DEFAULT 0,  t_ngoaigio numeric DEFAULT 0,t_pctrucchuyenmon numeric DEFAULT 0, t_pcabc numeric DEFAULT 0,  t_pcphauthuat numeric DEFAULT 0, t_trunghi numeric DEFAULT 0, t_bhxh numeric DEFAULT 0, t_bhyt numeric DEFAULT 0,  t_bhtn numeric DEFAULT 0,  ghichu NVARCHAR2(2000),  done numeric DEFAULT 0, edit numeric DEFAULT 0,  t_thkhac numeric DEFAULT 0,  NGAYUD DATE DEFAULT sysdate, CONSTRAINT pk_thunhap  PRIMARY KEY (manv,mmyy))</sql>
+</Table>
+<Table> 
+	<sql>alter table   hum_hopdong add  (congtacphi  number (10) DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_nv_1109 rename column lmacd to macd</sql>
+</Table>
+<Table> 
+	<sql>alter  table   pay_bcc add  (hs_htcn    number (10,4) DEFAULT 1 )</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_bcc  modify hs_htcn number(10,4) default 1</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_heso add(  tongquyluong number DEFAULT  0)</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_bophan add(  sothutu number DEFAULT  0)</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_dmcd add(   tenvt NVARCHAR2(2000))</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_dmcv add(   tenvt NVARCHAR2(2000))</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_nn add(  nghi_khhgd numeric(5) DEFAULT 0,  nghi_ho numeric(10) DEFAULT 0,  nghi_ct numeric(10) DEFAULT 0,  nghi_ad numeric(10) DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_giacanh add( ghichu NVARCHAR2(2000) )</sql>
+</Table>
+<Table> 
+	<sql>alter table   pay_bcc add  (hs_capbac    number  DEFAULT 0 ,hs_chucvu   number DEFAULT 0,hs_kiemnhiem number  DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter  table   pay_bcc add  (hs_httt   number (10,4) DEFAULT 1 )</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_heso add(  tongluongkhoan number DEFAULT  0)</sql>
+</Table>
+<Table> 
+	<sql>CREATE TABLE hum_chamcongtruc (  manv varchar2(5) ,  madv varchar2(3) ,  mmyy varchar2(4) ,  n1 varchar2(2),  n2 varchar2(2),  n3 varchar2(2),  n4 varchar2(2),  n5 varchar2(2),  n6 varchar2(2),  n7 varchar2(2),  n8 varchar2(2),  n9 varchar2(2),  n10 varchar2(2),  n11 varchar2(2),  n12 varchar2(2),  n13 varchar2(2),  n14 varchar2(2),  n15 varchar2(2),  n16 varchar2(2),  n17 varchar2(2),  n18 varchar2(2),  n19 varchar2(2),  n20 varchar2(2),  n21 varchar2(2),  n22 varchar2(2),  n23 varchar2(2),  n24 varchar2(2),  n25 varchar2(2),  n26 varchar2(2),  n27 varchar2(2),  n28 varchar2(2),  n29 varchar2(2),  n30 varchar2(2),  n31 varchar2(2),  ngayud date default sysdate,  CONSTRAINT hum_pk_chamcongtruc PRIMARY KEY (manv, mmyy)) </sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap_0210 add(  t_an numeric DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap add(  t_an numeric DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap_0210 add(  ngaycong_tt  numeric DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap add(  ngaycong_tt  numeric DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_bcc_0210 add(    luongtamung number DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_bcc add(    luongtamung number DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap add(    luongnscl number DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap add(   t_pcdochai number DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap add(    luongnscl number DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap add(   t_pcdochai number DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table   pay_thunhap modify   (   t_pcchucvu  NUMBER default 0  )</sql>
+</Table>
+<Table> 
+	<sql>alter table   hum_error modify   (   message  NVARCHAR2(2000),tenfile NVARCHAR2(2000),lenh NVARCHAR2(2000)  )</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_llnv add(  ip numeric(15)   )</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_llnv add ( msthue  NVARCHAR2(20)  )</sql>
+</Table>
+<Table> 
+	<sql>create table pay_ccnghi(manv varchar(5),ngay date default sysdate,maca varchar(2),lydo NVARCHAR2(2000),mmyy varchar(4),ngay_ud DATE DEFAULT sysdate,constraint ccnghi_pkey primary key (manv,ngay,maca))</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_chamcong add (maca Varchar(2))</sql>
+</Table>
+<Table> 
+	<sql>alter table   hum_chamcong modify   (  maca Varchar(2) default 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_bophan add (sogiuong number(10) default 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_dmcv add ( lanhdao number(1) default 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table  hum_ctdaotao add  (tenvt  NVARCHAR2(200)) </sql>
+</Table>
+<Table> 
+	<sql>ALTER TABLE hum_bangcap ADD ( heso numeric(5,2) DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter  table   hum_hopdong add  (songuoipt   number  DEFAULT 0) </sql>
+</Table>
+<Table> 
+	<sql>CREATE TABLE hum_khenthuong (  manv VARCHAR2 (5 BYTE) ,  nam numeric(10) DEFAULT 0,  madv varchar(3),  maloai varchar(2),  daunam numeric(1) DEFAULT 0,  cuoinam numeric(1) DEFAULT 0,  canam numeric(1) DEFAULT 0,  so_kt numeric(1) DEFAULT 0,  cs_kt numeric(1) DEFAULT 0,  ub_kt numeric(1) DEFAULT 0,  ghichu NVARCHAR2(2000),  ngayud DATE DEFAULT sysdate,  giaykhen numeric(1) DEFAULT 0,  bangkhen numeric(1) DEFAULT 0,  CONSTRAINT khenthuong_pkey PRIMARY KEY (manv, nam)) </sql>
+</Table>
+<Table> 
+	<sql>CREATE TABLE hum_khenthuong_dv (  madv varchar2(3),  nam numeric(10)  DEFAULT 0,  so_kt numeric(1) DEFAULT 0,  cs_kt numeric(1) DEFAULT 0,  ub_kt numeric(1) DEFAULT 0,  ghichu NVARCHAR2(2000),  ngayud DATE DEFAULT sysdate,  CONSTRAINT khenthuong_dv_pkey PRIMARY KEY (madv, nam)) </sql>
+</Table>
+<Table> 
+	<sql>CREATE TABLE hum_loaikt (  nam numeric DEFAULT 0,  sotien_nam numeric(10) DEFAULT 0,  sotien_dnam numeric(10) DEFAULT 0,  sotien_cnam numeric(10) DEFAULT 0,  ghichu NVARCHAR2(2000),  ngayud DATE DEFAULT sysdate,  CONSTRAINT loaikt_pkey PRIMARY KEY (nam))</sql>
+</Table>
+<Table> 
+	<sql>CREATE TABLE hum_xuatthan (  thanhphan NVARCHAR2(2000), ngayud DATE DEFAULT sysdate) </sql>
+</Table>
+<Table> 
+	<sql>alter table hum_dmnhomctdt add( mabc VARCHAR2(3 BYTE))</sql>
+</Table>
+<Table> 
+	<sql>update hum_dmnhomctdt set mabc = manhom</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap add (HS_quydoi number  DEFAULT 0 )</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap add(   t_dangphi number DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap add(   t_thuetn number DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table pay_thunhap add(ml_heso number  DEFAULT 0 )</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_bophan add(MA_BIEU01  NUMBER(4,0) DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_llnv add(namtn_cm  DATE )</sql>
+</Table>
+<Table> 
+	<sql>CREATE TABLE PAY_TITLE_CT (ID NUMBER(6,0), MADV NVARCHAR2(8), TITLE_VN NVARCHAR2(254),TITLE NVARCHAR2(254), ADDERSS_VN NVARCHAR2(254), ADDERSS NVARCHAR2(254), SHTK NVARCHAR2(25), NLB NVARCHAR2(40),KTT NVARCHAR2(40),  TGD NVARCHAR2(40), CQQL NVARCHAR2(40),TELE NVARCHAR2(40),	FAX NVARCHAR2(10),SDKT NVARCHAR2(40), MATHUE NVARCHAR2(40),NHTK NVARCHAR2(40), SHTK_VN NVARCHAR2(40),LOGO BLOB, NGAYUD DATE DEFAULT sysdate  )</sql>
+</Table>
+
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW HUM_GCANH_CHA ("MANV", "MADT", "HTENDTG", "NAMSINH", "QUEQUAN", "NGHENGHIEP", "TENDT") AS   SELECT hum_giacanh.manv, hum_giacanh.madt, hum_giacanh.htendtg, hum_giacanh.namsinh, hum_giacanh.quequan,hum_giacanh.nghenghiep, hum_doituong.tendt FROM hum_giacanh JOIN hum_doituong ON hum_giacanh.madt = hum_doituong.madt WHERE hum_giacanh.madt = '05' ORDER BY hum_giacanh.manv, hum_giacanh.madt </sql>
+</Table>
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW  HUM_GCANH_ME ("MANV", "MADT", "HTENDTG", "NAMSINH", "QUEQUAN", "NGHENGHIEP", "TENDT") AS   SELECT hum_giacanh.manv, hum_giacanh.madt, hum_giacanh.htendtg, hum_giacanh.namsinh, hum_giacanh.quequan,hum_giacanh.nghenghiep, hum_doituong.tendt FROM hum_giacanh JOIN hum_doituong ON hum_giacanh.madt = hum_doituong.madt WHERE hum_giacanh.madt = '06' ORDER BY hum_giacanh.manv, hum_giacanh.madt</sql>
+</Table>
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW HUM_GCANH_VOCHONG ("MANV", "MADT", "HTENDTG", "NAMSINH", "QUEQUAN", "NGHENGHIEP", "TENDT") AS   SELECT hum_giacanh.manv, hum_giacanh.madt, hum_giacanh.htendtg, hum_giacanh.namsinh, hum_giacanh.quequan,hum_giacanh.nghenghiep, hum_doituong.tendt FROM hum_giacanh JOIN hum_doituong ON hum_giacanh.madt = hum_doituong.madt WHERE hum_giacanh.madt = '07' ORDER BY hum_giacanh.manv, hum_giacanh.madt</sql>
+</Table>
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW HUM_NGOAINGU_1 ("MANN", "TENNN") AS SELECT hum_ngoaingu.mann, hum_ngoaingu.tennn FROM hum_ngoaingu</sql>
+</Table>
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW HUM_NGOAINGU_2 ("MANN", "TENNN") AS    SELECT hum_ngoaingu.mann, hum_ngoaingu.tennn FROM hum_ngoaingu</sql>
+</Table>
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW HUM_NGOAINGU_3 ("MANN", "TENNN") AS   SELECT hum_ngoaingu.mann, hum_ngoaingu.tennn FROM hum_ngoaingu</sql>
+</Table>
+<Table> 
+	<sql> CREATE OR REPLACE FORCE VIEW HUM_NGOAINGU_4 ("MANN", "TENNN") AS   SELECT hum_ngoaingu.mann, hum_ngoaingu.tennn FROM hum_ngoaingu</sql>
+</Table>
+<Table> 
+	<sql> CREATE OR REPLACE FORCE VIEW  HUM_TDNN1 ("MA", "TEN", "HUM_NGOAINGU", "TINHOC") AS   SELECT hum_tdnnth.ma, hum_tdnnth.ten, hum_tdnnth.ngoaingu, hum_tdnnth.tinhoc FROM hum_tdnnth WHERE hum_tdnnth.ngoaingu = 1 ORDER BY hum_tdnnth.ma</sql>
+</Table>
+
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW HUM_TDNN2 ("MA", "TEN", "HUM_NGOAINGU", "TINHOC") AS   SELECT hum_tdnnth.ma, hum_tdnnth.ten, hum_tdnnth.ngoaingu, hum_tdnnth.tinhoc FROM hum_tdnnth WHERE hum_tdnnth.ngoaingu = 1 ORDER BY hum_tdnnth.ma</sql>
+</Table>
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW HUM_TDNN3 ("MA", "TEN", "NGOAINGU", "TINHOC") AS   SELECT hum_tdnnth.ma, hum_tdnnth.ten, hum_tdnnth.ngoaingu, hum_tdnnth.tinhoc FROM hum_tdnnth WHERE hum_tdnnth.ngoaingu = 1 ORDER BY hum_tdnnth.ma</sql>
+</Table>
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW HUM_V_LLNV_DAOTAO ("MANV", "MAHV", "TENCTDT", "DOT_TT", "SOHD", "HOCPHI", "NGAYHP", "THANG", "TUNGAY", "DENNGAY", "GHICHU") AS   SELECT hum_hphi.manv, hum_hphi.mahv, hum_ctdaotao.tenctdt, hum_hphi.dot_tt, hum_hphi.sohd, hum_hphi.hocphi, hum_hphi.ngayhp, hum_hphi.thang, hum_hphi.tungay, hum_hphi.denngay, hum_hphi.ghichu FROM hum_hphi JOIN hum_ctdaotao ON hum_hphi.mahv = hum_ctdaotao.mactdt</sql>
+</Table>
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW HUM_V_QTDAOTAO ("MANV", "MAHV", "TENCTDT", "MABANGCAP", "TENBANG", "HEHOCVAN", "TENHE", "THANG", "TUNGAY", "DENNGAY", "GHICHU") AS    SELECT q.manv, q.mahv, c.tenctdt, q.mabangcap, b.tenbang, q.hehocvan, d.tenhe, q.thang, q.tungay, q.denngay, q.ghichu FROM hum_qtdaotao q JOIN hum_bangcap b ON q.mabangcap = b.mabangcap JOIN hum_ctdaotao c ON q.mahv = c.mactdt LEFT JOIN hum_hedaotao d ON q.hehocvan = d.mahe</sql>
+</Table>
+
+<Table> 
+	<sql>CREATE OR REPLACE FORCE VIEW  HUM_V_TINHBHYT ("MANV", "TENTT") AS    SELECT L.MANV,TT.TENTT  FROM HUM_THEBHYT YT LEFT JOIN BTDTT TT  ON YT.CAPTAI=TT.MATT LEFT JOIN HUM_LLNV L ON YT.MANV=L.MANV</sql>
+</Table>
+<Table> 
+	<sql>drop index HUM_PK_MANGACH</sql>
+</Table>
+<Table> 
+	<sql>ALTER TABLE hum_mangach drop CONSTRAINT HUM_PK_MANGACH</sql>
+</Table>
+<Table> 
+	<sql>ALTER TABLE hum_mangach ADD CONSTRAINT HUM_PK_MANGACH PRIMARY KEY (MA,Ma1)</sql>
+</Table>
+<Table> 
+	<sql>alter table hum_suckhoe add(  thuongtat numeric(1) DEFAULT 0, thuydau numeric(1) DEFAULT 0 , viemgan numeric(1) DEFAULT 0, uonvan numeric(1) DEFAULT 0)</sql>
+</Table>
+<Table> 
+	<sql>alter  table   pay_heso add  (hs_cv1    number (10,4) DEFAULT 1.05,  hs_cv2    number (10,4) DEFAULT 1, hs_cv3    number (10,4) DEFAULT 0.9, hs_cv4    number (10,4) DEFAULT 0.75)</sql>
+</Table>
+<Table> 
+	<sql>alter table   pay_heso  modify   (  hs_cv3    number (10,4) DEFAULT 0.9 )</sql>
+</Table>
+<Table> 
+	<sql>alter table   hum_hphi  modify (  dot_tt  NVARCHAR2(2000) , sohd  NVARCHAR2(2000)  )</sql>
+</Table>
+<Table> 
+	<sql>alter  table   hum_hopdong add  (solilich numeric(10) DEFAULT 0)</sql>
+</Table>
+
+
+
+
+
+
+
+
+
+
+
+
+</NewDataSet>

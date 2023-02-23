@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="LABLE" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TO_CHAR_x0028_SOTHUTU_x0029_" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="MACV" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="DIENGIAI" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TAPTHE" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="CANHAN" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <table>
+    <LABLE>I/ - TẬP THỂ :</LABLE>
+    <TO_CHAR_x0028_SOTHUTU_x0029_>1</TO_CHAR_x0028_SOTHUTU_x0029_>
+    <HOTEN>Khoa Chuẩn đoán hình ảnh</HOTEN>
+  </table>
+  <table>
+    <LABLE>I/ - TẬP THỂ :</LABLE>
+    <TO_CHAR_x0028_SOTHUTU_x0029_>3</TO_CHAR_x0028_SOTHUTU_x0029_>
+    <HOTEN>Da Liễu</HOTEN>
+  </table>
+  <table>
+    <LABLE>II/ - CÁ NHÂN</LABLE>
+    <TO_CHAR_x0028_SOTHUTU_x0029_>13</TO_CHAR_x0028_SOTHUTU_x0029_>
+    <HOTEN>Nguyễn Thị Kim Trang</HOTEN>
+    <MACV>008</MACV>
+    <DIENGIAI>Nhân viên</DIENGIAI>
+  </table>
+  <table1>
+    <TAPTHE>2</TAPTHE>
+    <CANHAN>1</CANHAN>
+  </table1>
+  <table1>
+    <TAPTHE>0</TAPTHE>
+    <CANHAN>1</CANHAN>
+  </table1>
+</NewDataSet>

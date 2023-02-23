@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CHKDOCMAVACH" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKNAPLAIDSCHO" type="xs:string" minOccurs="0" />
+                <xs:element name="FONTSIZE" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKXEMTRUOCKHIIN" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTPATHTHUMUC" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTPATHPHIM" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTLOCAL_KHOA" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTLOCAL_PHONG" type="xs:string" minOccurs="0" />
+                <xs:element name="TXTLOCAL_SODIENTHOAI" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONG_LOADLANCLS" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONG_LOADLANCLS_KHILUU" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONGIN" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKIN_MOI" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKDCMT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKHIENVIETTAT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKSETFONT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKUSEVIETTAT" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKSETFONTKHAIBAO" type="xs:string" minOccurs="0" />
+                <xs:element name="MNBENHNHANHEN" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKTUDONGKETNOITHIETBI" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKXUATLCD" type="xs:string" minOccurs="0" />
+                <xs:element name="RADLCD_ALL" type="xs:string" minOccurs="0" />
+                <xs:element name="RADLCD_CHONDANHSACH" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKKHONGRESETNGAY" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKKHONGCHONHINHCHUP" type="xs:string" minOccurs="0" />
+                <xs:element name="CHKXUATBANGDIENTRIVIET" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <CHKDOCMAVACH>1</CHKDOCMAVACH>
+    <CHKNAPLAIDSCHO>0</CHKNAPLAIDSCHO>
+    <FONTSIZE>12</FONTSIZE>
+    <CHKXEMTRUOCKHIIN>1</CHKXEMTRUOCKHIIN>
+    <TXTPATHTHUMUC>..\..\..\Image</TXTPATHTHUMUC>
+    <TXTPATHPHIM />
+    <TXTLOCAL_KHOA />
+    <TXTLOCAL_PHONG />
+    <TXTLOCAL_SODIENTHOAI />
+    <CHKTUDONG_LOADLANCLS>0</CHKTUDONG_LOADLANCLS>
+    <CHKTUDONG_LOADLANCLS_KHILUU>0</CHKTUDONG_LOADLANCLS_KHILUU>
+    <CHKTUDONGIN>1</CHKTUDONGIN>
+    <CHKIN_MOI>0</CHKIN_MOI>
+    <CHKDCMT>0</CHKDCMT>
+    <CHKHIENVIETTAT>1</CHKHIENVIETTAT>
+    <CHKSETFONT>0</CHKSETFONT>
+    <CHKUSEVIETTAT>0</CHKUSEVIETTAT>
+    <CHKSETFONTKHAIBAO>1</CHKSETFONTKHAIBAO>
+    <MNBENHNHANHEN>0</MNBENHNHANHEN>
+    <CHKTUDONGKETNOITHIETBI>0</CHKTUDONGKETNOITHIETBI>
+    <CHKXUATLCD>0</CHKXUATLCD>
+    <RADLCD_ALL>1</RADLCD_ALL>
+    <RADLCD_CHONDANHSACH>0</RADLCD_CHONDANHSACH>
+    <CHKKHONGRESETNGAY>0</CHKKHONGRESETNGAY>
+    <CHKKHONGCHONHINHCHUP>0</CHKKHONGCHONHINHCHUP>
+    <CHKXUATBANGDIENTRIVIET>0</CHKXUATBANGDIENTRIVIET>
+  </Table>
+</NewDataSet>

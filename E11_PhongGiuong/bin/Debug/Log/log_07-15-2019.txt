@@ -1,0 +1,5 @@
+16:03:26 822 : FilterLocal:DataGridViewGme => FilterLocal: Cannot find column [idgiavp].
+16:03:28 484 : FilterLocal:DataGridViewGme => FilterLocal: Cannot find column [idgiavp].
+16:05:07 553 : FilterLocal:DataGridViewGme => FilterLocal: Cannot find column [gia].
+16:11:34 627 : FilterLocal:DataGridViewGme => FilterLocal: Cannot find column [doituong].
+16:11:36 500 : FilterLocal:DataGridViewGme => FilterLocal: Cannot find column [doituong].

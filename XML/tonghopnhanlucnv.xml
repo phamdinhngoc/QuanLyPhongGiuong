@@ -1,0 +1,237 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="LABLE" msprop:OraDbType="104" type="xs:string" minOccurs="0" />
+                <xs:element name="MACD" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="TENCD" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TONGSO" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="TONGNVNU" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NVBC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NVNUBC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NVHDTBC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NVNUHDTBC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NVHDNBC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NVNUHDNBC" msprop:OraDbType="107" type="xs:decimal" minOccurs="0" />
+                <xs:element name="NGAYHT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="THANGHT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMHT" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>02</MACD>
+    <TENCD>Bác Sĩ</TENCD>
+    <TONGSO>11</TONGSO>
+    <TONGNVNU>2</TONGNVNU>
+    <NVBC>11</NVBC>
+    <NVNUBC>2</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>0</NVHDNBC>
+    <NVNUHDNBC>0</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>40</MACD>
+    <TENCD>Bác Sỹ CKI</TENCD>
+    <TONGSO>1</TONGSO>
+    <TONGNVNU>1</TONGNVNU>
+    <NVBC>1</NVBC>
+    <NVNUBC>1</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>0</NVHDNBC>
+    <NVNUHDNBC>0</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>51</MACD>
+    <TENCD>Cao Đẳng</TENCD>
+    <TONGSO>1</TONGSO>
+    <TONGNVNU>0</TONGNVNU>
+    <NVBC>0</NVBC>
+    <NVNUBC>0</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>1</NVHDNBC>
+    <NVNUHDNBC>0</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>46</MACD>
+    <TENCD>Cao Đẳng Điện</TENCD>
+    <TONGSO>17</TONGSO>
+    <TONGNVNU>10</TONGNVNU>
+    <NVBC>15</NVBC>
+    <NVNUBC>9</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>2</NVHDNBC>
+    <NVNUHDNBC>1</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>29</MACD>
+    <TENCD>Kế Toán Viên Trung Cấp</TENCD>
+    <TONGSO>1</TONGSO>
+    <TONGNVNU>0</TONGNVNU>
+    <NVBC>0</NVBC>
+    <NVNUBC>0</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>1</NVHDNBC>
+    <NVNUHDNBC>0</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>31</MACD>
+    <TENCD>Kỹ Sư</TENCD>
+    <TONGSO>1</TONGSO>
+    <TONGNVNU>0</TONGNVNU>
+    <NVBC>0</NVBC>
+    <NVNUBC>0</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>1</NVHDNBC>
+    <NVNUHDNBC>0</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>53</MACD>
+    <TENCD>Sau Đại Học</TENCD>
+    <TONGSO>1</TONGSO>
+    <TONGNVNU>0</TONGNVNU>
+    <NVBC>0</NVBC>
+    <NVNUBC>0</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>1</NVHDNBC>
+    <NVNUHDNBC>0</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>03</MACD>
+    <TENCD>Điều Dưỡng</TENCD>
+    <TONGSO>4</TONGSO>
+    <TONGNVNU>4</TONGNVNU>
+    <NVBC>2</NVBC>
+    <NVNUBC>2</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>2</NVHDNBC>
+    <NVNUHDNBC>2</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>04</MACD>
+    <TENCD>Điều Dưỡng Cao Đẳng</TENCD>
+    <TONGSO>11</TONGSO>
+    <TONGNVNU>10</TONGNVNU>
+    <NVBC>9</NVBC>
+    <NVNUBC>8</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>2</NVHDNBC>
+    <NVNUHDNBC>2</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>11</MACD>
+    <TENCD>Điều Dưỡng Sơ Cấp</TENCD>
+    <TONGSO>1</TONGSO>
+    <TONGNVNU>1</TONGNVNU>
+    <NVBC>1</NVBC>
+    <NVNUBC>1</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>0</NVHDNBC>
+    <NVNUHDNBC>0</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>05</MACD>
+    <TENCD>Điều Dưỡng Trung Cấp</TENCD>
+    <TONGSO>3</TONGSO>
+    <TONGNVNU>3</TONGNVNU>
+    <NVBC>2</NVBC>
+    <NVNUBC>2</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>1</NVHDNBC>
+    <NVNUHDNBC>1</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <MACD>50</MACD>
+    <TENCD>Đại Học</TENCD>
+    <TONGSO>6</TONGSO>
+    <TONGNVNU>0</TONGNVNU>
+    <NVBC>3</NVBC>
+    <NVNUBC>0</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>3</NVHDNBC>
+    <NVNUHDNBC>0</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+  <Table>
+    <LABLE xml:space="preserve"> </LABLE>
+    <TONGSO>818</TONGSO>
+    <TONGNVNU>577</TONGNVNU>
+    <NVBC>597</NVBC>
+    <NVNUBC>431</NVNUBC>
+    <NVHDTBC>0</NVHDTBC>
+    <NVNUHDTBC>0</NVNUHDTBC>
+    <NVHDNBC>220</NVHDNBC>
+    <NVNUHDNBC>146</NVNUHDNBC>
+    <NGAYHT>07</NGAYHT>
+    <THANGHT>04</THANGHT>
+    <NAMHT>2015</NAMHT>
+  </Table>
+</NewDataSet>

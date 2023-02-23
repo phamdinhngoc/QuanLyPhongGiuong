@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="BHXH">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="id" type="xs:int" minOccurs="0" />
+                <xs:element name="stt" type="xs:int" minOccurs="0" />
+                <xs:element name="cot" type="xs:string" minOccurs="0" />
+                <xs:element name="noidung" type="xs:string" minOccurs="0" />
+                <xs:element name="ma" type="xs:string" minOccurs="0" />
+                <xs:element name="doituong" type="xs:int" minOccurs="0" />
+                <xs:element name="readonly" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BHXH>
+    <id>1</id>
+    <stt>1</stt>
+    <cot>C01</cot>
+    <noidung>TS Nam</noidung>
+    <ma>0</ma>
+    <doituong>-1</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>2</id>
+    <stt>2</stt>
+    <cot>C02</cot>
+    <noidung>TS Nữ</noidung>
+    <ma>1</ma>
+    <doituong>-1</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>3</id>
+    <stt>3</stt>
+    <cot>C03</cot>
+    <noidung>Từ 0-4 tuổi</noidung>
+    <ma>0-4</ma>
+    <doituong>0</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>4</id>
+    <stt>4</stt>
+    <cot>C04</cot>
+    <noidung>Từ 5-6 tuổi</noidung>
+    <ma>5-6</ma>
+    <doituong>0</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>5</id>
+    <stt>5</stt>
+    <cot>C05</cot>
+    <noidung>Từ 7-14 tuổi</noidung>
+    <ma>7-14</ma>
+    <doituong>0</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>6</id>
+    <stt>6</stt>
+    <cot>C06</cot>
+    <noidung>Từ 15-60 tuổi</noidung>
+    <ma>15-59</ma>
+    <doituong>0</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>7</id>
+    <stt>7</stt>
+    <cot>C07</cot>
+    <noidung>Trên 60 tuổi</noidung>
+    <ma>&gt;60</ma>
+    <doituong>0</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>8</id>
+    <stt>8</stt>
+    <cot>C08</cot>
+    <noidung>Viện phí</noidung>
+    <ma />
+    <doituong>2</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>9</id>
+    <stt>9</stt>
+    <cot>C09</cot>
+    <noidung>BHYT Bắt buộc</noidung>
+    <ma>BB</ma>
+    <doituong>1</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>10</id>
+    <stt>10</stt>
+    <cot>C10</cot>
+    <noidung>BHYT Tự nguyện</noidung>
+    <ma>TN</ma>
+    <doituong>1</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>11</id>
+    <stt>11</stt>
+    <cot>C11</cot>
+    <noidung>BHYT nghèo</noidung>
+    <ma>NG</ma>
+    <doituong>1</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>12</id>
+    <stt>12</stt>
+    <cot>C12</cot>
+    <noidung>TE 6 tuổi </noidung>
+    <ma></ma>
+    <doituong>6</doituong>
+    <readonly>1</readonly>
+  </BHXH>
+  <BHXH>
+    <id>13</id>
+    <stt>13</stt>
+    <cot>C13</cot>
+    <noidung>Miễn BGD Duyệt</noidung>
+    <ma />
+    <doituong>3</doituong>
+    <readonly>1</readonly>
+  </BHXH> 
+</NewDataSet>

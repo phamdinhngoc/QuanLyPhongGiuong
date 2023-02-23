@@ -1,0 +1,975 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="loai" type="xs:string" minOccurs="0" />
+                <xs:element name="tenloai" type="xs:string" minOccurs="0" />
+                <xs:element name="id" type="xs:string" minOccurs="0" />
+                <xs:element name="ten" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Nhân sự</tenloai>
+    <id>00001</id>
+    <ten>Nhân sự</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Hồ sơ nhân viên</tenloai>
+    <id>00010</id>
+    <ten>Hồ sơ nhân viên</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Chấm công</tenloai>
+    <id>00011</id>
+    <ten>Chấm công</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Chấm công ngoài giờ</tenloai>
+    <id>00012</id>
+    <ten>Chấm công ngoài giờ</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Danh sách bình bầu thi đưa khen thưởng</tenloai>
+    <id>00013</id>
+    <ten>Danh sách bình bầu thi đưa khen thưởng</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Quyết định, Công văn, Hợp đồng</tenloai>
+    <id>00015</id>
+    <ten>Quyết định, Công văn, Hợp đồng</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>1. Quyết Định Học Việc</tenloai>
+    <id>00151</id>
+    <ten>1. Quyết Định Học Việc</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>2. Thử việc</tenloai>
+    <id>00152</id>
+    <ten>2. Thử việc</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>3. Hợp đồng</tenloai>
+    <id>00153</id>
+    <ten>3. Hợp đồng</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>3.1 Hợp Đồng</tenloai>
+    <id>01531</id>
+    <ten>3.1 Hợp Đồng</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>3.2 Quyết định ký Hợp Đồng lao động trọn gói</tenloai>
+    <id>01532</id>
+    <ten>3.2 Quyết định ký Hợp Đồng lao động trọn gói</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>3.3 Quyết Định tiếp nhận và bổ nhiệm </tenloai>
+    <id>01533</id>
+    <ten>3.3 Quyết Định tiếp nhận và bổ nhiệm </ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>4. Điều động, bổ nhiệm</tenloai>
+    <id>00153</id>
+    <ten>4. Điều động, bổ nhiệm</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>4.1 Bổ nhiệm</tenloai>
+    <id>000-1</id>
+    <ten>4.1 Bổ nhiệm</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>4.2 Bổ nhiệm chính thức</tenloai>
+    <id>000-1</id>
+    <ten>4.2 Bổ nhiệm chính thức</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>4.3 Bổ nhiệm lại</tenloai>
+    <id>000-1</id>
+    <ten>4.3 Bổ nhiệm lại</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>4.4 Bổ nhiệm kéo dài</tenloai>
+    <id>000-1</id>
+    <ten>4.4 Bổ nhiệm kéo dài</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>4.5 Giao nhiệm vụ</tenloai>
+    <id>000-1</id>
+    <ten>4.5 Giao nhiệm vụ</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>4.6 Điều động và giao nhiệm vụ</tenloai>
+    <id>000-1</id>
+    <ten>4.6 Điều động và giao nhiệm vụ</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>4.7 Điều động</tenloai>
+    <id>000-1</id>
+    <ten>4.7 Điều động</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>4.8 Điều động và bổ nhiệm</tenloai>
+    <id>000-1</id>
+    <ten>4.8 Điều động và bổ nhiệm</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>4.9 Điều động tạm thời </tenloai>
+    <id>000-1</id>
+    <ten>4.9 Điều động tạm thời </ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>5. Quyết Định Bổ Nhiệm Ngạch và Xếp Lương</tenloai>
+    <id>00154</id>
+    <ten>5. Quyết Định Bổ Nhiệm Ngạch và Xếp Lương</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>5.1 Bổ nhiệm ngạch và xếp lương</tenloai>
+    <id>01541</id>
+    <ten>5.1 Bổ nhiệm ngạch và xếp lương</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>5.2 Nâng lương</tenloai>
+    <id>01542</id>
+    <ten>5.2 Nâng lương</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>5.3 Nâng lương trước thời hạn</tenloai>
+    <id>01543</id>
+    <ten>5.3 Nâng lương trước thời hạn</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>5.4 Nâng phụ cấp thâm niên, vượt khung</tenloai>
+    <id>01544</id>
+    <ten>5.4 Nâng phụ cấp thâm niên, vượt khung</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>5.5 Xếp lại ngạch lương</tenloai>
+    <id>01545</id>
+    <ten>5.5 Xếp lại ngạch lương</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6. Quyết định thôi việc</tenloai>
+    <id>00155</id>
+    <ten>6. Quyết định thôi việc</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.1 Buộc thôi việc</tenloai>
+    <id>01551</id>
+    <ten>6.1 Buộc thôi việc</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.2 Chấm dứt hợp đồng (KPC) </tenloai>
+    <id>01552</id>
+    <ten>6.2 Chấm dứt hợp đồng (KPC) </ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.3 Chấm dứt hợp đồng (PC)</tenloai>
+    <id>01553</id>
+    <ten>6.3 Chấm dứt hợp đồng (PC)</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.4 Chấm dứt hợp đồng trọn gói</tenloai>
+    <id>01554</id>
+    <ten>6.4 Chấm dứt hợp đồng trọn gói</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.5. Chấm dứt hợp đồng thử việc</tenloai>
+    <id>01555</id>
+    <ten>6.5. Chấm dứt hợp đồng thử việc</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.6 Quyết định cho thôi việc (KPC)</tenloai>
+    <id>01556</id>
+    <ten>6.6 Quyết định cho thôi việc (KPC)</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.7 Quyết định cho thôi việc (PC)</tenloai>
+    <id>01557</id>
+    <ten>6.7 Quyết định cho thôi việc (PC)</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.8 KL Chấm dứt HĐ KL (BT)</tenloai>
+    <id>01558</id>
+    <ten>6.8 KL Chấm dứt HĐ KL (BT)</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.9 Quyết Định Nghỉ Hưu</tenloai>
+    <id>01559</id>
+    <ten>6.9 Quyết Định Nghỉ Hưu</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.10 Quyết Định Nghỉ Hưu (trước tuổi)</tenloai>
+    <id>000-1</id>
+    <ten>6.10 Quyết Định Nghỉ Hưu (trước tuổi)</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.11 Cho thôi việc có BT</tenloai>
+    <id>000-1</id>
+    <ten>6.11 Cho thôi việc có BT</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>6.12 Cho thôi việc có BT (phụ cấp)</tenloai>
+    <id>000-1</id>
+    <ten>6.12 Cho thôi việc có BT (phụ cấp)</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>7. Quyết Định thôi giữ chức vụ</tenloai>
+    <id>00156</id>
+    <ten>7. Quyết Định thôi giữ chức vụ</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>8. Quyết Định chuyển công tác</tenloai>
+    <id>00157</id>
+    <ten>8. Quyết Định chuyển công tác</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>9. Quyết định đi học  </tenloai>
+    <id>00158</id>
+    <ten>9. Quyết định đi học  </ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>9.1 Đi học chuyên môn</tenloai>
+    <id>01581</id>
+    <ten>9.1 Đi học chuyên môn</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>9.2 Đi học tự túc</tenloai>
+    <id>01582</id>
+    <ten>9.2 Đi học tự túc</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>9.3 Đi học đại học</tenloai>
+    <id>01583</id>
+    <ten>9.3 Đi học đại học</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>9.4 Đi học sau đại học</tenloai>
+    <id>01584</id>
+    <ten>9.4 Đi học sau đại học</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>9.5 Đi học trung cấp</tenloai>
+    <id>01585</id>
+    <ten>9.5 Đi học trung cấp</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>10. Quyết Định Đi Nước Ngoài </tenloai>
+    <id>00159</id>
+    <ten>10. Quyết Định Đi Nước Ngoài </ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Công tác</tenloai>
+    <id>01591</id>
+    <ten>Công tác</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Cá nhân </tenloai>
+    <id>01592</id>
+    <ten>Cá nhân </ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>11. Quyết Định Nghỉ không lương </tenloai>
+    <id>00160</id>
+    <ten>11. Quyết Định Nghỉ không lương </ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>12. Quyết định thôi kiêm nhiệm </tenloai>
+    <id>00161</id>
+    <ten>12. Quyết định thôi kiêm nhiệm </ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Giấy Phép</tenloai>
+    <id>00016</id>
+    <ten>Giấy Phép</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Theo dõi chấm công</tenloai>
+    <id>00020</id>
+    <ten>Theo dõi chấm công</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Theo dõi ngày nghỉ cá nhân</tenloai>
+    <id>00026</id>
+    <ten>Theo dõi ngày nghỉ cá nhân</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Bảng tính lương </tenloai>
+    <id>00021</id>
+    <ten>Bảng tính lương </ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Bảng tính lương (tn)</tenloai>
+    <id>00022</id>
+    <ten>Bảng tính lương (tn)</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Chấm công PTTT</tenloai>
+    <id>00023</id>
+    <ten>Chấm công PTTT</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Đăng ký thi đua</tenloai>
+    <id>00024</id>
+    <ten>Đăng ký thi đua</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Thi đua</tenloai>
+    <id>00025</id>
+    <ten>Thi đua</ten>
+  </Table1>
+  <Table1>
+    <loai>00001</loai>
+    <tenloai>Bảng tính lương tăng thêm(ABC)</tenloai>
+    <id>000-1</id>
+    <ten>Bảng tính lương tăng thêm(ABC)</ten>
+  </Table1>
+  <Table1>
+    <loai>00002</loai>
+    <tenloai>Truy vấn</tenloai>
+    <id>00002</id>
+    <ten>Truy vấn</ten>
+  </Table1>
+  <Table1>
+    <loai>00002</loai>
+    <tenloai>Độ tuổi trung bình</tenloai>
+    <id>00020</id>
+    <ten>Độ tuổi trung bình</ten>
+  </Table1>
+  <Table1>
+    <loai>00002</loai>
+    <tenloai>Mức lương bình quân</tenloai>
+    <id>00021</id>
+    <ten>Mức lương bình quân</ten>
+  </Table1>
+  <Table1>
+    <loai>00002</loai>
+    <tenloai>Thống kê tình trạng gia đình</tenloai>
+    <id>00022</id>
+    <ten>Thống kê tình trạng gia đình</ten>
+  </Table1>
+  <Table1>
+    <loai>00002</loai>
+    <tenloai>Tình hình công việc</tenloai>
+    <id>00023</id>
+    <ten>Tình hình công việc</ten>
+  </Table1>
+  <Table1>
+    <loai>00002</loai>
+    <tenloai>Nghề nghiệp đào tạo</tenloai>
+    <id>00024</id>
+    <ten>Nghề nghiệp đào tạo</ten>
+  </Table1>
+  <Table1>
+    <loai>00002</loai>
+    <tenloai>Gia cảnh</tenloai>
+    <id>00025</id>
+    <ten>Gia cảnh</ten>
+  </Table1>
+  <Table1>
+    <loai>00002</loai>
+    <tenloai>Nước ngoài</tenloai>
+    <id>00026</id>
+    <ten>Nước ngoài</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo</tenloai>
+    <id>00003</id>
+    <ten>Báo cáo</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Lý lịch nhân viên</tenloai>
+    <id>00030</id>
+    <ten>Lý lịch nhân viên</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Sơ yếu lý lịch</tenloai>
+    <id>00300</id>
+    <ten>Sơ yếu lý lịch</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>In lý lịch trích ngang</tenloai>
+    <id>00301</id>
+    <ten>In lý lịch trích ngang</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>In lý lịch, quá trình đào tạo, gia cảnh</tenloai>
+    <id>00302</id>
+    <ten>In lý lịch, quá trình đào tạo, gia cảnh</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách trích ngang của cán bộ công chức</tenloai>
+    <id>00303</id>
+    <ten>Danh sách trích ngang của cán bộ công chức</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách cán bộ đi nước ngoài</tenloai>
+    <id>00304</id>
+    <ten>Danh sách cán bộ đi nước ngoài</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách đảng viên bệnh viện</tenloai>
+    <id>00305</id>
+    <ten>Danh sách đảng viên bệnh viện</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách công nhân viên</tenloai>
+    <id>00032</id>
+    <ten>Danh sách công nhân viên</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách con cán bộ công nhân viên</tenloai>
+    <id>00033</id>
+    <ten>Danh sách con cán bộ công nhân viên</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Quá trình công tác </tenloai>
+    <id>00034</id>
+    <ten>Quá trình công tác </ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách nhân viên mới nghỉ việc</tenloai>
+    <id>00035</id>
+    <ten>Danh sách nhân viên mới nghỉ việc</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo thống kê</tenloai>
+    <id>00036</id>
+    <ten>Báo cáo thống kê</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo thống kê tình hình nhân sự (mẫu 1)</tenloai>
+    <id>00360</id>
+    <ten>Báo cáo thống kê tình hình nhân sự (mẫu 1)</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo thống kê tình hình nhân sự (mẫu 2)</tenloai>
+    <id>00361</id>
+    <ten>Báo cáo thống kê tình hình nhân sự (mẫu 2)</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách biên chế và ngoài biên chế</tenloai>
+    <id>00362</id>
+    <ten>Danh sách biên chế và ngoài biên chế</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Tổng hợp nhân lực</tenloai>
+    <id>00363</id>
+    <ten>Tổng hợp nhân lực</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Tổng hợp lương điều chỉnh tăng thêm (BV Bạc Liêu)</tenloai>
+    <id>00364</id>
+    <ten>Tổng hợp lương điều chỉnh tăng thêm (BV Bạc Liêu)</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo kết quả nâng bậc lương cán bộ công chức</tenloai>
+    <id>00365</id>
+    <ten>Báo cáo kết quả nâng bậc lương cán bộ công chức</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo kết quả nâng vượt khung của cán bộ công chức</tenloai>
+    <id>00366</id>
+    <ten>Báo cáo kết quả nâng vượt khung của cán bộ công chức</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách cán bộ bệnh viện có mạt tới ngày . . . . . .(Quận 2)</tenloai>
+    <id>00367</id>
+    <ten>Danh sách cán bộ bệnh viện có mạt tới ngày . . . . . .(Quận 2)</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách cán bộ công chức và chức vụ lãnh đạo (Quận 2)</tenloai>
+    <id>00368</id>
+    <ten>Danh sách cán bộ công chức và chức vụ lãnh đạo (Quận 2)</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo chất lượng cán bộ công chức tại thời điểm</tenloai>
+    <id>00369</id>
+    <ten>Báo cáo chất lượng cán bộ công chức tại thời điểm</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Tổng hợp đánh giá cán bộ công chức cuối năm</tenloai>
+    <id>03611</id>
+    <ten>Tổng hợp đánh giá cán bộ công chức cuối năm</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo tăng giảm lao động theo từng tháng</tenloai>
+    <id>03612</id>
+    <ten>Báo cáo tăng giảm lao động theo từng tháng</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo lao động và thu nhập khu vực nhà nước</tenloai>
+    <id>03617</id>
+    <ten>Báo cáo lao động và thu nhập khu vực nhà nước</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo tình hình cán bộ, công chức viên chức(theo trình độ)</tenloai>
+    <id>03613</id>
+    <ten>Báo cáo tình hình cán bộ, công chức viên chức(theo trình độ)</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Thống kê tình hình nhân lực</tenloai>
+    <id>03614</id>
+    <ten>Thống kê tình hình nhân lực</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Tổng hợp nhân sự</tenloai>
+    <id>03615</id>
+    <ten>Tổng hợp nhân sự</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách CBNV (YHCT)</tenloai>
+    <id>03617</id>
+    <ten>Danh sách CBNV (YHCT)</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách đề nghị nâng vượt khung</tenloai>
+    <id>00040</id>
+    <ten>Danh sách đề nghị nâng vượt khung</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách CB -CNV đề nghị nâng lương</tenloai>
+    <id>00041</id>
+    <ten>Danh sách CB -CNV đề nghị nâng lương</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Đúng thời hạn</tenloai>
+    <id>00410</id>
+    <ten>Đúng thời hạn</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Trước thời hạn</tenloai>
+    <id>00411</id>
+    <ten>Trước thời hạn</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo Chấm Công</tenloai>
+    <id>00047</id>
+    <ten>Báo cáo Chấm Công</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Bảng chấm công</tenloai>
+    <id>00471</id>
+    <ten>Bảng chấm công</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo ngày phép trong năm</tenloai>
+    <id>00472</id>
+    <ten>Báo cáo ngày phép trong năm</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo khen thưởng</tenloai>
+    <id>00048</id>
+    <ten>Báo cáo khen thưởng</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách đạt lao động tiên tiến</tenloai>
+    <id>00482</id>
+    <ten>Danh sách đạt lao động tiên tiến</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách đề nghị tặng bằng khen</tenloai>
+    <id>00483</id>
+    <ten>Danh sách đề nghị tặng bằng khen</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách tiền thưỏng lao động tiên tiến</tenloai>
+    <id>00484</id>
+    <ten>Danh sách tiền thưỏng lao động tiên tiến</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách khen thưởng năm</tenloai>
+    <id>00485</id>
+    <ten>Danh sách khen thưởng năm</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách CBNV đạt loại ABC</tenloai>
+    <id>00486</id>
+    <ten>Danh sách CBNV đạt loại ABC</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh mục biểu mẫu TCCB</tenloai>
+    <id>00050</id>
+    <ten>Danh mục biểu mẫu TCCB</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Báo cáo truy lĩnh lương và phụ cấp đặc thù theo lương</tenloai>
+    <id>00501</id>
+    <ten>Báo cáo truy lĩnh lương và phụ cấp đặc thù theo lương</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách nghỉ dưỡng sức phục hồi sức khỏe</tenloai>
+    <id>00503</id>
+    <ten>Danh sách nghỉ dưỡng sức phục hồi sức khỏe</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Thống kê nhân lực toàn BV</tenloai>
+    <id>00505</id>
+    <ten>Thống kê nhân lực toàn BV</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Danh sách sinh nhật </tenloai>
+    <id>00051</id>
+    <ten>Danh sách sinh nhật </ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Bảng tính lương</tenloai>
+    <id>00053</id>
+    <ten>Bảng tính lương</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Bảng tính lương</tenloai>
+    <id>00531</id>
+    <ten>Bảng tính lương</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Bảng tính lương ngoài giờ </tenloai>
+    <id>00532</id>
+    <ten>Bảng tính lương ngoài giờ </ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Bảng tính lương thường trực</tenloai>
+    <id>00533</id>
+    <ten>Bảng tính lương thường trực</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Bảng tổng hợp lương ngoài giờ</tenloai>
+    <id>00534</id>
+    <ten>Bảng tổng hợp lương ngoài giờ</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Bảng tổng hợp luong trực</tenloai>
+    <id>00535</id>
+    <ten>Bảng tổng hợp luong trực</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Bảng lương tăng thêm</tenloai>
+    <id>00536</id>
+    <ten>Bảng lương tăng thêm</ten>
+  </Table1>
+  <Table1>
+    <loai>00003</loai>
+    <tenloai>Tổng hợp chấm công trực toàn BV</tenloai>
+    <id>00057</id>
+    <ten>Tổng hợp chấm công trực toàn BV</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Tiện ích</tenloai>
+    <id>000-1</id>
+    <ten>Tiện ích</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Danh mục</tenloai>
+    <id>00050</id>
+    <ten>Danh mục</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Bộ phận</tenloai>
+    <id>00501</id>
+    <ten>Bộ phận</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Chức vụ</tenloai>
+    <id>00502</id>
+    <ten>Chức vụ</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Học vấn</tenloai>
+    <id>00503</id>
+    <ten>Học vấn</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Ngoại ngữ</tenloai>
+    <id>00504</id>
+    <ten>Ngoại ngữ</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Chuyên môn(Ngành đào tạo)</tenloai>
+    <id>00505</id>
+    <ten>Chuyên môn(Ngành đào tạo)</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Bằng cấp</tenloai>
+    <id>00506</id>
+    <ten>Bằng cấp</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Nơi đăng ký khám chữa bệnh</tenloai>
+    <id>00507</id>
+    <ten>Nơi đăng ký khám chữa bệnh</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Lý do nghỉ việc</tenloai>
+    <id>00508</id>
+    <ten>Lý do nghỉ việc</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Dân tộc</tenloai>
+    <id>00509</id>
+    <ten>Dân tộc</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Hợp đồng</tenloai>
+    <id>00510</id>
+    <ten>Hợp đồng</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Trình độ</tenloai>
+    <id>00512</id>
+    <ten>Trình độ</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Tỉnh/Thành phố</tenloai>
+    <id>00513</id>
+    <ten>Tỉnh/Thành phố</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Quận/Huyện</tenloai>
+    <id>00514</id>
+    <ten>Quận/Huyện</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Xã/Phường</tenloai>
+    <id>00515</id>
+    <ten>Xã/Phường</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Ca làm việc</tenloai>
+    <id>00516</id>
+    <ten>Ca làm việc</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Danh mục ngân hàng</tenloai>
+    <id>00517</id>
+    <ten>Danh mục ngân hàng</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Danh mục chấm công</tenloai>
+    <id>00519</id>
+    <ten>Danh mục chấm công</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Tạo danh sách nhân viên  dự kiến làm ngoài giờ</tenloai>
+    <id>00051</id>
+    <ten>Tạo danh sách nhân viên  dự kiến làm ngoài giờ</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Mã ngạch công chức</tenloai>
+    <id>00053</id>
+    <ten>Mã ngạch công chức</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Tạo dữ liệu chấm công </tenloai>
+    <id>000-1</id>
+    <ten>Tạo dữ liệu chấm công </ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Phân quyền sử dụng</tenloai>
+    <id>00058</id>
+    <ten>Phân quyền sử dụng</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Khai báo thông số hệ thống</tenloai>
+    <id>00059</id>
+    <ten>Khai báo thông số hệ thống</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Sao lưu số liệu</tenloai>
+    <id>000-1</id>
+    <ten>Sao lưu số liệu</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Thay đổi lương tối thiểu</tenloai>
+    <id>00060</id>
+    <ten>Thay đổi lương tối thiểu</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Đổi mật khẩu</tenloai>
+    <id>00062</id>
+    <ten>Đổi mật khẩu</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Khai báo phụ cấp thường trực chuyên môn</tenloai>
+    <id>00065</id>
+    <ten>Khai báo phụ cấp thường trực chuyên môn</ten>
+  </Table1>
+  <Table1>
+    <loai>00005</loai>
+    <tenloai>Logout</tenloai>
+    <id>000-1</id>
+    <ten>Logout</ten>
+  </Table1>
+  <Table1>
+    <loai>00006</loai>
+    <tenloai>Hướng dẫn</tenloai>
+    <id>000-1</id>
+    <ten>Hướng dẫn</ten>
+  </Table1>
+  <Table1>
+    <loai>00006</loai>
+    <tenloai>1. About</tenloai>
+    <id>000-1</id>
+    <ten>1. About</ten>
+  </Table1>
+  <Table1>
+    <loai>00007</loai>
+    <tenloai>Kết thúc</tenloai>
+    <id>000-1</id>
+    <ten>Kết thúc</ten>
+  </Table1>
+</NewDataSet>

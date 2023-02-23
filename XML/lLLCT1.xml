@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table" msprop:BaseTable.3="HUM_QTDAOTAO" msprop:BaseTable.0="HUM_HEDAOTAO" msprop:BaseTable.1="HUM_CTDAOTAO" msprop:BaseTable.2="HUM_BANGCAP">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="HOTEN" msprop:OraDbType="119" type="xs:string" minOccurs="0" />
+                <xs:element name="TUNGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="DENNGAY" msprop:OraDbType="126" type="xs:string" minOccurs="0" />
+                <xs:element name="HINHTHUC" msprop:OraDbType="119" msprop:BaseColumn="TENHE" type="xs:string" minOccurs="0" />
+                <xs:element name="NGANHNHE" msprop:OraDbType="119" msprop:BaseColumn="TENCTDT" type="xs:string" minOccurs="0" />
+                <xs:element name="TRINHDO" msprop:OraDbType="119" msprop:BaseColumn="TENBANG" type="xs:string" minOccurs="0" />
+                <xs:element name="CHUNGCHI" msprop:OraDbType="119" msprop:BaseColumn="GHICHU" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMTN" msprop:OraDbType="126" msprop:BaseColumn="NAMTN" type="xs:string" minOccurs="0" />
+                <xs:element name="HANGTN" msprop:OraDbType="119" msprop:BaseColumn="HANGTN" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

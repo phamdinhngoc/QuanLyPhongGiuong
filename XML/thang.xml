@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ADSTHANG">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="thang" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ADSTHANG>
+    <thang>01</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>02</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>03</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>04</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>05</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>06</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>07</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>08</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>09</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>10</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>11</thang>
+  </ADSTHANG>
+  <ADSTHANG>
+    <thang>12</thang>
+  </ADSTHANG>
+</NewDataSet>
